@@ -2,6 +2,7 @@ import { entryById } from '../lib/data';
 import { href } from '../lib/router';
 import { useSaved } from '../lib/storage';
 import { TopBar, EntryRow } from '../components/parts';
+import * as I from '../components/icons';
 
 export function Saved() {
   const saved = useSaved()
@@ -21,7 +22,8 @@ export function Saved() {
             ))}
           </ul>
         ) : (
-          <p class="empty">
+          <p class="empty empty-state">
+            <I.Candle size={40} />
             Nothing saved yet. Tap <strong>Save</strong> on any response to keep it here, ready for the next time the thought comes back.
           </p>
         )}

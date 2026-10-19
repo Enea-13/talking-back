@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'preact/hooks';
-import { thoughts, entriesFor, entryById } from '../lib/data';
+import { thoughts, entryById, roman } from '../lib/data';
 import { search } from '../lib/search';
 import { isCrisis, HOPE_IDS } from '../lib/care';
 import { href, replace } from '../lib/router';
@@ -24,18 +24,14 @@ export function Home({ initialQuery }: { initialQuery: string }) {
 
   return (
     <>
-      <TopBar hero />
-      <section class="hero">
-        <div class="hero-inner">
-          <label class="prompt" for="q">
-            What is the thought telling you?
-          </label>
-          <p class="hero-sub">Name it, and answer it with Scripture.</p>
-          <SearchBox id="q" label="What is the thought telling you?" placeholder="e.g. “just this once”" value={q} onChange={update} />
-        </div>
-      </section>
-
+      <TopBar />
       <main class="page home">
+        <label class="prompt" for="q">
+          What is the thought <em>telling you?</em>
+        </label>
+        <p class="sub">Name it, and answer it with Scripture.</p>
+        <SearchBox id="q" label="What is the thought telling you?" placeholder="e.g. “just this once”" value={q} onChange={update} />
+
         <div class="chips" role="group" aria-label="Or pick a feeling">
           {FEELINGS.map((f) => (
             <button class={`chip${query === f ? ' on' : ''}`} aria-pressed={query === f} onClick={() => update(query === f ? '' : f)}>
@@ -68,21 +64,27 @@ export function Home({ initialQuery }: { initialQuery: string }) {
 
         {!query || !results.length ? (
           <section>
-            <h2 class="section-label">The eight thoughts</h2>
-            <ul class="tiles">
+            <h2 class="heading">The eight thoughts</h2>
+            <p class="heading-sub">A ladder, from the body to the spirit</p>
+            <ol class="ladder">
               {thoughts.map((t) => (
                 <li>
-                  <a class={`tile t-${t.id}`} href={href.thought(t.id)}>
-                    <span class="tile-icon">
+                  <a href={href.thought(t.id)}>
+                    <span class="rung" aria-hidden="true">
+                      <span>{roman(t.order)}</span>
+                    </span>
+                    <span class="emblem">
                       <I.ThoughtIcon id={t.id} />
                     </span>
-                    <span class="tile-name">{t.modernName}</span>
-                    <span class="tile-term">{t.name}</span>
-                    <span class="tile-count">{entriesFor(t.id).length} responses</span>
+                    <span class="ladder-name">
+                      {t.modernName}
+                      <span class="ladder-term">{t.name}</span>
+                    </span>
+                    <I.Chevron />
                   </a>
                 </li>
               ))}
-            </ul>
+            </ol>
           </section>
         ) : null}
       </main>

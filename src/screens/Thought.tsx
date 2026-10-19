@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'preact/hooks';
-import { thoughtById, entriesFor } from '../lib/data';
+import { thoughtById, entriesFor, roman } from '../lib/data';
 import { search } from '../lib/search';
 import { href } from '../lib/router';
 import { TopBar, EntryRow, CarePanel, SearchBox } from '../components/parts';
@@ -17,16 +17,17 @@ export function Thought({ id }: { id: string }) {
   return (
     <>
       <TopBar backTo={href.home()} backLabel="Home" />
-      <main class={`page t-${id}`}>
+      <main class="page">
         <header class="thought-head">
-          <span class="thought-icon">
-            <I.ThoughtIcon id={id} size={28} />
+          <span class="thought-emblem">
+            <I.ThoughtIcon id={id} size={30} />
           </span>
           <div>
-            <h1 class="title">{t.modernName}</h1>
-            <p class="subtitle">
-              {t.name} · Book {t.order} · {list.length} responses
+            <p class="kicker caps">
+              {roman(t.order)} · {t.name}
             </p>
+            <h1 class="title">{t.modernName}</h1>
+            <p class="subtitle">{list.length} responses</p>
           </div>
         </header>
         <p class="summary">{t.summary}</p>
@@ -71,7 +72,7 @@ export function Thought({ id }: { id: string }) {
                 if (!items.length) return null;
                 return (
                   <section class="cluster">
-                    <h2 class="section-label">
+                    <h2>
                       {c.title} <span class="n">{items.length}</span>
                     </h2>
                     <ul class="rows">

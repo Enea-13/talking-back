@@ -6,10 +6,10 @@ import { useSaved } from '../lib/storage';
 import { HELPLINES, useCountry } from '../lib/care';
 import * as I from './icons';
 
-export function TopBar({ backTo, backLabel, hero }: { backTo?: string; backLabel?: string; hero?: boolean }) {
+export function TopBar({ backTo, backLabel }: { backTo?: string; backLabel?: string }) {
   const saved = useSaved();
   return (
-    <div class={`topbar-wrap${hero ? ' on-hero' : ''}`}>
+    <div class="topbar-wrap">
       <header class="topbar">
         {backTo ? (
           <button class="back" onClick={() => back(backTo)} aria-label={`Back${backLabel ? ` to ${backLabel}` : ''}`}>
@@ -18,6 +18,7 @@ export function TopBar({ backTo, backLabel, hero }: { backTo?: string; backLabel
           </button>
         ) : (
           <a class="wordmark" href={href.home()}>
+            <I.Candle />
             Talking Back
           </a>
         )}
@@ -34,30 +35,21 @@ export function TopBar({ backTo, backLabel, hero }: { backTo?: string; backLabel
   );
 }
 
-/** A thought's color and icon, as a small label. */
-export function ThoughtPill({ id }: { id: string }) {
-  const t = thoughtById.get(id);
-  if (!t) return null;
-  return (
-    <span class={`pill t-${id}`}>
-      <I.ThoughtIcon id={id} size={13} />
-      {t.modernName}
-    </span>
-  );
-}
-
 export function EntryRow({ e, showThought }: { e: Entry; showThought?: boolean }) {
   const ref = e.passages[0]?.ref ?? e.passages[0]?.greek?.ref ?? '';
+  const meta = [showThought && thoughtById.get(e.thought)?.modernName, ref].filter(Boolean).join(' · ');
   return (
     <li>
-      <a class={`row t-${e.thought}`} href={href.entry(e.id)}>
+      <a class="row" href={href.entry(e.id)}>
+        {showThought && (
+          <span class="row-emblem">
+            <I.ThoughtIcon id={e.thought} size={20} />
+          </span>
+        )}
         <span class="row-main">
           <span class="voice">“{e.voice}”</span>
           <span class="situation">{e.situation}</span>
-          <span class="row-meta">
-            {showThought && <ThoughtPill id={e.thought} />}
-            {ref && <span class="ref-small">{ref}</span>}
-          </span>
+          {meta && <span class="row-meta">{meta}</span>}
         </span>
         <I.Chevron />
       </a>

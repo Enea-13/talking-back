@@ -13,8 +13,8 @@ export default defineConfig({
         name: 'Talking Back',
         short_name: 'Talking Back',
         description: 'Recognize the thought, answer it with Scripture. Inspired by Evagrius of Pontus.',
-        theme_color: '#1f3a68',
-        background_color: '#f6f1e7',
+        theme_color: '#0a1124',
+        background_color: '#0a1124',
         display: 'standalone',
         start_url: './',
         icons: [

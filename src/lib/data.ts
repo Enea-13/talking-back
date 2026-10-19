@@ -54,6 +54,11 @@ export const entryById = new Map(entries.map((e) => [e.id, e]));
 
 export const entriesFor = (thoughtId: string) => entries.filter((e) => e.thought === thoughtId);
 
+const ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII'];
+
+/** A thought's place in Evagrius's order, as a roman numeral. */
+export const roman = (n: number) => ROMAN[n - 1] ?? String(n);
+
 export function clusterTitle(e: Entry) {
   return thoughtById.get(e.thought)?.clusters.find((c) => c.id === e.cluster)?.title ?? '';
 }

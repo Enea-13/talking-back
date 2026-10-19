@@ -1,5 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="112" fill="#1f3a68"/>
-  <path d="M136 140h240a40 40 0 0 1 40 40v128a40 40 0 0 1-40 40H244l-76 58v-58h-32a40 40 0 0 1-40-40V180a40 40 0 0 1 40-40z" fill="none" stroke="#e3a14a" stroke-width="28" stroke-linejoin="round"/>
-  <path d="M256 184v116M212 226h88" stroke="#f6f1e7" stroke-width="26" stroke-linecap="round"/>
+  <rect width="512" height="512" rx="112" fill="#0a1124"/>
+  <defs>
+    <radialGradient id="glow" cx="256" cy="222" r="236" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f3b555" stop-opacity=".42"/>
+      <stop offset=".45" stop-color="#f3b555" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#f3b555" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="flame" cx="256" cy="246" r="92" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff7e0"/>
+      <stop offset=".4" stop-color="#f9cf74"/>
+      <stop offset="1" stop-color="#dd8d2a"/>
+    </radialGradient>
+    <linearGradient id="wax" x1="220" x2="292" y1="0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d3c09a"/>
+      <stop offset=".42" stop-color="#f7efde"/>
+      <stop offset="1" stop-color="#c9b48a"/>
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="222" r="236" fill="url(#glow)"/>
+  <path d="M252 104c4 40 46 70 46 120 0 29-19 52-42 52s-42-23-42-52c0-36 26-54 34-82 3-11 4-24 4-38Z" fill="url(#flame)"/>
+  <ellipse cx="256" cy="244" rx="13" ry="22" fill="#fffaf0" opacity=".75"/>
+  <path d="M256 274v20" stroke="#3b2a12" stroke-width="7" stroke-linecap="round"/>
+  <path d="M220 306c0-4 3-7 7-7h58c4 0 7 3 7 7v206h-72Z" fill="url(#wax)"/>
+  <path d="M276 299h9c4 0 7 3 7 7v30c0 6-8 6-8 0v-18c0-6-4-9-8-9Z" fill="#fbf6ea" opacity=".85"/>
 </svg>
