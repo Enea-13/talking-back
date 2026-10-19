@@ -12,6 +12,13 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
     <link rel="icon" href="./icon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+    <script>
+      // A chosen light or dark theme, applied before the first paint (see applyTheme in src/lib/storage.ts).
+      try {
+        var t = JSON.parse(localStorage.getItem('tb:theme'));
+        if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
+      } catch (e) {}
+    </script>
   </head>
   <body>
     <div id="app"></div>

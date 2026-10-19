@@ -40,8 +40,9 @@
   color-scheme: light;
 }
 
+/* the night vigil: when the device is dark (unless light was chosen), or when dark was chosen */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme='light']) {
     --bg: #0a1124;
     --surface: #111a33;
     --ink: #f2e9d7;
@@ -56,6 +57,22 @@
     --mottle: none;
     color-scheme: dark;
   }
+}
+
+:root[data-theme='dark'] {
+  --bg: #0a1124;
+  --surface: #111a33;
+  --ink: #f2e9d7;
+  --muted: #a3aac0;
+  --line: #232e4b;
+  --flame: #f3b555;
+  --glow: rgb(243 181 85 / 0.12);
+  --care: #121b36;
+  --care-line: #3a4568;
+  --shadow: none;
+  --grain: none;
+  --mottle: none;
+  color-scheme: dark;
 }
 
 :root[data-size='large'] {
@@ -374,11 +391,18 @@ select {
   left: var(--rail-b);
 }
 
-.ladder li + li a {
+/* dividers start after the ladder, so only the rungs cross the rails */
+.ladder li + li a::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: calc(2.75em + 10px);
+  right: 0;
   border-top: 1px solid color-mix(in srgb, var(--line) 65%, transparent);
 }
 
 .ladder a {
+  position: relative;
   display: grid;
   grid-template-columns: 2.75em 1.6em 1fr auto;
   align-items: center;
@@ -548,7 +572,10 @@ select {
   border: 1px solid var(--line);
 }
 
-.segmented button {
+.segmented button,
+.segmented label {
+  display: grid;
+  place-items: center;
   min-height: 44px;
   padding: 0 16px;
   border: 0;
@@ -559,7 +586,8 @@ select {
   color: var(--muted);
 }
 
-.segmented button[aria-selected='true'] {
+.segmented button[aria-selected='true'],
+.segmented label.on {
   background: var(--surface);
   color: var(--ink);
   font-weight: 600;
@@ -952,7 +980,35 @@ select {
   color: var(--flame);
 }
 
+/* a radio group drawn as a segmented control; the input stays focusable */
+.segmented input {
+  position: absolute;
+  opacity: 0;
+  width: 1px;
+  height: 1px;
+  pointer-events: none;
+}
+
+.segmented label {
+  position: relative;
+}
+
+.segmented label:has(input:focus-visible) {
+  outline: 3px solid var(--flame);
+  outline-offset: 2px;
+}
+
+.setting-name {
+  margin: 14px 0 0;
+  font-weight: 600;
+}
+
+.setting-name + .segmented {
+  margin-top: 8px;
+}
+
 .toggle {
+  margin-top: 14px;
   display: flex;
   align-items: center;
   gap: 10px;

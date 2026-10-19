@@ -1,9 +1,16 @@
 import { href } from '../lib/router';
-import { useLargeText } from '../lib/storage';
+import { useLargeText, useTheme, type Theme } from '../lib/storage';
 import { TopBar } from '../components/parts';
+
+const THEMES: [Theme, string][] = [
+  ['auto', 'Automatic'],
+  ['light', 'Light'],
+  ['dark', 'Dark'],
+];
 
 export function About() {
   const [large, setLarge] = useLargeText();
+  const [theme, setTheme] = useTheme();
   return (
     <>
       <TopBar backTo={href.home()} backLabel="Home" />
@@ -32,6 +39,17 @@ export function About() {
         </ol>
 
         <h2>Settings</h2>
+        <p class="setting-name" id="appearance">
+          Appearance
+        </p>
+        <div class="segmented" role="radiogroup" aria-labelledby="appearance">
+          {THEMES.map(([value, label]) => (
+            <label class={theme === value ? 'on' : ''}>
+              <input type="radio" name="theme" value={value} checked={theme === value} onChange={() => setTheme(value)} />
+              {label}
+            </label>
+          ))}
+        </div>
         <label class="toggle">
           <input type="checkbox" checked={large} onChange={(ev) => setLarge((ev.target as HTMLInputElement).checked)} />
           <span>Larger text</span>

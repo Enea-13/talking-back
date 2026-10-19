@@ -42,6 +42,34 @@ export function useSaved() {
   return saved;
 }
 
+export type Theme = 'auto' | 'light' | 'dark';
+
+const THEME = 'tb:theme';
+// The page background in each theme, for the browser and status bar (matches --bg in styles.css).
+const BAR = { light: '#f5efe2', dark: '#0a1124' };
+
+/** Light or dark when chosen; on 'auto' the device setting decides. index.html applies it early too, to avoid a flash. */
+export function applyTheme(theme = read<Theme>(THEME, 'auto')) {
+  const root = document.documentElement;
+  if (theme === 'auto') delete root.dataset.theme;
+  else root.dataset.theme = theme;
+  document.querySelectorAll<HTMLMetaElement>('meta[name="theme-color"]').forEach((m) => {
+    m.content = BAR[theme === 'auto' ? (m.media.includes('dark') ? 'dark' : 'light') : theme];
+  });
+}
+
+export function useTheme(): [Theme, (t: Theme) => void] {
+  const [theme, setTheme] = useState(() => read<Theme>(THEME, 'auto'));
+  return [
+    theme,
+    (t: Theme) => {
+      write(THEME, t);
+      applyTheme(t);
+      setTheme(t);
+    },
+  ];
+}
+
 const LARGE = 'tb:large-text';
 
 export function applyTextSize(large = read(LARGE, false)) {
