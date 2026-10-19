@@ -1,0 +1,306 @@
+[
+  {
+    "id": "gluttony",
+    "order": 1,
+    "name": "Gluttony",
+    "modernName": "Cravings & comfort",
+    "summary": "The pull of food, drink and comfort, and the reasonable-sounding excuses that come with it. Evagrius starts here because this thought opens the door to the others.",
+    "clusters": [
+      {
+        "id": "just-this-once",
+        "title": "“Just this once”"
+      },
+      {
+        "id": "why-bother",
+        "title": "Why bother with discipline?"
+      },
+      {
+        "id": "tired-of-going-without",
+        "title": "Tired of going without"
+      },
+      {
+        "id": "not-enough",
+        "title": "What if there isn’t enough?"
+      },
+      {
+        "id": "old-comforts",
+        "title": "Missing the old comforts"
+      },
+      {
+        "id": "full-and-dull",
+        "title": "Full stomach, dull soul"
+      },
+      {
+        "id": "keeping-for-myself",
+        "title": "Keeping it for myself"
+      },
+      {
+        "id": "body-fears",
+        "title": "Worried about my body"
+      },
+      {
+        "id": "overdoing-it",
+        "title": "Going to extremes"
+      }
+    ]
+  },
+  {
+    "id": "fornication",
+    "order": 2,
+    "name": "Fornication",
+    "modernName": "Lust & impurity",
+    "summary": "Sexual temptation in fantasy, memory and desire, along with the shame and discouragement that follow a fall.",
+    "clusters": [
+      {
+        "id": "images",
+        "title": "Images that won’t leave"
+      },
+      {
+        "id": "excuses",
+        "title": "Excuses that open the door"
+      },
+      {
+        "id": "never-free",
+        "title": "Will I ever be free?"
+      },
+      {
+        "id": "why",
+        "title": "Why is this happening?"
+      },
+      {
+        "id": "dread",
+        "title": "Dread and threats"
+      },
+      {
+        "id": "night-and-body",
+        "title": "At night, and in the body"
+      },
+      {
+        "id": "guard-down",
+        "title": "Letting my guard down"
+      },
+      {
+        "id": "standing-firm",
+        "title": "Crying out and standing firm"
+      }
+    ]
+  },
+  {
+    "id": "money",
+    "order": 3,
+    "name": "Love of money",
+    "modernName": "Money & possessions",
+    "summary": "Anxiety about having enough, the urge to hold on to what you have, and envy of what other people own.",
+    "clusters": [
+      {
+        "id": "losing",
+        "title": "Afraid of losing or running out"
+      },
+      {
+        "id": "wanting-more",
+        "title": "Wanting more"
+      },
+      {
+        "id": "good-reasons",
+        "title": "“It’s for a good cause”"
+      },
+      {
+        "id": "holding-back",
+        "title": "Holding back from people in need"
+      },
+      {
+        "id": "regret",
+        "title": "Regretting what I gave"
+      },
+      {
+        "id": "using-people",
+        "title": "Using people for gain"
+      },
+      {
+        "id": "family",
+        "title": "Family money, comparison and envy"
+      }
+    ]
+  },
+  {
+    "id": "sadness",
+    "order": 4,
+    "name": "Sadness",
+    "modernName": "Discouragement & fear",
+    "summary": "Grief, dread, and the feeling that God is far away or that nothing will ever change.",
+    "clusters": [
+      {
+        "id": "grief",
+        "title": "Heavy with grief or guilt"
+      },
+      {
+        "id": "god-far",
+        "title": "Has God left me?"
+      },
+      {
+        "id": "why",
+        "title": "Why is this happening?"
+      },
+      {
+        "id": "give-up",
+        "title": "No use fighting"
+      },
+      {
+        "id": "dread",
+        "title": "Dreading what’s coming"
+      },
+      {
+        "id": "night-fears",
+        "title": "Afraid of the night"
+      },
+      {
+        "id": "frightening",
+        "title": "Something frightening is here"
+      },
+      {
+        "id": "body",
+        "title": "Under attack in my body"
+      }
+    ]
+  },
+  {
+    "id": "anger",
+    "order": 5,
+    "name": "Anger",
+    "modernName": "Anger & resentment",
+    "summary": "Irritation, grudges, and replaying the ways other people have wronged you.",
+    "clusters": [
+      {
+        "id": "quick-temper",
+        "title": "Quick to anger"
+      },
+      {
+        "id": "grudge",
+        "title": "Holding a grudge"
+      },
+      {
+        "id": "revenge",
+        "title": "Getting even"
+      },
+      {
+        "id": "suspicion",
+        "title": "Suspicion, gossip and slander"
+      },
+      {
+        "id": "insulted",
+        "title": "Insulted or mistreated"
+      },
+      {
+        "id": "quarrels",
+        "title": "Arguing and complaining"
+      },
+      {
+        "id": "gentleness",
+        "title": "Is gentleness even possible?"
+      },
+      {
+        "id": "love-cold",
+        "title": "Love grown cold"
+      }
+    ]
+  },
+  {
+    "id": "listlessness",
+    "order": 6,
+    "name": "Listlessness (acedia)",
+    "modernName": "Restless, can’t settle",
+    "summary": "Boredom, restlessness, and the urge to quit or be somewhere else: the “noonday demon.”",
+    "clusters": [
+      {
+        "id": "cant-focus",
+        "title": "Can’t pray, can’t focus"
+      },
+      {
+        "id": "somewhere-else",
+        "title": "Anywhere but here"
+      },
+      {
+        "id": "too-hard",
+        "title": "Too hard, and too long"
+      },
+      {
+        "id": "heavy",
+        "title": "Weighed down"
+      },
+      {
+        "id": "complaining",
+        "title": "Grumbling about others"
+      },
+      {
+        "id": "family-pull",
+        "title": "Pulled back to home and the world"
+      },
+      {
+        "id": "endure",
+        "title": "Holding on through hardship"
+      }
+    ]
+  },
+  {
+    "id": "vainglory",
+    "order": 7,
+    "name": "Vainglory",
+    "modernName": "Craving approval",
+    "summary": "Wanting to be seen, praised and admired, even for doing good.",
+    "clusters": [
+      {
+        "id": "seen",
+        "title": "Wanting to be seen and admired"
+      },
+      {
+        "id": "position",
+        "title": "Wanting a title or position"
+      },
+      {
+        "id": "fame-dreams",
+        "title": "Dreams of greatness"
+      },
+      {
+        "id": "teach-too-soon",
+        "title": "Teaching before I’m ready"
+      },
+      {
+        "id": "good-reasons",
+        "title": "Good-sounding reasons"
+      },
+      {
+        "id": "words",
+        "title": "Talking and knowing to impress"
+      }
+    ]
+  },
+  {
+    "id": "pride",
+    "order": 8,
+    "name": "Pride",
+    "modernName": "Pride & self-reliance",
+    "summary": "Believing you did it all yourself, looking down on others, and needing no one’s help, not even God’s.",
+    "clusters": [
+      {
+        "id": "did-it-myself",
+        "title": "“I did it myself”"
+      },
+      {
+        "id": "better-than-them",
+        "title": "Better than them"
+      },
+      {
+        "id": "already-holy",
+        "title": "“I’ve arrived”"
+      },
+      {
+        "id": "false-light",
+        "title": "Needing no guide"
+      },
+      {
+        "id": "blasphemy",
+        "title": "Blasphemous thoughts that won’t leave"
+      }
+    ]
+  }
+]

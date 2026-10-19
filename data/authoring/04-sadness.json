@@ -1,0 +1,921 @@
+{
+  "thought": "sadness",
+  "entries": {
+    "sad-001": {
+      "cluster": "god-far",
+      "voice": "God hasn’t heard a single one of my groans.",
+      "situation": "Sadness convincing you that God isn’t listening.",
+      "tags": [
+        "unheard",
+        "prayer",
+        "groaning",
+        "sadness",
+        "God listening"
+      ],
+      "excerpt": {
+        "from": "the children of Israel sighed"
+      }
+    },
+    "sad-002": {
+      "cluster": "god-far",
+      "voice": "God doesn’t see what you’re going through.",
+      "situation": "Feeling that your suffering is invisible to God.",
+      "tags": [
+        "unseen",
+        "suffering",
+        "affliction",
+        "God sees"
+      ],
+      "excerpt": {
+        "to": "a land flowing with milk and honey"
+      }
+    },
+    "sad-003": {
+      "cluster": "why",
+      "voice": "Ever since I got serious about God, things have gotten worse.",
+      "situation": "Troubles multiplying just as you start taking faith seriously.",
+      "tags": [
+        "worse",
+        "serious",
+        "trouble",
+        "new faith",
+        "why"
+      ],
+      "note": "Evagrius warns that temptations multiply when someone starts taking God’s word to heart. Moses felt the same."
+    },
+    "sad-004": {
+      "cluster": "god-far",
+      "voice": "Don’t expect any help from God.",
+      "situation": "Sadness that has stopped expecting God to act.",
+      "tags": [
+        "hopeless",
+        "help",
+        "deliverance",
+        "sadness"
+      ]
+    },
+    "sad-005": {
+      "cluster": "why",
+      "voice": "I’m new to this. I’ll be hit with more than I can handle.",
+      "situation": "A beginner’s fear of facing more than you can bear.",
+      "tags": [
+        "beginner",
+        "new",
+        "fear",
+        "protection",
+        "overwhelmed"
+      ],
+      "note": "Evagrius reads this as God leading beginners by a gentler road."
+    },
+    "sad-006": {
+      "cluster": "god-far",
+      "voice": "The enemy doesn’t care that God fights for you.",
+      "situation": "Forgetting that God’s fighting on your side is known and feared.",
+      "tags": [
+        "God fights",
+        "protection",
+        "enemy",
+        "confidence"
+      ]
+    },
+    "sad-007": {
+      "cluster": "why",
+      "voice": "Why is the enemy so set against me?",
+      "situation": "Not understanding why evil seems to pursue you.",
+      "tags": [
+        "why",
+        "enemy",
+        "attack",
+        "pursuit"
+      ]
+    },
+    "sad-008": {
+      "cluster": "night-fears",
+      "voice": "Tonight they’ll come for you.",
+      "situation": "Fear that something evil will come in the night.",
+      "tags": [
+        "night",
+        "fear",
+        "dread",
+        "protection",
+        "prayer"
+      ]
+    },
+    "sad-009": {
+      "cluster": "god-far",
+      "voice": "No one is helping you. You can’t see any help at all.",
+      "situation": "Terror because the help God sends is invisible.",
+      "tags": [
+        "invisible help",
+        "terror",
+        "angels",
+        "unseen"
+      ],
+      "lead": "greek"
+    },
+    "sad-010": {
+      "cluster": "god-far",
+      "voice": "No angel is watching over me.",
+      "situation": "Fear that you are unprotected.",
+      "tags": [
+        "angels",
+        "protection",
+        "fear",
+        "guardian"
+      ]
+    },
+    "sad-011": {
+      "cluster": "night-fears",
+      "voice": "This turmoil at night will never end.",
+      "situation": "Restless, frightening nights that feel permanent.",
+      "tags": [
+        "night",
+        "insomnia",
+        "turmoil",
+        "peace",
+        "forever"
+      ]
+    },
+    "sad-012": {
+      "cluster": "give-up",
+      "voice": "It’s useless to fight. You can’t win.",
+      "situation": "Voices, other people’s or your own, telling you resistance is pointless.",
+      "tags": [
+        "useless",
+        "fight",
+        "discouraged",
+        "God fights"
+      ]
+    },
+    "sad-013": {
+      "cluster": "frightening",
+      "voice": "A sudden sound startled me, and now I’m afraid.",
+      "situation": "Shaken by a sudden, frightening sound or voice.",
+      "tags": [
+        "startled",
+        "sound",
+        "voice",
+        "fear"
+      ],
+      "excerpt": {
+        "from": "Today I will begin"
+      },
+      "greekExcerpt": {
+        "from": "Begin to put"
+      }
+    },
+    "sad-014": {
+      "cluster": "frightening",
+      "voice": "I saw something terrifying. I can’t shake the image.",
+      "situation": "Terrified by a frightening sight or image.",
+      "tags": [
+        "terrifying",
+        "vision",
+        "image",
+        "fear"
+      ]
+    },
+    "sad-015": {
+      "cluster": "body",
+      "voice": "Something struck at me suddenly, but I stayed calm.",
+      "situation": "Thanking God for peace during a sudden attack.",
+      "tags": [
+        "calm",
+        "peace",
+        "thanksgiving",
+        "sudden"
+      ]
+    },
+    "sad-016": {
+      "cluster": "god-far",
+      "voice": "I’m frightened, and God has left me.",
+      "situation": "Fear that makes you think God has abandoned you.",
+      "tags": [
+        "abandoned",
+        "fear",
+        "forsaken",
+        "mercy"
+      ]
+    },
+    "sad-017": {
+      "cluster": "why",
+      "voice": "What’s the reason for all these trials?",
+      "situation": "Wanting to understand why you’re being tested.",
+      "tags": [
+        "why",
+        "trials",
+        "testing",
+        "purpose",
+        "good"
+      ]
+    },
+    "sad-018": {
+      "cluster": "night-fears",
+      "voice": "Something dark is coiling around me in the night.",
+      "situation": "Frightening sensations or images in the night.",
+      "tags": [
+        "night",
+        "fear",
+        "darkness",
+        "battle"
+      ],
+      "excerpt": {
+        "from": "Hear, Israel"
+      }
+    },
+    "sad-019a": {
+      "cluster": "night-fears",
+      "voice": "Fear jolts me awake in the night.",
+      "situation": "Sudden sadness and fear in the night.",
+      "tags": [
+        "night",
+        "fear",
+        "sudden",
+        "courage",
+        "sadness"
+      ]
+    },
+    "sad-019b": {
+      "cluster": "give-up",
+      "voice": "I want to draw closer to God, but fear holds me back.",
+      "situation": "Fear keeping you from a deeper commitment.",
+      "tags": [
+        "commitment",
+        "fear",
+        "courage",
+        "holding back"
+      ]
+    },
+    "sad-020": {
+      "cluster": "give-up",
+      "voice": "Give your life to God and terrifying things will happen.",
+      "situation": "Hesitating to commit to God for fear of what you’ll face.",
+      "tags": [
+        "hesitation",
+        "fear",
+        "commitment",
+        "courage"
+      ]
+    },
+    "sad-021": {
+      "cluster": "night-fears",
+      "voice": "I’m so low that every night brings frightening dreams.",
+      "situation": "Sadness that leaves you open to nightmares.",
+      "tags": [
+        "nightmares",
+        "sadness",
+        "night",
+        "wake up",
+        "song"
+      ]
+    },
+    "sad-022": {
+      "cluster": "body",
+      "voice": "My body feels cold and tense, and I can’t shake it.",
+      "situation": "Not knowing that singing the Psalms can lift a heavy, troubled body and spirit.",
+      "tags": [
+        "music",
+        "psalms",
+        "singing",
+        "tension",
+        "relief"
+      ],
+      "note": "Evagrius saw that the melody of the Psalms changes the condition of the body and drives off the oppressing spirit, as David’s harp did for Saul."
+    },
+    "sad-023": {
+      "cluster": "frightening",
+      "voice": "It’s coming at you armed. You’re defenseless.",
+      "situation": "Facing a threatening, armed-seeming evil.",
+      "tags": [
+        "threat",
+        "weapon",
+        "courage",
+        "name of the Lord"
+      ],
+      "note": "Evagrius tells how Abba Macarius answered a sword-bearing demon with these words."
+    },
+    "sad-024": {
+      "cluster": "frightening",
+      "voice": "Listen to the noise and the voices. You’re surrounded.",
+      "situation": "Unsettled by commotion and voices that seem to come from nowhere.",
+      "tags": [
+        "noise",
+        "voices",
+        "commotion",
+        "battle"
+      ]
+    },
+    "sad-025": {
+      "cluster": "dread",
+      "voice": "Everyone will laugh at you for exposing all this.",
+      "situation": "Threats of ridicule for speaking openly about your struggles.",
+      "tags": [
+        "ridicule",
+        "mockery",
+        "shame",
+        "honesty",
+        "speaking up"
+      ],
+      "note": "Evagrius heard this threat because he had written down the demons’ tactics in this very book."
+    },
+    "sad-026": {
+      "cluster": "frightening",
+      "voice": "Something appeared out of nowhere and terrified me.",
+      "situation": "Frightened by something that appears suddenly.",
+      "tags": [
+        "sudden",
+        "fear",
+        "outnumbered",
+        "with us"
+      ]
+    },
+    "sad-027": {
+      "cluster": "god-far",
+      "voice": "There’s no help around me. I’m on my own.",
+      "situation": "Not believing that unseen help surrounds you.",
+      "tags": [
+        "angels",
+        "unseen",
+        "help",
+        "eyes opened",
+        "alone"
+      ]
+    },
+    "sad-028": {
+      "cluster": "dread",
+      "voice": "They’re coming to fight you. Be afraid.",
+      "situation": "Fear and trembling about an attack that hasn’t come.",
+      "tags": [
+        "fear",
+        "trembling",
+        "anticipation",
+        "God laughs"
+      ]
+    },
+    "sad-029": {
+      "cluster": "night-fears",
+      "voice": "Disturbing dreams at night, and I feel sick inside.",
+      "situation": "Disordered, dark dreams, brought to God.",
+      "tags": [
+        "nightmares",
+        "dreams",
+        "healing",
+        "anguish",
+        "prayer"
+      ]
+    },
+    "sad-030": {
+      "cluster": "give-up",
+      "voice": "Run away. Don’t stand and fight.",
+      "situation": "The urge to flee instead of standing firm.",
+      "tags": [
+        "flee",
+        "run away",
+        "refuge",
+        "courage"
+      ]
+    },
+    "sad-031": {
+      "cluster": "night-fears",
+      "voice": "Something is about to come at me tonight.",
+      "situation": "Dreading an attack in the night.",
+      "tags": [
+        "dread",
+        "night",
+        "anticipation",
+        "deliver"
+      ]
+    },
+    "sad-032": {
+      "cluster": "frightening",
+      "voice": "The noise and chaos are too much.",
+      "situation": "Disturbed by tumult and commotion around you.",
+      "tags": [
+        "noise",
+        "chaos",
+        "trust",
+        "name of the Lord"
+      ]
+    },
+    "sad-033": {
+      "cluster": "body",
+      "voice": "Something stings my body in the night.",
+      "situation": "Physical torment at night.",
+      "tags": [
+        "pain",
+        "night",
+        "body",
+        "fear",
+        "light"
+      ]
+    },
+    "sad-034": {
+      "cluster": "frightening",
+      "voice": "Threatening figures appear out of nowhere.",
+      "situation": "Frightening figures that seem to come out of the air.",
+      "tags": [
+        "fear",
+        "figures",
+        "army",
+        "confidence"
+      ]
+    },
+    "sad-035": {
+      "cluster": "grief",
+      "voice": "There’s no reason, but I’m crushed with sadness.",
+      "situation": "Heavy, unexplained sadness that weighs on your head and body.",
+      "tags": [
+        "sadness",
+        "depression",
+        "unexplained",
+        "heaviness",
+        "distress"
+      ],
+      "note": "Evagrius noticed that this sadness needs no thoughts to feed it. It simply weighs on the body and casts the soul into needless distress."
+    },
+    "sad-036": {
+      "cluster": "body",
+      "voice": "I’ve been wounded, and the marks are on my body.",
+      "situation": "Physical harm or marks you can’t explain.",
+      "tags": [
+        "wounds",
+        "marks",
+        "body",
+        "fight for me"
+      ]
+    },
+    "sad-037": {
+      "cluster": "grief",
+      "voice": "One grief fills my whole mind. I can’t think of anything else.",
+      "situation": "A single, overwhelming grief that takes over your mind.",
+      "tags": [
+        "grief",
+        "obsessive",
+        "rumination",
+        "overwhelming"
+      ],
+      "note": "If one painful thought takes over your mind for days, please talk to someone you trust, and to a doctor, as well as praying."
+    },
+    "sad-038": {
+      "cluster": "night-fears",
+      "voice": "They’ll come tonight with swords.",
+      "situation": "Threatening thoughts of violence in the night.",
+      "tags": [
+        "threats",
+        "night",
+        "violence",
+        "fear"
+      ]
+    },
+    "sad-039": {
+      "cluster": "dread",
+      "voice": "A blow is coming. You’ll suffer.",
+      "situation": "Predictions that punishment or suffering is coming.",
+      "tags": [
+        "suffering",
+        "punishment",
+        "ready",
+        "endure"
+      ],
+      "lead": "greek"
+    },
+    "sad-040": {
+      "cluster": "god-far",
+      "voice": "I’m too sad to find the words to pray.",
+      "situation": "Searching for words to pray in a time of sadness.",
+      "tags": [
+        "prayer",
+        "words",
+        "sadness",
+        "help"
+      ]
+    },
+    "sad-041": {
+      "cluster": "body",
+      "voice": "My body burns with pain.",
+      "situation": "Burning pain in your body, brought to God.",
+      "tags": [
+        "pain",
+        "burning",
+        "body",
+        "prayer"
+      ]
+    },
+    "sad-042": {
+      "cluster": "grief",
+      "voice": "Think of your aging father, your frail mother, your grieving family.",
+      "situation": "Sad thoughts about family that pull at your heart and wear you down.",
+      "tags": [
+        "family",
+        "aging parents",
+        "guilt",
+        "worry",
+        "grief"
+      ],
+      "excerpt": {
+        "from": "His words were softer than oil"
+      },
+      "greekExcerpt": {
+        "from": "His words were smoother"
+      },
+      "note": "Evagrius hears these gentle, sorrowful thoughts as soft words that hide darts."
+    },
+    "sad-043": {
+      "cluster": "dread",
+      "voice": "You’re losing your mind, and everyone will see.",
+      "situation": "Fear of a mental breakdown, and of shaming others who trust God.",
+      "tags": [
+        "madness",
+        "mental illness",
+        "fear",
+        "shame",
+        "breakdown"
+      ],
+      "note": "If you fear for your mental health, reaching out to a doctor or counselor is wise. It is not a failure of faith."
+    },
+    "sad-044": {
+      "cluster": "god-far",
+      "voice": "God has abandoned you. Nobody will rescue you.",
+      "situation": "Hearing the enemy’s verdict that you are forsaken.",
+      "tags": [
+        "forsaken",
+        "abandoned",
+        "enemies",
+        "lie"
+      ]
+    },
+    "sad-045": {
+      "cluster": "frightening",
+      "voice": "Horrors seem to crawl out of the walls.",
+      "situation": "Terrifying images that seem to come from everywhere.",
+      "tags": [
+        "terror",
+        "images",
+        "protection",
+        "dove"
+      ],
+      "note": "Evagrius says this was the prayer of Macarius the Egyptian."
+    },
+    "sad-046": {
+      "cluster": "why",
+      "voice": "Surely nothing is plotting against me.",
+      "situation": "Not realizing that the enemy schemes against God’s people.",
+      "tags": [
+        "schemes",
+        "plotting",
+        "enemy",
+        "awareness"
+      ]
+    },
+    "sad-047": {
+      "cluster": "frightening",
+      "voice": "Look at these images forming in front of you.",
+      "situation": "Disturbing images forming before your eyes.",
+      "tags": [
+        "images",
+        "visions",
+        "helper",
+        "Antony"
+      ],
+      "note": "Evagrius says Antony answered such images with this verse."
+    },
+    "sad-048": {
+      "cluster": "frightening",
+      "voice": "It flares up like fire, then vanishes like smoke.",
+      "situation": "Something frightening that flares up and then disappears.",
+      "tags": [
+        "fire",
+        "smoke",
+        "escaped",
+        "snare"
+      ]
+    },
+    "sad-049": {
+      "cluster": "body",
+      "voice": "You’re going to be burned.",
+      "situation": "Threats of fiery harm, brought to God.",
+      "tags": [
+        "fire",
+        "threat",
+        "burning",
+        "protection"
+      ]
+    },
+    "sad-050": {
+      "cluster": "dread",
+      "voice": "Following Christ is far too dangerous.",
+      "situation": "Exaggerating the dangers of the Christian life to keep you from it.",
+      "tags": [
+        "danger",
+        "excuses",
+        "lion",
+        "sluggard"
+      ]
+    },
+    "sad-051": {
+      "cluster": "god-far",
+      "voice": "Evil can do anything it wants to me.",
+      "situation": "Forgetting that nothing can touch you without God’s permission.",
+      "tags": [
+        "protection",
+        "hedge",
+        "permission",
+        "sovereignty"
+      ]
+    },
+    "sad-052": {
+      "cluster": "why",
+      "voice": "Why is my body suffering now, after everything else?",
+      "situation": "Not understanding why trials move from your thoughts to your body.",
+      "tags": [
+        "body",
+        "suffering",
+        "trial",
+        "Job",
+        "why"
+      ]
+    },
+    "sad-053": {
+      "cluster": "night-fears",
+      "voice": "Lights will appear in the dark and burn your eyes.",
+      "situation": "Fearful predictions of terrifying things in the night.",
+      "tags": [
+        "night",
+        "lights",
+        "fear",
+        "kneel",
+        "pray"
+      ],
+      "note": "Evagrius’s advice for that moment: kneel, keep praying, turn your face away and don’t watch."
+    },
+    "sad-054": {
+      "cluster": "dread",
+      "voice": "This will be the death of you.",
+      "situation": "Fear that spiritual attack will end in death.",
+      "tags": [
+        "death",
+        "fear",
+        "waiting",
+        "release"
+      ]
+    },
+    "sad-055": {
+      "cluster": "grief",
+      "voice": "Look at all you’ve done wrong. Stay down.",
+      "situation": "Past sins paraded before you to sink you into sadness.",
+      "tags": [
+        "past sins",
+        "guilt",
+        "shame",
+        "rise",
+        "light"
+      ]
+    },
+    "sad-056": {
+      "cluster": "body",
+      "voice": "Every time I pray, something attacks and distracts me.",
+      "situation": "Being harassed physically during prayer.",
+      "tags": [
+        "prayer",
+        "distraction",
+        "harassment",
+        "stronghold"
+      ]
+    },
+    "sad-057": {
+      "cluster": "why",
+      "voice": "What will happen to the evil that torments me?",
+      "situation": "Wanting to know what end awaits the powers of evil.",
+      "tags": [
+        "judgment",
+        "end",
+        "evil",
+        "justice"
+      ]
+    },
+    "sad-058": {
+      "cluster": "frightening",
+      "voice": "Fire and alarm. You’re stunned.",
+      "situation": "Stunned by frightening flashes and sounds.",
+      "tags": [
+        "alarm",
+        "stunned",
+        "God with us",
+        "fear"
+      ],
+      "note": "Evagrius says Macarius answered with these words."
+    },
+    "sad-059": {
+      "cluster": "give-up",
+      "voice": "You’re too weak to go on.",
+      "situation": "Thoughts that feed on weakness and weariness.",
+      "tags": [
+        "weakness",
+        "endurance",
+        "face like flint",
+        "help"
+      ]
+    },
+    "sad-060": {
+      "cluster": "grief",
+      "voice": "Your family despises you for not giving them money.",
+      "situation": "Hurt by relatives’ contempt, and finding no comfort from them.",
+      "tags": [
+        "family",
+        "contempt",
+        "reproach",
+        "rejected",
+        "money"
+      ]
+    },
+    "sad-061": {
+      "cluster": "dread",
+      "voice": "What if… what if… what if…",
+      "situation": "Empty, anxious thoughts breeding fear and dimming your peace.",
+      "tags": [
+        "anxiety",
+        "what if",
+        "fear",
+        "peace",
+        "rumination"
+      ]
+    },
+    "sad-062": {
+      "cluster": "frightening",
+      "voice": "Strange flashes of light frighten me.",
+      "situation": "Frightened by strange flashes of light.",
+      "tags": [
+        "lights",
+        "fear",
+        "rescue",
+        "with you"
+      ]
+    },
+    "sad-063": {
+      "cluster": "grief",
+      "voice": "My mind keeps sinking toward death and dark images.",
+      "situation": "Sadness dragging your mind toward death and disturbing images.",
+      "tags": [
+        "death",
+        "darkness",
+        "despair",
+        "wound",
+        "danger"
+      ],
+      "note": "Evagrius calls this a sign of a soul in danger. If your thoughts turn toward death, please reach out today. The help panel on this page has a free crisis line."
+    },
+    "sad-064": {
+      "cluster": "dread",
+      "voice": "Soon you’ll be shamed in front of everyone.",
+      "situation": "Fear of public failure in your life of faith.",
+      "tags": [
+        "shame",
+        "failure",
+        "public",
+        "disappointed"
+      ]
+    },
+    "sad-065": {
+      "cluster": "body",
+      "voice": "I feel something touching me, and I’m afraid.",
+      "situation": "Frightened by physical sensations of attack.",
+      "tags": [
+        "touch",
+        "fear",
+        "forehead",
+        "courage"
+      ]
+    },
+    "sad-066": {
+      "cluster": "god-far",
+      "voice": "Evil has power over me and can do as it pleases.",
+      "situation": "Believing the enemy’s boast that it controls you.",
+      "tags": [
+        "power",
+        "authority",
+        "Jesus",
+        "lies",
+        "freedom"
+      ],
+      "web": "MAT 8:30-32"
+    },
+    "sad-067": {
+      "cluster": "give-up",
+      "voice": "My heart is full of fear and trembling.",
+      "situation": "Not seeing that weak faith breeds fear.",
+      "tags": [
+        "fear",
+        "faith",
+        "troubled heart",
+        "believe"
+      ]
+    },
+    "sad-068": {
+      "cluster": "grief",
+      "voice": "I’ve been humiliated for following Jesus.",
+      "situation": "Sad about being dishonored for your faith.",
+      "tags": [
+        "humiliation",
+        "persecution",
+        "dishonor",
+        "faith",
+        "rejoice"
+      ]
+    },
+    "sad-069": {
+      "cluster": "why",
+      "voice": "This suffering is meaningless.",
+      "situation": "Suffering that seems to come from temptation and serve no purpose.",
+      "tags": [
+        "suffering",
+        "perseverance",
+        "hope",
+        "character",
+        "meaning"
+      ]
+    },
+    "sad-070": {
+      "cluster": "dread",
+      "voice": "Terrible suffering lies ahead of you.",
+      "situation": "Predictions of severe suffering to come.",
+      "tags": [
+        "suffering",
+        "future",
+        "glory",
+        "fear"
+      ]
+    },
+    "sad-071": {
+      "cluster": "give-up",
+      "voice": "This is more than I can take.",
+      "situation": "Believing you’re being tested beyond your strength.",
+      "tags": [
+        "too much",
+        "beyond strength",
+        "escape",
+        "faithful"
+      ]
+    },
+    "sad-072": {
+      "cluster": "why",
+      "voice": "This trial is beyond words. I feel like I’m dying.",
+      "situation": "An overwhelming trial you can’t even describe.",
+      "tags": [
+        "overwhelming",
+        "death",
+        "trust",
+        "raises the dead"
+      ],
+      "web": "2CO 1:9-10"
+    },
+    "sad-073": {
+      "cluster": "grief",
+      "voice": "Remember what you did when you were young?",
+      "situation": "The sins of your youth brought back to shame you.",
+      "tags": [
+        "past",
+        "youth",
+        "guilt",
+        "new creation",
+        "shame"
+      ]
+    },
+    "sad-074": {
+      "cluster": "grief",
+      "voice": "Losing this is crushing you, and it should.",
+      "situation": "Grief over passing, worldly things sinking your mind.",
+      "tags": [
+        "worldly sorrow",
+        "loss",
+        "grief",
+        "repentance"
+      ]
+    },
+    "sad-075": {
+      "cluster": "give-up",
+      "voice": "You’re in open war now, and you’ll lose.",
+      "situation": "Thoughts that come when the struggle is out in the open.",
+      "tags": [
+        "battle",
+        "resist",
+        "submit",
+        "flee"
+      ]
+    },
+    "sad-076": {
+      "cluster": "dread",
+      "voice": "You’ll be wounded, and your body will never recover.",
+      "situation": "Fear of lasting harm and incurable illness.",
+      "tags": [
+        "illness",
+        "harm",
+        "fear",
+        "incurable",
+        "health"
+      ],
+      "excerpt": {
+        "to": "in your hearts."
+      }
+    }
+  }
+}

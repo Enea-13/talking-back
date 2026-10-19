@@ -1,0 +1,855 @@
+{
+  "thought": "gluttony",
+  "entries": {
+    "glu-001": {
+      "cluster": "why-bother",
+      "voice": "I want to grow spiritually without the hard part.",
+      "situation": "Wanting the harvest of a disciplined life without the work of self-denial.",
+      "tags": [
+        "discipline",
+        "effort",
+        "fasting",
+        "shortcuts",
+        "growth"
+      ],
+      "lead": "greek",
+      "note": "In the Greek Bible Evagrius read, Issachar sees that the land is good and bends his shoulder to farm it."
+    },
+    "glu-002": {
+      "cluster": "why-bother",
+      "voice": "Fasting gets you nothing. It won’t make you any holier.",
+      "situation": "Doubting that self-denial does your soul any real good.",
+      "tags": [
+        "fasting",
+        "pointless",
+        "doubt",
+        "discipline"
+      ],
+      "lead": "greek",
+      "note": "Evagrius’s Greek text says the bronze washing basin was made from the mirrors of women who fasted at the tent’s door. Their discipline became part of God’s house."
+    },
+    "glu-003": {
+      "cluster": "just-this-once",
+      "voice": "It’s a special day, and you’re run down anyway. Indulge.",
+      "situation": "Using a holiday or feeling unwell as the reason to give in to a craving.",
+      "tags": [
+        "holiday",
+        "craving",
+        "excuse",
+        "illness",
+        "indulgence",
+        "meat"
+      ],
+      "excerpt": {
+        "from": "You will not eat just one day"
+      }
+    },
+    "glu-004": {
+      "cluster": "full-and-dull",
+      "voice": "Eat until you’re full. What harm could it do?",
+      "situation": "Filling up without noticing how comfort makes you forget God.",
+      "tags": [
+        "overeating",
+        "comfort",
+        "forgetting God",
+        "gratitude",
+        "fullness"
+      ],
+      "excerpt": {
+        "from": "you shall eat and be full"
+      }
+    },
+    "glu-005": {
+      "cluster": "why-bother",
+      "voice": "God asks too much. Fasting is a burden.",
+      "situation": "Feeling that God’s call to self-control is too heavy for you.",
+      "tags": [
+        "burden",
+        "fasting",
+        "too hard",
+        "commandments"
+      ]
+    },
+    "glu-006": {
+      "cluster": "full-and-dull",
+      "voice": "Food and drink can’t hurt your soul.",
+      "situation": "Assuming indulgence has no effect on your life with God.",
+      "tags": [
+        "indulgence",
+        "complacency",
+        "harmless",
+        "soul"
+      ]
+    },
+    "glu-007": {
+      "cluster": "just-this-once",
+      "voice": "You’ve fasted long enough. Eat now. Don’t wait for evening.",
+      "situation": "Wanting to break a fast before the time you set.",
+      "tags": [
+        "fasting",
+        "breaking a fast",
+        "impatience",
+        "hunger"
+      ],
+      "note": "Desert monks usually ate in mid-afternoon (the “ninth hour”). Here the pull is to eat at the usual time on a day set aside for a longer fast."
+    },
+    "glu-008": {
+      "cluster": "not-enough",
+      "voice": "You’re going to run out of what you need.",
+      "situation": "Fear that your food, money or supplies are about to run dry.",
+      "tags": [
+        "scarcity",
+        "provision",
+        "fear",
+        "running out",
+        "money"
+      ]
+    },
+    "glu-009": {
+      "cluster": "full-and-dull",
+      "voice": "I can follow the saints and keep every comfort too.",
+      "situation": "Wanting a holy life without giving anything up.",
+      "tags": [
+        "comfort",
+        "holiness",
+        "saints",
+        "sacrifice"
+      ],
+      "note": "Micaiah told the king the truth and was given the “bread of affliction” for it."
+    },
+    "glu-010": {
+      "cluster": "not-enough",
+      "voice": "There isn’t enough to share with everyone who comes.",
+      "situation": "Holding back hospitality because you’re afraid there won’t be enough.",
+      "tags": [
+        "hospitality",
+        "scarcity",
+        "sharing",
+        "guests",
+        "provision"
+      ]
+    },
+    "glu-011": {
+      "cluster": "tired-of-going-without",
+      "voice": "Living with this little is bitter. You deserve better.",
+      "situation": "Resentment about being poor or having little.",
+      "tags": [
+        "poverty",
+        "bitterness",
+        "resentment",
+        "lack",
+        "contentment"
+      ]
+    },
+    "glu-012": {
+      "cluster": "not-enough",
+      "voice": "Better stock up on more. For guests, of course.",
+      "situation": "Hoarding more than you need and calling it hospitality.",
+      "tags": [
+        "hoarding",
+        "stockpiling",
+        "hospitality",
+        "excuse",
+        "security"
+      ]
+    },
+    "glu-013": {
+      "cluster": "full-and-dull",
+      "voice": "Worry about what to eat and wear. The truth can wait.",
+      "situation": "Busy with food and clothes while ignoring what is wrong in your heart.",
+      "tags": [
+        "distraction",
+        "priorities",
+        "repentance",
+        "honesty",
+        "sin"
+      ]
+    },
+    "glu-014": {
+      "cluster": "why-bother",
+      "voice": "Ease up. All this fasting and work will wear out your body.",
+      "situation": "Being told your discipline is too hard on your weak body.",
+      "tags": [
+        "too severe",
+        "exhaustion",
+        "body",
+        "fasting",
+        "work"
+      ],
+      "greekRef": "PSA 48:9-10",
+      "greekExcerpt": {
+        "from": "though he labour"
+      },
+      "lead": "greek"
+    },
+    "glu-015": {
+      "cluster": "why-bother",
+      "voice": "Don’t push yourself so hard staying up to pray.",
+      "situation": "Pressure to drop the late-night or early-morning prayer you committed to.",
+      "tags": [
+        "vigil",
+        "prayer",
+        "night",
+        "sleep",
+        "effort"
+      ]
+    },
+    "glu-016": {
+      "cluster": "not-enough",
+      "voice": "Where is your next meal coming from? You’d better figure it out.",
+      "situation": "Anxious scheming about how to get food, drink or money.",
+      "tags": [
+        "anxiety",
+        "worry",
+        "provision",
+        "food",
+        "money"
+      ]
+    },
+    "glu-017": {
+      "cluster": "why-bother",
+      "voice": "Staying awake to pray just stirs up more thoughts.",
+      "situation": "Feeling that praying at night only brings more distraction.",
+      "tags": [
+        "vigil",
+        "distraction",
+        "night",
+        "prayer",
+        "thoughts"
+      ]
+    },
+    "glu-018": {
+      "cluster": "why-bother",
+      "voice": "Giving that up is ridiculous. Nobody lives like that.",
+      "situation": "Being mocked or second-guessed for giving something up.",
+      "tags": [
+        "mockery",
+        "abstaining",
+        "fasting",
+        "criticism",
+        "giving up"
+      ]
+    },
+    "glu-019": {
+      "cluster": "body-fears",
+      "voice": "Keep fasting like this and you’ll ruin your health.",
+      "situation": "Fear that your discipline will harm you, or even kill you.",
+      "tags": [
+        "fear",
+        "health",
+        "death",
+        "fasting"
+      ]
+    },
+    "glu-020": {
+      "cluster": "why-bother",
+      "voice": "Skip prayer tonight. Your body needs the rest.",
+      "situation": "Talking yourself out of a prayer commitment for the sake of comfort.",
+      "tags": [
+        "sleep",
+        "rest",
+        "prayer",
+        "comfort",
+        "tired"
+      ]
+    },
+    "glu-021": {
+      "cluster": "not-enough",
+      "voice": "Hard times are coming. You won’t make it.",
+      "situation": "Dread that famine, recession or disaster is just around the corner.",
+      "tags": [
+        "dread",
+        "future",
+        "recession",
+        "famine",
+        "fear",
+        "economy"
+      ]
+    },
+    "glu-022": {
+      "cluster": "just-this-once",
+      "voice": "Have a drink. Water alone isn’t good for you.",
+      "situation": "Justifying alcohol as healthier than going without.",
+      "tags": [
+        "alcohol",
+        "wine",
+        "drinking",
+        "excuse",
+        "health"
+      ],
+      "note": "This line appears only in the Greek version of Proverbs."
+    },
+    "glu-023": {
+      "cluster": "full-and-dull",
+      "voice": "Plan your next meal. Growing in virtue can wait.",
+      "situation": "Thinking more about food than about becoming a better person.",
+      "tags": [
+        "priorities",
+        "food",
+        "virtue",
+        "effort",
+        "focus"
+      ]
+    },
+    "glu-024": {
+      "cluster": "tired-of-going-without",
+      "voice": "Plain food again? This is miserable.",
+      "situation": "Complaining about simple meals.",
+      "tags": [
+        "complaining",
+        "simple food",
+        "contentment",
+        "gratitude"
+      ]
+    },
+    "glu-025": {
+      "cluster": "just-this-once",
+      "voice": "It’s a holiday. Be kind to yourself and have something nice.",
+      "situation": "Treating a celebration as permission to indulge.",
+      "tags": [
+        "holiday",
+        "treat",
+        "self-care",
+        "indulgence"
+      ]
+    },
+    "glu-026": {
+      "cluster": "just-this-once",
+      "voice": "You’ll get stomach trouble without a little wine.",
+      "situation": "Inventing health reasons to drink when you aren’t sick.",
+      "tags": [
+        "alcohol",
+        "wine",
+        "excuse",
+        "health",
+        "drinking"
+      ],
+      "web": "PRO 20:1"
+    },
+    "glu-027": {
+      "cluster": "overdoing-it",
+      "voice": "Swear you’ll never eat that again. Make a vow.",
+      "situation": "Binding yourself with rash vows about fasting or dieting.",
+      "tags": [
+        "vows",
+        "oaths",
+        "rash promises",
+        "extremes",
+        "diet"
+      ]
+    },
+    "glu-028": {
+      "cluster": "keeping-for-myself",
+      "voice": "They can get help somewhere else. It’s not your job.",
+      "situation": "Holding back food or help from someone in need.",
+      "tags": [
+        "generosity",
+        "poor",
+        "giving",
+        "excuses",
+        "charity"
+      ]
+    },
+    "glu-029": {
+      "cluster": "just-this-once",
+      "voice": "You almost never indulge. Once in a long while is fine.",
+      "situation": "A gentle suggestion that a rare binge doesn’t count.",
+      "tags": [
+        "just once",
+        "binge",
+        "alcohol",
+        "meat",
+        "exception"
+      ]
+    },
+    "glu-030": {
+      "cluster": "old-comforts",
+      "voice": "Remember those great evenings with good wine?",
+      "situation": "Nostalgia for past drinking and good times at the table.",
+      "tags": [
+        "nostalgia",
+        "alcohol",
+        "wine",
+        "memories",
+        "drinking"
+      ]
+    },
+    "glu-031": {
+      "cluster": "full-and-dull",
+      "voice": "Fill your stomach, even if it’s only bread and water.",
+      "situation": "The urge to eat until you are full, even of simple food.",
+      "tags": [
+        "overeating",
+        "fullness",
+        "appetite"
+      ],
+      "lead": "greek",
+      "note": "The source of this quotation is uncertain. It closely matches the Greek of Proverbs 24:15.",
+      "web": null,
+      "greekRef": "PRO 24:15"
+    },
+    "glu-032": {
+      "cluster": "just-this-once",
+      "voice": "You’d be embarrassed not to go along with them.",
+      "situation": "Pressure to drop a commitment because refusing feels awkward in front of people you respect.",
+      "tags": [
+        "peer pressure",
+        "embarrassment",
+        "shame",
+        "respect",
+        "social"
+      ],
+      "note": "The text of this entry may be damaged in the manuscripts. The verse distinguishes good shame from bad."
+    },
+    "glu-033": {
+      "cluster": "just-this-once",
+      "voice": "You’ve been strict for so long. Food can’t hurt you now.",
+      "situation": "Flattering promises that you’ve earned the right to indulge freely.",
+      "tags": [
+        "flattery",
+        "earned it",
+        "reward",
+        "relapse",
+        "deception"
+      ]
+    },
+    "glu-034": {
+      "cluster": "why-bother",
+      "voice": "God’s commands only bring you hardship and misery.",
+      "situation": "Seeing God’s commands as harsh rather than loving.",
+      "tags": [
+        "commandments",
+        "hardship",
+        "trust",
+        "God’s love"
+      ]
+    },
+    "glu-035": {
+      "cluster": "just-this-once",
+      "voice": "Wine was made for people. Enjoy it.",
+      "situation": "Arguing that a good gift is always meant to be used right now.",
+      "tags": [
+        "alcohol",
+        "wine",
+        "enjoyment",
+        "timing",
+        "excuse"
+      ]
+    },
+    "glu-036": {
+      "cluster": "old-comforts",
+      "voice": "Go back to how things used to be: the parties, the drinks.",
+      "situation": "Longing to return to old habits of feasting and drinking.",
+      "tags": [
+        "nostalgia",
+        "parties",
+        "old habits",
+        "drinking",
+        "relapse"
+      ]
+    },
+    "glu-037": {
+      "cluster": "overdoing-it",
+      "voice": "Go further. Live rough, cut everyone off, prove your devotion.",
+      "situation": "Being pushed toward extreme austerity and isolation beyond what is wise.",
+      "tags": [
+        "extremes",
+        "scrupulosity",
+        "isolation",
+        "pride",
+        "austerity"
+      ]
+    },
+    "glu-038": {
+      "cluster": "old-comforts",
+      "voice": "Remember how good life used to be? Look at it now.",
+      "situation": "Comparing a hard present with comfortable memories.",
+      "tags": [
+        "hardship",
+        "memories",
+        "comparison",
+        "complaint",
+        "acceptance"
+      ]
+    },
+    "glu-039": {
+      "cluster": "old-comforts",
+      "voice": "Picture the full table back home with family.",
+      "situation": "Daydreaming about a place of comfort and plenty you have left behind.",
+      "tags": [
+        "family",
+        "home",
+        "daydreaming",
+        "comfort",
+        "homesick"
+      ]
+    },
+    "glu-040": {
+      "cluster": "old-comforts",
+      "voice": "Everyone else is feasting and celebrating without you.",
+      "situation": "Feeling left out while others enjoy food and celebration.",
+      "tags": [
+        "left out",
+        "envy",
+        "celebration",
+        "fomo",
+        "holiday"
+      ]
+    },
+    "glu-041": {
+      "cluster": "old-comforts",
+      "voice": "A life of pleasure is better than this life of faith.",
+      "situation": "Calling indulgence good and the way of discipline bad.",
+      "tags": [
+        "pleasure",
+        "worldliness",
+        "values",
+        "compromise"
+      ]
+    },
+    "glu-042": {
+      "cluster": "tired-of-going-without",
+      "voice": "I’m so tired of going without.",
+      "situation": "Weariness after a long stretch of having little.",
+      "tags": [
+        "weary",
+        "hunger",
+        "going without",
+        "endurance"
+      ]
+    },
+    "glu-043": {
+      "cluster": "body-fears",
+      "voice": "My body is worn out, and my mind is full of impure thoughts.",
+      "situation": "Physically drained and still tempted, and asking God to remember you.",
+      "tags": [
+        "weakness",
+        "exhaustion",
+        "lust",
+        "tempted",
+        "prayer"
+      ]
+    },
+    "glu-044": {
+      "cluster": "body-fears",
+      "voice": "I feel weak and sick, like I’m wasting away.",
+      "situation": "Sudden physical weakness and distress, brought to God.",
+      "tags": [
+        "weakness",
+        "sickness",
+        "distress",
+        "prayer",
+        "body"
+      ]
+    },
+    "glu-045": {
+      "cluster": "tired-of-going-without",
+      "voice": "Bread and water aren’t enough. I want something more.",
+      "situation": "Not content with simple food and wanting extras.",
+      "tags": [
+        "contentment",
+        "simple food",
+        "cravings",
+        "Daniel"
+      ],
+      "excerpt": {
+        "from": "Test your servants",
+        "to": "gave them vegetables."
+      }
+    },
+    "glu-046": {
+      "cluster": "why-bother",
+      "voice": "How can I stand firm when temptation hits?",
+      "situation": "Looking for strength against temptation. Jesus prepared by fasting.",
+      "tags": [
+        "strength",
+        "armor",
+        "temptation",
+        "Jesus",
+        "fasting"
+      ]
+    },
+    "glu-047": {
+      "cluster": "not-enough",
+      "voice": "You have to worry. Guests, illness and hard times are coming.",
+      "situation": "Anxiety about food and clothing dressed up as being responsible.",
+      "tags": [
+        "anxiety",
+        "worry",
+        "provision",
+        "responsibility",
+        "clothing"
+      ]
+    },
+    "glu-048": {
+      "cluster": "full-and-dull",
+      "voice": "Treat yourself well and life will go well.",
+      "situation": "Believing that comfort and pleasure are the road to a good life.",
+      "tags": [
+        "comfort",
+        "pleasure",
+        "narrow way",
+        "self-indulgence"
+      ]
+    },
+    "glu-049": {
+      "cluster": "keeping-for-myself",
+      "voice": "There’s not enough for both of you, and they’re probably lazy anyway.",
+      "situation": "Finding reasons not to share with someone in need.",
+      "tags": [
+        "generosity",
+        "poor",
+        "judging",
+        "excuses",
+        "sharing"
+      ]
+    },
+    "glu-050": {
+      "cluster": "keeping-for-myself",
+      "voice": "Look after yourself first. Keep it for you.",
+      "situation": "Gathering food and goods for yourself alone.",
+      "tags": [
+        "selfishness",
+        "sharing",
+        "community",
+        "possessions"
+      ]
+    },
+    "glu-051": {
+      "cluster": "tired-of-going-without",
+      "voice": "This hardship is wearing me down.",
+      "situation": "Growing weary under the strain of self-restraint.",
+      "tags": [
+        "weary",
+        "hardship",
+        "endurance",
+        "perseverance"
+      ]
+    },
+    "glu-052": {
+      "cluster": "just-this-once",
+      "voice": "Take care of yourself. Eat and drink a little more.",
+      "situation": "Using self-care as cover for indulging.",
+      "tags": [
+        "self-care",
+        "indulgence",
+        "excuse",
+        "flesh"
+      ]
+    },
+    "glu-053": {
+      "cluster": "just-this-once",
+      "voice": "Just a small treat. It’s only something little.",
+      "situation": "Wanting a small comfort food to console yourself.",
+      "tags": [
+        "treat",
+        "comfort food",
+        "small indulgence",
+        "craving"
+      ],
+      "note": "For desert monks who lived on bread and water, cooked vegetables were a treat."
+    },
+    "glu-054": {
+      "cluster": "just-this-once",
+      "voice": "It’s the season for it. You have to have some.",
+      "situation": "Seasonal cravings that feel impossible to pass up.",
+      "tags": [
+        "craving",
+        "seasonal",
+        "fruit",
+        "self-control",
+        "athlete"
+      ]
+    },
+    "glu-055": {
+      "cluster": "tired-of-going-without",
+      "voice": "You’re in real need. Ease off; you can’t keep this up.",
+      "situation": "Hardship slowly draining your resolve.",
+      "tags": [
+        "need",
+        "hardship",
+        "resolve",
+        "pressure",
+        "perseverance"
+      ]
+    },
+    "glu-056": {
+      "cluster": "body-fears",
+      "voice": "Your stomach, your liver… something is seriously wrong.",
+      "situation": "Imagining illness and fixating on symptoms.",
+      "tags": [
+        "health anxiety",
+        "illness",
+        "symptoms",
+        "body",
+        "fear"
+      ]
+    },
+    "glu-057": {
+      "cluster": "body-fears",
+      "voice": "Your body is falling apart.",
+      "situation": "Distress as your body ages or declines.",
+      "tags": [
+        "aging",
+        "decline",
+        "body",
+        "mortality",
+        "illness"
+      ]
+    },
+    "glu-058": {
+      "cluster": "keeping-for-myself",
+      "voice": "Why did you give that away? You’ll regret it.",
+      "situation": "Regret or annoyance after being generous.",
+      "tags": [
+        "regret",
+        "giving",
+        "generosity",
+        "charity",
+        "second thoughts"
+      ],
+      "web": [
+        "2CO 9:7",
+        "PRO 22:9"
+      ],
+      "greekRef": [
+        null,
+        "PRO 22:8-9"
+      ],
+      "greekExcerpt": {
+        "from": "God loves a cheerful"
+      }
+    },
+    "glu-059": {
+      "cluster": "body-fears",
+      "voice": "You’ll make yourself sick. Eat a proper meal.",
+      "situation": "Fear of weakness used to make you break a commitment.",
+      "tags": [
+        "weakness",
+        "sickness",
+        "fear",
+        "fasting",
+        "health"
+      ]
+    },
+    "glu-060": {
+      "cluster": "just-this-once",
+      "voice": "It’s a celebration. Get a little drunk.",
+      "situation": "Wanting to drink heavily on a holiday or special occasion.",
+      "tags": [
+        "alcohol",
+        "drunkenness",
+        "party",
+        "holiday",
+        "celebration"
+      ]
+    },
+    "glu-061": {
+      "cluster": "not-enough",
+      "voice": "Don’t work for it, and don’t ask family. Let others cover you.",
+      "situation": "Anxious maneuvering about how your needs will be met.",
+      "tags": [
+        "anxiety",
+        "dependence",
+        "work",
+        "needs",
+        "family"
+      ]
+    },
+    "glu-062": {
+      "cluster": "not-enough",
+      "voice": "You’ll go hungry, or worse, have to accept charity.",
+      "situation": "Fear of need, and of the humiliation of receiving help.",
+      "tags": [
+        "fear",
+        "poverty",
+        "pride",
+        "receiving help",
+        "contentment"
+      ]
+    },
+    "glu-063": {
+      "cluster": "keeping-for-myself",
+      "voice": "Why work with your hands? Others will provide.",
+      "situation": "Avoiding honest work and expecting others to support you.",
+      "tags": [
+        "work",
+        "laziness",
+        "dependence",
+        "responsibility"
+      ],
+      "excerpt": {
+        "from": "that you make it your ambition"
+      }
+    },
+    "glu-064": {
+      "cluster": "keeping-for-myself",
+      "voice": "Skip the work. Just eat and fill up.",
+      "situation": "Wanting comfort without contributing anything.",
+      "tags": [
+        "work",
+        "laziness",
+        "eating",
+        "responsibility"
+      ]
+    },
+    "glu-065": {
+      "cluster": "why-bother",
+      "voice": "This discipline is cruel and does nothing for your soul.",
+      "situation": "Feeling that a disciplined life is all pain and no gain.",
+      "tags": [
+        "discipline",
+        "pain",
+        "pointless",
+        "training",
+        "fruit"
+      ]
+    },
+    "glu-066": {
+      "cluster": "keeping-for-myself",
+      "voice": "Focus on your meals. Other people’s needs aren’t your problem.",
+      "situation": "Caring about your own food while neglecting people in need.",
+      "tags": [
+        "compassion",
+        "neglect",
+        "needy",
+        "generosity"
+      ]
+    },
+    "glu-067": {
+      "cluster": "just-this-once",
+      "voice": "Even Paul told Timothy to drink a little wine.",
+      "situation": "Quoting Scripture to justify drinking when you aren’t ill.",
+      "tags": [
+        "alcohol",
+        "wine",
+        "scripture excuse",
+        "rationalizing"
+      ],
+      "note": "Paul’s advice was for Timothy’s frequent illnesses. Evagrius aims the verse at a thought that borrows the permission without the illness."
+    },
+    "glu-068": {
+      "cluster": "old-comforts",
+      "voice": "Go back to the world and its ways. They’re not so bad.",
+      "situation": "Being drawn back toward the world’s way of living.",
+      "tags": [
+        "worldliness",
+        "compromise",
+        "going back",
+        "friendship with the world"
+      ]
+    },
+    "glu-069": {
+      "cluster": "why-bother",
+      "voice": "Fasting is too hard. God can’t really expect this.",
+      "situation": "Feeling that self-denial is an impossible burden.",
+      "tags": [
+        "burden",
+        "fasting",
+        "victory",
+        "faith",
+        "commandments"
+      ]
+    }
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "thought": "pride",
+  "entries": {
+    "pri-001": {
+      "cluster": "already-holy",
+      "voice": "I’m the Lord’s holy one.",
+      "situation": "Thinking of yourself as specially holy.",
+      "tags": ["holy", "superiority", "spiritual pride", "serpent"],
+      "note": "Evagrius answers this boast with God’s curse on the serpent, the first proud one."
+    },
+    "pri-002": {
+      "cluster": "already-holy",
+      "voice": "You’re pure now. Impure thoughts don’t touch you anymore.",
+      "situation": "Pride in your own purity.",
+      "tags": ["purity", "pride", "dust and ashes", "humility"]
+    },
+    "pri-003": {
+      "cluster": "did-it-myself",
+      "voice": "God doesn’t provide for me. I take care of myself.",
+      "situation": "Denying God’s care and the help he sends.",
+      "tags": ["provision", "self-sufficient", "gratitude", "angel"]
+    },
+    "pri-004": {
+      "cluster": "false-light",
+      "voice": "Why does studying spiritual things always meet resistance?",
+      "situation": "Wondering why time with God’s word gets crowded out.",
+      "tags": ["study", "resistance", "busyness", "distraction"],
+      "note": "Pharaoh’s strategy was to pile on more work so the people had no time for words of hope. Evagrius sees the same tactic used against those who study God’s word."
+    },
+    "pri-005": {
+      "cluster": "did-it-myself",
+      "voice": "You don’t need God to save you.",
+      "situation": "Rejecting the salvation by which every other temptation is overcome.",
+      "tags": ["salvation", "strength", "song", "self-reliance"]
+    },
+    "pri-006": {
+      "cluster": "did-it-myself",
+      "voice": "I beat my sadness by my own strength.",
+      "situation": "Taking the credit for coming through a dark season.",
+      "tags": ["credit", "strength", "right hand", "victory"],
+      "web": "EXO 15:6-7"
+    },
+    "pri-007": {
+      "cluster": "false-light",
+      "voice": "I don’t need any guidance. Nobody can teach me.",
+      "situation": "Scorning the help and correction God sends.",
+      "tags": ["guidance", "correction", "angels", "unteachable"]
+    },
+    "pri-008": {
+      "cluster": "better-than-them",
+      "voice": "Those elders haven’t done any more than I have.",
+      "situation": "Looking down on spiritual elders and mentors.",
+      "tags": ["elders", "respect", "mentors", "contempt"]
+    },
+    "pri-009": {
+      "cluster": "blasphemy",
+      "voice": "Curse God. Say it.",
+      "situation": "A blasphemous thought pushing your mind toward ruin.",
+      "tags": ["blasphemy", "cursing God", "intrusive thoughts"],
+      "excerpt": { "from": "Whoever curses his God", "to": "shall bear his sin." },
+      "note": "Unwanted blasphemous thoughts are a common temptation. Having one is not the same as choosing it. Evagrius answers the thought instead of obeying it."
+    },
+    "pri-010": {
+      "cluster": "blasphemy",
+      "voice": "Blasphemous thoughts keep coming, and I can’t pray freely.",
+      "situation": "Persistent blasphemous thoughts robbing your prayer of confidence.",
+      "tags": ["blasphemy", "prayer", "confidence", "intrusive thoughts"],
+      "web": "NUM 10:35",
+      "greekRef": "NUM 10:34"
+    },
+    "pri-011": {
+      "cluster": "false-light",
+      "voice": "Knowing Christ and keeping his commands isn’t worth much.",
+      "situation": "Belittling the beauty of knowing Christ.",
+      "tags": ["knowledge of Christ", "commandments", "good land", "fear"],
+      "web": "NUM 14:6-9",
+      "excerpt": { "from": "The land, which we passed through" }
+    },
+    "pri-012": {
+      "cluster": "blasphemy",
+      "voice": "Is God even in you? Test him and find out.",
+      "situation": "Doubting God’s presence and wanting to put him to the test.",
+      "tags": ["doubt", "testing God", "presence", "Massah"]
+    },
+    "pri-013": {
+      "cluster": "did-it-myself",
+      "voice": "I beat these temptations by my own power.",
+      "situation": "Supposing your own strength defeated what was against you.",
+      "tags": ["self-reliance", "strength", "credit", "remember"]
+    },
+    "pri-014": {
+      "cluster": "did-it-myself",
+      "voice": "I won because I’m righteous.",
+      "situation": "Believing your goodness earned you victory and understanding.",
+      "tags": ["self-righteousness", "earned", "victory", "grace"]
+    },
+    "pri-015": {
+      "cluster": "already-holy",
+      "voice": "Everyone praises you. You’re the father of the wise.",
+      "situation": "Flattering thoughts of universal admiration.",
+      "tags": ["flattery", "praise", "admiration", "legacy"],
+      "web": "DEU 28:16-17"
+    },
+    "pri-016": {
+      "cluster": "blasphemy",
+      "voice": "You have no free will, so none of it is your fault.",
+      "situation": "Denying free will to escape responsibility for sin.",
+      "tags": ["free will", "responsibility", "choice", "blame"]
+    },
+    "pri-017": {
+      "cluster": "false-light",
+      "voice": "That vision must be from God.",
+      "situation": "Trusting every spiritual experience without discernment.",
+      "tags": ["discernment", "visions", "experiences", "peace"],
+      "note": "Evagrius’s test: a true messenger from God may startle you at first, but leaves joy and deep peace. A false one leaves fear and agitation."
+    },
+    "pri-018": {
+      "cluster": "did-it-myself",
+      "voice": "You don’t need God’s grace.",
+      "situation": "Denying your need for grace.",
+      "tags": ["grace", "self-sufficient", "sin against the Lord"]
+    },
+    "pri-019": {
+      "cluster": "blasphemy",
+      "voice": "These thoughts stop my prayer, so I’ll get on my knees.",
+      "situation": "Answering blasphemous thoughts by kneeling in humble prayer.",
+      "tags": ["kneeling", "humility", "prayer", "persistence"]
+    },
+    "pri-020": {
+      "cluster": "blasphemy",
+      "voice": "These frightening blasphemies shake me so much I can’t pray.",
+      "situation": "Shaken by frightening blasphemous thoughts and losing confidence in prayer.",
+      "tags": ["frightened", "blasphemy", "confidence", "don’t be afraid"]
+    },
+    "pri-021": {
+      "cluster": "blasphemy",
+      "voice": "Unspeakable words against God keep rising in me.",
+      "situation": "Horrified by blasphemies that seem to speak inside you.",
+      "tags": ["blasphemy", "horror", "prayer", "hear and see"],
+      "note": "Evagrius recommends fasting and reading Scripture during this temptation."
+    },
+    "pri-022": {
+      "cluster": "did-it-myself",
+      "voice": "The victory was mine, not God’s.",
+      "situation": "Denying that victory comes from God.",
+      "tags": ["victory", "credit", "wisdom", "glory"]
+    },
+    "pri-023": {
+      "cluster": "blasphemy",
+      "voice": "These blasphemous thoughts just won’t leave.",
+      "situation": "Persistent blasphemous thoughts, brought to God.",
+      "tags": ["persistent", "blasphemy", "refuge", "deliver"],
+      "web": "PSA 7:1-2"
+    },
+    "pri-024": {
+      "cluster": "false-light",
+      "voice": "Something proud and dazzling is coming at me.",
+      "situation": "Pride arriving disguised as something bright and good.",
+      "tags": ["angel of light", "deception", "pride", "disguise"]
+    },
+    "pri-025": {
+      "cluster": "did-it-myself",
+      "voice": "My own skill won this.",
+      "situation": "Crediting a victory to your own ability instead of God’s help.",
+      "tags": ["skill", "self-trust", "bow and sword", "saved"]
+    },
+    "pri-026": {
+      "cluster": "false-light",
+      "voice": "I’ll explain the Scriptures to you myself.",
+      "situation": "Self-appointed spiritual teaching that is really deception.",
+      "tags": ["false teaching", "Scripture", "interpretation", "deception"],
+      "note": "Evagrius says Macarius answered such a demon with this verse."
+    },
+    "pri-027": {
+      "cluster": "blasphemy",
+      "voice": "Proud thoughts are crowding in from every side.",
+      "situation": "Pride closing in on your mind.",
+      "tags": ["pride", "surrounded", "wall", "collapse"]
+    },
+    "pri-028": {
+      "cluster": "blasphemy",
+      "voice": "My pride makes it hard to pray honestly.",
+      "situation": "Persistent pride stealing your openness in prayer.",
+      "tags": ["pride", "prayer", "forgiveness", "honesty"]
+    },
+    "pri-029": {
+      "cluster": "blasphemy",
+      "voice": "Say something unspeakable about God.",
+      "situation": "Blasphemous words rising in your mind.",
+      "tags": ["blasphemy", "stiff neck", "arrogance"]
+    },
+    "pri-030": {
+      "cluster": "did-it-myself",
+      "voice": "Look how much I’ve built up in other people’s lives.",
+      "situation": "Pride in your spiritual influence on others.",
+      "tags": ["influence", "ministry", "building", "credit"]
+    },
+    "pri-031": {
+      "cluster": "better-than-them",
+      "voice": "They’re slacking. Not like me.",
+      "situation": "Mocking others for neglecting their faith.",
+      "tags": ["mocking", "judging", "slacking", "humble"],
+      "lead": "greek"
+    },
+    "pri-032": {
+      "cluster": "false-light",
+      "voice": "What feeds the evil that fights me?",
+      "situation": "Wanting to understand what the forces of evil feed on.",
+      "tags": ["wickedness", "violence", "understanding", "feeding"]
+    },
+    "pri-033": {
+      "cluster": "better-than-them",
+      "voice": "Why visit them? They don’t know any more than you.",
+      "situation": "Avoiding fellowship because you think you know better.",
+      "tags": ["fellowship", "know-it-all", "isolation", "wise company"]
+    },
+    "pri-034": {
+      "cluster": "false-light",
+      "voice": "Don’t ask anyone to pray for you. You can handle this.",
+      "situation": "Too proud to ask others for prayer during a long trial.",
+      "tags": ["asking for help", "prayer", "community", "pride"],
+      "lead": "greek"
+    },
+    "pri-035": {
+      "cluster": "already-holy",
+      "voice": "You’re pure and victorious.",
+      "situation": "Believing you are clean and without sin.",
+      "tags": ["purity", "sinless", "pride", "heart"]
+    },
+    "pri-036": {
+      "cluster": "already-holy",
+      "voice": "Holy fear? You’ve outgrown it. You’ve succeeded.",
+      "situation": "Treating reverent fear as something only for the unsuccessful.",
+      "tags": ["fear of God", "success", "hardened heart"]
+    },
+    "pri-037": {
+      "cluster": "better-than-them",
+      "voice": "My background makes me better than them.",
+      "situation": "Pride in your family, birth or background.",
+      "tags": ["family", "background", "class", "pedigree", "dust"]
+    },
+    "pri-038": {
+      "cluster": "better-than-them",
+      "voice": "Look at all their sins.",
+      "situation": "Fixating on other people’s sins.",
+      "tags": ["judging", "others’ sins", "self-righteous"]
+    },
+    "pri-039": {
+      "cluster": "already-holy",
+      "voice": "You’ve arrived. You’re a mature believer now.",
+      "situation": "Believing you’ve reached spiritual maturity.",
+      "tags": ["maturity", "arrived", "perfect", "hope"]
+    },
+    "pri-040": {
+      "cluster": "already-holy",
+      "voice": "You’re so humble you could stand to be a little proud.",
+      "situation": "Being “cured” of humility by bad advice.",
+      "tags": ["humility", "bad advice", "worthless physicians"]
+    },
+    "pri-041": {
+      "cluster": "blasphemy",
+      "voice": "Say what you really think about God.",
+      "situation": "Thoughts that try to drag your mind into blasphemy.",
+      "tags": ["blasphemy", "deceit", "speech about God"]
+    },
+    "pri-042": {
+      "cluster": "better-than-them",
+      "voice": "Let me remind you of what they’ve done wrong.",
+      "situation": "Mentally listing other people’s sins.",
+      "tags": ["judging", "list", "others’ sins", "clean"]
+    },
+    "pri-043": {
+      "cluster": "already-holy",
+      "voice": "God must be very pleased with my way of life.",
+      "situation": "Pride in your life as an offering to God.",
+      "tags": ["self-satisfaction", "merit", "pleasing God"]
+    },
+    "pri-044": {
+      "cluster": "blasphemy",
+      "voice": "Rise up against heaven itself.",
+      "situation": "A thought that pushes you toward open rebellion against God.",
+      "tags": ["rebellion", "heaven", "rebuke", "Satan"]
+    },
+    "pri-045": {
+      "cluster": "already-holy",
+      "voice": "You’re so wise.",
+      "situation": "Pride in your own wisdom.",
+      "tags": ["wisdom", "conceit", "wise in own eyes"]
+    },
+    "pri-046": {
+      "cluster": "false-light",
+      "voice": "Nothing frightens the enemy.",
+      "situation": "Not believing that knowing Christ exposes and terrifies evil.",
+      "tags": ["knowledge of Christ", "enemy", "fear", "unmask"]
+    },
+    "pri-047": {
+      "cluster": "blasphemy",
+      "voice": "These powers are like gods. Fear them.",
+      "situation": "Giving evil powers a godlike place in your mind.",
+      "tags": ["idols", "false gods", "powers", "creator"]
+    },
+    "pri-048": {
+      "cluster": "did-it-myself",
+      "voice": "Look, you’ve beaten your enemies.",
+      "situation": "Pride in your victories.",
+      "tags": ["victory", "direction", "steps", "humility"]
+    },
+    "pri-049a": {
+      "cluster": "blasphemy",
+      "voice": "I had a blasphemous thought, and I’m crushed by it.",
+      "situation": "Saddened and ashamed after a blasphemous thought.",
+      "tags": ["shame", "blasphemy", "compassion", "intrusive thoughts"],
+      "note": "A thought that horrifies you is not one you have chosen. God “does not afflict willingly.”"
+    },
+    "pri-049b": {
+      "cluster": "blasphemy",
+      "voice": "Blasphemies cloud my mind just when I pray.",
+      "situation": "Blasphemous thoughts covering your mind at prayer.",
+      "tags": ["prayer", "cloud", "blasphemy"]
+    },
+    "pri-050": {
+      "cluster": "better-than-them",
+      "voice": "You should be first among them.",
+      "situation": "Wanting to be first in your community.",
+      "tags": ["first", "rank", "servant", "ambition"]
+    },
+    "pri-051": {
+      "cluster": "already-holy",
+      "voice": "You’ve done what’s required. That’s plenty.",
+      "situation": "Thinking you’ve done enough for God.",
+      "tags": ["enough", "duty", "unworthy servants", "merit"]
+    },
+    "pri-052": {
+      "cluster": "better-than-them",
+      "voice": "I’m in the right. Their weak efforts don’t impress me.",
+      "situation": "Justifying yourself and looking down on other people’s weaker efforts.",
+      "tags": ["self-justifying", "contempt", "humbled", "exalted"]
+    },
+    "pri-053": {
+      "cluster": "better-than-them",
+      "voice": "They only fast because they’re too weak to handle food.",
+      "situation": "Despising someone who practices a discipline you don’t.",
+      "tags": ["fasting", "contempt", "judging", "disciplines"],
+      "excerpt": { "to": "despise him who doesn’t eat." }
+    },
+    "pri-054": {
+      "cluster": "better-than-them",
+      "voice": "They eat because they have no self-control.",
+      "situation": "Judging someone who doesn’t keep your discipline.",
+      "tags": ["judging", "self-control", "eating", "disciplines"],
+      "excerpt": { "from": "Don’t let him who doesn’t eat judge" }
+    },
+    "pri-055": {
+      "cluster": "did-it-myself",
+      "voice": "I’ve conquered my appetite and my temper.",
+      "situation": "Pride in your self-mastery.",
+      "tags": ["self-mastery", "grace", "credit", "anger", "appetite"]
+    },
+    "pri-056": {
+      "cluster": "false-light",
+      "voice": "Anything that looks bright and wise must be true.",
+      "situation": "Not believing evil can disguise itself as a teacher of truth.",
+      "tags": ["deception", "angel of light", "false teaching", "discernment"]
+    },
+    "pri-057": {
+      "cluster": "better-than-them",
+      "voice": "They fell. How pathetic.",
+      "situation": "Despising those who stumble.",
+      "tags": ["contempt", "restore", "gentleness", "stumble"]
+    },
+    "pri-058": {
+      "cluster": "already-holy",
+      "voice": "You’ve reached perfection.",
+      "situation": "Believing you’ve arrived in obeying God.",
+      "tags": ["perfection", "arrived", "press on"]
+    },
+    "pri-059": {
+      "cluster": "already-holy",
+      "voice": "There’s no sin left in your heart.",
+      "situation": "Pride that says you have no sin.",
+      "tags": ["sinless", "confession", "self-deception"]
+    },
+    "pri-060": {
+      "cluster": "did-it-myself",
+      "voice": "Can I trust myself to stay faithful to the end?",
+      "situation": "Learning to rely on God, not yourself, to keep you to the end.",
+      "tags": ["perseverance", "protection", "the end", "keep", "faithful"]
+    }
+  }
+}

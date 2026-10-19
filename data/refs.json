@@ -1,0 +1,10030 @@
+{
+ "glu-001": [
+  {
+   "lxx": "Gen 49:14-15",
+   "lxxKey": {
+    "code": "GEN",
+    "c1": 49,
+    "v1": "14",
+    "c2": 49,
+    "v2": "15"
+   },
+   "web": {
+    "code": "GEN",
+    "c1": 49,
+    "v1": 14,
+    "c2": 49,
+    "v2": 15
+   },
+   "ref": "Genesis 49:14–15",
+   "score": 0.49,
+   "method": "rule"
+  }
+ ],
+ "glu-002": [
+  {
+   "lxx": "Exod 38:26",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 38,
+    "v1": "26",
+    "c2": 38,
+    "v2": "26"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 38,
+    "v1": 8,
+    "c2": 38,
+    "v2": 8
+   },
+   "ref": "Exodus 38:8",
+   "score": 0.55,
+   "method": "scan"
+  }
+ ],
+ "glu-003": [
+  {
+   "lxx": "Num 11:18-20",
+   "lxxKey": {
+    "code": "NUM",
+    "c1": 11,
+    "v1": "18",
+    "c2": 11,
+    "v2": "20"
+   },
+   "web": {
+    "code": "NUM",
+    "c1": 11,
+    "v1": 18,
+    "c2": 11,
+    "v2": 20
+   },
+   "ref": "Numbers 11:18–20",
+   "score": 0.68,
+   "method": "rule"
+  }
+ ],
+ "glu-004": [
+  {
+   "lxx": "Deut 6:11-12",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 6,
+    "v1": "11",
+    "c2": 6,
+    "v2": "12"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 6,
+    "v1": 11,
+    "c2": 6,
+    "v2": 12
+   },
+   "ref": "Deuteronomy 6:11–12",
+   "score": 0.73,
+   "method": "rule"
+  }
+ ],
+ "glu-005": [
+  {
+   "lxx": "Deut 30:11",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 30,
+    "v1": "11",
+    "c2": 30,
+    "v2": "11"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 30,
+    "v1": 11,
+    "c2": 30,
+    "v2": 11
+   },
+   "ref": "Deuteronomy 30:11",
+   "score": 0.18,
+   "method": "rule"
+  }
+ ],
+ "glu-006": [
+  {
+   "lxx": "Deut 32:15",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 32,
+    "v1": "15",
+    "c2": 32,
+    "v2": "15"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 32,
+    "v1": 15,
+    "c2": 32,
+    "v2": 15
+   },
+   "ref": "Deuteronomy 32:15",
+   "score": 0.48,
+   "method": "rule"
+  }
+ ],
+ "glu-007": [
+  {
+   "lxx": "2 Kgdms 3:35",
+   "lxxKey": {
+    "code": "2SA",
+    "c1": 3,
+    "v1": "35",
+    "c2": 3,
+    "v2": "35"
+   },
+   "web": {
+    "code": "2SA",
+    "c1": 3,
+    "v1": 35,
+    "c2": 3,
+    "v2": 35
+   },
+   "ref": "2 Samuel 3:35",
+   "score": 0.76,
+   "method": "rule"
+  }
+ ],
+ "glu-008": [
+  {
+   "lxx": "3 Kgdms 17:14",
+   "lxxKey": {
+    "code": "1KI",
+    "c1": 17,
+    "v1": "14",
+    "c2": 17,
+    "v2": "14"
+   },
+   "web": {
+    "code": "1KI",
+    "c1": 17,
+    "v1": 14,
+    "c2": 17,
+    "v2": 14
+   },
+   "ref": "1 Kings 17:14",
+   "score": 0.69,
+   "method": "rule"
+  }
+ ],
+ "glu-009": [
+  {
+   "lxx": "3 Kgdms 22:26-27",
+   "lxxKey": {
+    "code": "1KI",
+    "c1": 22,
+    "v1": "26",
+    "c2": 22,
+    "v2": "27"
+   },
+   "web": {
+    "code": "1KI",
+    "c1": 22,
+    "v1": 26,
+    "c2": 22,
+    "v2": 27
+   },
+   "ref": "1 Kings 22:26–27",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "glu-010": [
+  {
+   "lxx": "4 Kgdms 4:43-44",
+   "lxxKey": {
+    "code": "2KI",
+    "c1": 4,
+    "v1": "43",
+    "c2": 4,
+    "v2": "44"
+   },
+   "web": {
+    "code": "2KI",
+    "c1": 4,
+    "v1": 43,
+    "c2": 4,
+    "v2": 44
+   },
+   "ref": "2 Kings 4:43–44",
+   "score": 0.82,
+   "method": "rule"
+  }
+ ],
+ "glu-011": [
+  {
+   "lxx": "Ps 22:1",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 22,
+    "v1": "1",
+    "c2": 22,
+    "v2": "1"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 23,
+    "v1": 1,
+    "c2": 23,
+    "v2": 1
+   },
+   "ref": "Psalm 23:1",
+   "score": 0.8,
+   "method": "rule"
+  }
+ ],
+ "glu-012": [
+  {
+   "lxx": "Ps 36:25",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 36,
+    "v1": "25",
+    "c2": 36,
+    "v2": "25"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 37,
+    "v1": 25,
+    "c2": 37,
+    "v2": 25
+   },
+   "ref": "Psalm 37:25",
+   "score": 0.73,
+   "method": "rule"
+  }
+ ],
+ "glu-013": [
+  {
+   "lxx": "Ps 37:19",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 37,
+    "v1": "19",
+    "c2": 37,
+    "v2": "19"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 38,
+    "v1": 18,
+    "c2": 38,
+    "v2": 18
+   },
+   "ref": "Psalm 38:18",
+   "score": 0.75,
+   "method": "rule"
+  }
+ ],
+ "glu-014": [
+  {
+   "lxx": "Ps 48:10",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 48,
+    "v1": "10",
+    "c2": 48,
+    "v2": "10"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 49,
+    "v1": 9,
+    "c2": 49,
+    "v2": 9
+   },
+   "ref": "Psalm 49:9",
+   "score": 0.8,
+   "method": "rule"
+  }
+ ],
+ "glu-015": [
+  {
+   "lxx": "Ps 50:19",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 50,
+    "v1": "19",
+    "c2": 50,
+    "v2": "19"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 51,
+    "v1": 17,
+    "c2": 51,
+    "v2": 17
+   },
+   "ref": "Psalm 51:17",
+   "score": 0.83,
+   "method": "rule"
+  }
+ ],
+ "glu-016": [
+  {
+   "lxx": "Ps 54:23",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 54,
+    "v1": "23",
+    "c2": 54,
+    "v2": "23"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 55,
+    "v1": 22,
+    "c2": 55,
+    "v2": 22
+   },
+   "ref": "Psalm 55:22",
+   "score": 0.75,
+   "method": "rule"
+  }
+ ],
+ "glu-017": [
+  {
+   "lxx": "Ps 101:8",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 101,
+    "v1": "8",
+    "c2": 101,
+    "v2": "8"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 102,
+    "v1": 7,
+    "c2": 102,
+    "v2": 7
+   },
+   "ref": "Psalm 102:7",
+   "score": 0.77,
+   "method": "rule"
+  }
+ ],
+ "glu-018": [
+  {
+   "lxx": "Ps 108:24",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 108,
+    "v1": "24",
+    "c2": 108,
+    "v2": "24"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 109,
+    "v1": 24,
+    "c2": 109,
+    "v2": 24
+   },
+   "ref": "Psalm 109:24",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "glu-019": [
+  {
+   "lxx": "Ps 117:17",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 117,
+    "v1": "17",
+    "c2": 117,
+    "v2": "17"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 118,
+    "v1": 17,
+    "c2": 118,
+    "v2": 17
+   },
+   "ref": "Psalm 118:17",
+   "score": 0.8,
+   "method": "rule"
+  }
+ ],
+ "glu-020": [
+  {
+   "lxx": "Ps 131:3-5",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 131,
+    "v1": "3",
+    "c2": 131,
+    "v2": "5"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 132,
+    "v1": 3,
+    "c2": 132,
+    "v2": 5
+   },
+   "ref": "Psalm 132:3–5",
+   "score": 0.69,
+   "method": "rule"
+  }
+ ],
+ "glu-021": [
+  {
+   "lxx": "Prov 10:3",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 10,
+    "v1": "3",
+    "c2": 10,
+    "v2": "3"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 10,
+    "v1": 3,
+    "c2": 10,
+    "v2": 3
+   },
+   "ref": "Proverbs 10:3",
+   "score": 0.38,
+   "method": "rule"
+  }
+ ],
+ "glu-022": [
+  {
+   "lxx": "Prov 12:11a",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 12,
+    "v1": "11a",
+    "c2": 12,
+    "v2": "11a"
+   },
+   "web": null,
+   "ref": "Proverbs 12:11a (Greek)",
+   "score": 1,
+   "method": "lxx-only"
+  }
+ ],
+ "glu-023": [
+  {
+   "lxx": "Prov 14:23",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 14,
+    "v1": "23",
+    "c2": 14,
+    "v2": "23"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 14,
+    "v1": 23,
+    "c2": 14,
+    "v2": 23
+   },
+   "ref": "Proverbs 14:23",
+   "score": 0,
+   "method": "rule"
+  }
+ ],
+ "glu-024": [
+  {
+   "lxx": "Prov 17:1",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 17,
+    "v1": "1",
+    "c2": 17,
+    "v2": "1"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 17,
+    "v1": 1,
+    "c2": 17,
+    "v2": 1
+   },
+   "ref": "Proverbs 17:1",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "glu-025": [
+  {
+   "lxx": "Prov 19:10",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 19,
+    "v1": "10",
+    "c2": 19,
+    "v2": "10"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 19,
+    "v1": 10,
+    "c2": 19,
+    "v2": 10
+   },
+   "ref": "Proverbs 19:10",
+   "score": 0.33,
+   "method": "rule"
+  }
+ ],
+ "glu-026": [
+  {
+   "lxx": "Prov 20:1",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 20,
+    "v1": "1",
+    "c2": 20,
+    "v2": "1"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 20,
+    "v1": 3,
+    "c2": 20,
+    "v2": 3
+   },
+   "ref": "Proverbs 20:3",
+   "score": 0.22,
+   "method": "rule"
+  }
+ ],
+ "glu-027": [
+  {
+   "lxx": "Prov 20:25",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 20,
+    "v1": "25",
+    "c2": 20,
+    "v2": "25"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 20,
+    "v1": 25,
+    "c2": 20,
+    "v2": 25
+   },
+   "ref": "Proverbs 20:25",
+   "score": 0.3,
+   "method": "rule"
+  }
+ ],
+ "glu-028": [
+  {
+   "lxx": "Prov 22:9",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 22,
+    "v1": "9",
+    "c2": 22,
+    "v2": "9"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 22,
+    "v1": 9,
+    "c2": 22,
+    "v2": 9
+   },
+   "ref": "Proverbs 22:9",
+   "score": 0.15,
+   "method": "rule"
+  }
+ ],
+ "glu-029": [
+  {
+   "lxx": "Prov 23:20-21",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 23,
+    "v1": "20",
+    "c2": 23,
+    "v2": "21"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 23,
+    "v1": 20,
+    "c2": 23,
+    "v2": 21
+   },
+   "ref": "Proverbs 23:20–21",
+   "score": 0.23,
+   "method": "rule"
+  }
+ ],
+ "glu-030": [
+  {
+   "lxx": "Prov 23:31-32",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 23,
+    "v1": "31",
+    "c2": 23,
+    "v2": "32"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 23,
+    "v1": 31,
+    "c2": 23,
+    "v2": 32
+   },
+   "ref": "Proverbs 23:31–32",
+   "score": 0.23,
+   "method": "rule"
+  }
+ ],
+ "glu-031": [
+  {
+   "lxx": "Prov 24:15",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 24,
+    "v1": "15",
+    "c2": 24,
+    "v2": "15"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 24,
+    "v1": 15,
+    "c2": 24,
+    "v2": 15
+   },
+   "ref": "Proverbs 24:15",
+   "score": 0.21,
+   "method": "rule"
+  }
+ ],
+ "glu-032": [
+  {
+   "lxx": "Sir 4:21",
+   "lxxKey": {
+    "code": "SIR",
+    "c1": 4,
+    "v1": "21",
+    "c2": 4,
+    "v2": "21"
+   },
+   "web": {
+    "code": "SIR",
+    "c1": 4,
+    "v1": 21,
+    "c2": 4,
+    "v2": 21
+   },
+   "ref": "Sirach 4:21",
+   "score": 1,
+   "method": "rule"
+  }
+ ],
+ "glu-033": [
+  {
+   "lxx": "Prov 26:24",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 26,
+    "v1": "24",
+    "c2": 26,
+    "v2": "24"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 26,
+    "v1": 24,
+    "c2": 26,
+    "v2": 24
+   },
+   "ref": "Proverbs 26:24",
+   "score": 0.25,
+   "method": "rule"
+  }
+ ],
+ "glu-034": [
+  {
+   "lxx": "Prov 27:6",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 27,
+    "v1": "6",
+    "c2": 27,
+    "v2": "6"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 27,
+    "v1": 6,
+    "c2": 27,
+    "v2": 6
+   },
+   "ref": "Proverbs 27:6",
+   "score": 0.57,
+   "method": "rule"
+  }
+ ],
+ "glu-035": [
+  {
+   "lxx": "Qo 3:11",
+   "lxxKey": {
+    "code": "ECC",
+    "c1": 3,
+    "v1": "11",
+    "c2": 3,
+    "v2": "11"
+   },
+   "web": {
+    "code": "ECC",
+    "c1": 3,
+    "v1": 11,
+    "c2": 3,
+    "v2": 11
+   },
+   "ref": "Ecclesiastes 3:11",
+   "score": 0.71,
+   "method": "rule"
+  }
+ ],
+ "glu-036": [
+  {
+   "lxx": "Qo 7:2",
+   "lxxKey": {
+    "code": "ECC",
+    "c1": 7,
+    "v1": "2",
+    "c2": 7,
+    "v2": "2"
+   },
+   "web": {
+    "code": "ECC",
+    "c1": 7,
+    "v1": 2,
+    "c2": 7,
+    "v2": 2
+   },
+   "ref": "Ecclesiastes 7:2",
+   "score": 0.52,
+   "method": "rule"
+  }
+ ],
+ "glu-037": [
+  {
+   "lxx": "Qo 7:16",
+   "lxxKey": {
+    "code": "ECC",
+    "c1": 7,
+    "v1": "16",
+    "c2": 7,
+    "v2": "16"
+   },
+   "web": {
+    "code": "ECC",
+    "c1": 7,
+    "v1": 16,
+    "c2": 7,
+    "v2": 16
+   },
+   "ref": "Ecclesiastes 7:16",
+   "score": 0.25,
+   "method": "rule"
+  }
+ ],
+ "glu-038": [
+  {
+   "lxx": "Job 2:10",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 2,
+    "v1": "10",
+    "c2": 2,
+    "v2": "10"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 2,
+    "v1": 10,
+    "c2": 2,
+    "v2": 10
+   },
+   "ref": "Job 2:10",
+   "score": 0.53,
+   "method": "rule"
+  }
+ ],
+ "glu-039": [
+  {
+   "lxx": "Mic 2:10",
+   "lxxKey": {
+    "code": "MIC",
+    "c1": 2,
+    "v1": "10",
+    "c2": 2,
+    "v2": "10"
+   },
+   "web": {
+    "code": "MIC",
+    "c1": 2,
+    "v1": 10,
+    "c2": 2,
+    "v2": 10
+   },
+   "ref": "Micah 2:10",
+   "score": 0.59,
+   "method": "rule"
+  }
+ ],
+ "glu-040": [
+  {
+   "lxx": "Hab 3:18",
+   "lxxKey": {
+    "code": "HAB",
+    "c1": 3,
+    "v1": "18",
+    "c2": 3,
+    "v2": "18"
+   },
+   "web": {
+    "code": "HAB",
+    "c1": 3,
+    "v1": 18,
+    "c2": 3,
+    "v2": 18
+   },
+   "ref": "Habakkuk 3:18",
+   "score": 0.55,
+   "method": "rule"
+  }
+ ],
+ "glu-041": [
+  {
+   "lxx": "Isa 5:20",
+   "lxxKey": {
+    "code": "ISA",
+    "c1": 5,
+    "v1": "20",
+    "c2": 5,
+    "v2": "20"
+   },
+   "web": {
+    "code": "ISA",
+    "c1": 5,
+    "v1": 20,
+    "c2": 5,
+    "v2": 20
+   },
+   "ref": "Isaiah 5:20",
+   "score": 0.89,
+   "method": "rule"
+  }
+ ],
+ "glu-042": [
+  {
+   "lxx": "Isa 30:20-21",
+   "lxxKey": {
+    "code": "ISA",
+    "c1": 30,
+    "v1": "20",
+    "c2": 30,
+    "v2": "21"
+   },
+   "web": {
+    "code": "ISA",
+    "c1": 30,
+    "v1": 20,
+    "c2": 30,
+    "v2": 21
+   },
+   "ref": "Isaiah 30:20–21",
+   "score": 0.6,
+   "method": "rule"
+  }
+ ],
+ "glu-043": [
+  {
+   "lxx": "Jer 15:15",
+   "lxxKey": {
+    "code": "JER",
+    "c1": 15,
+    "v1": "15",
+    "c2": 15,
+    "v2": "15"
+   },
+   "web": {
+    "code": "JER",
+    "c1": 15,
+    "v1": 15,
+    "c2": 15,
+    "v2": 15
+   },
+   "ref": "Jeremiah 15:15",
+   "score": 0.41,
+   "method": "rule"
+  }
+ ],
+ "glu-044": [
+  {
+   "lxx": "Lam 1:20",
+   "lxxKey": {
+    "code": "LAM",
+    "c1": 1,
+    "v1": "20",
+    "c2": 1,
+    "v2": "20"
+   },
+   "web": {
+    "code": "LAM",
+    "c1": 1,
+    "v1": 20,
+    "c2": 1,
+    "v2": 20
+   },
+   "ref": "Lamentations 1:20",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "glu-045": [
+  {
+   "lxx": "Dan 1:11-16",
+   "lxxKey": {
+    "code": "DNG",
+    "c1": 1,
+    "v1": "11",
+    "c2": 1,
+    "v2": "16"
+   },
+   "web": {
+    "code": "DAN",
+    "c1": 1,
+    "v1": 11,
+    "c2": 1,
+    "v2": 16
+   },
+   "ref": "Daniel 1:11–16",
+   "score": 0.64,
+   "method": "rule"
+  }
+ ],
+ "glu-046": [
+  {
+   "lxx": "Matt 4:1-2",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 4,
+    "v1": 1,
+    "c2": 4,
+    "v2": 2
+   },
+   "ref": "Matthew 4:1–2",
+   "score": 0.92,
+   "method": "rule"
+  }
+ ],
+ "glu-047": [
+  {
+   "lxx": "Matt 6:25",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 6,
+    "v1": 25,
+    "c2": 6,
+    "v2": 25
+   },
+   "ref": "Matthew 6:25",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "glu-048": [
+  {
+   "lxx": "Matt 7:14",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 7,
+    "v1": 14,
+    "c2": 7,
+    "v2": 14
+   },
+   "ref": "Matthew 7:14",
+   "score": 0.59,
+   "method": "rule"
+  }
+ ],
+ "glu-049": [
+  {
+   "lxx": "Luke 3:11",
+   "lxxKey": null,
+   "web": {
+    "code": "LUK",
+    "c1": 3,
+    "v1": 11,
+    "c2": 3,
+    "v2": 11
+   },
+   "ref": "Luke 3:11",
+   "score": 0.63,
+   "method": "rule"
+  }
+ ],
+ "glu-050": [
+  {
+   "lxx": "Acts 2:44-45",
+   "lxxKey": null,
+   "web": {
+    "code": "ACT",
+    "c1": 2,
+    "v1": 44,
+    "c2": 2,
+    "v2": 45
+   },
+   "ref": "Acts 2:44–45",
+   "score": 0.61,
+   "method": "rule"
+  }
+ ],
+ "glu-051": [
+  {
+   "lxx": "Acts 14:22",
+   "lxxKey": null,
+   "web": {
+    "code": "ACT",
+    "c1": 14,
+    "v1": 22,
+    "c2": 14,
+    "v2": 22
+   },
+   "ref": "Acts 14:22",
+   "score": 0.7,
+   "method": "rule"
+  }
+ ],
+ "glu-052": [
+  {
+   "lxx": "Rom 13:14",
+   "lxxKey": null,
+   "web": {
+    "code": "ROM",
+    "c1": 13,
+    "v1": 14,
+    "c2": 13,
+    "v2": 14
+   },
+   "ref": "Romans 13:14",
+   "score": 0.46,
+   "method": "rule"
+  }
+ ],
+ "glu-053": [
+  {
+   "lxx": "Rom 14:2",
+   "lxxKey": null,
+   "web": {
+    "code": "ROM",
+    "c1": 14,
+    "v1": 2,
+    "c2": 14,
+    "v2": 2
+   },
+   "ref": "Romans 14:2",
+   "score": 0.6,
+   "method": "rule"
+  }
+ ],
+ "glu-054": [
+  {
+   "lxx": "1 Cor 9:25",
+   "lxxKey": null,
+   "web": {
+    "code": "1CO",
+    "c1": 9,
+    "v1": 25,
+    "c2": 9,
+    "v2": 25
+   },
+   "ref": "1 Corinthians 9:25",
+   "score": 0.36,
+   "method": "rule"
+  }
+ ],
+ "glu-055": [
+  {
+   "lxx": "2 Cor 4:8-10",
+   "lxxKey": null,
+   "web": {
+    "code": "2CO",
+    "c1": 4,
+    "v1": 8,
+    "c2": 4,
+    "v2": 10
+   },
+   "ref": "2 Corinthians 4:8–10",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "glu-056": [
+  {
+   "lxx": "2 Cor 4:16",
+   "lxxKey": null,
+   "web": {
+    "code": "2CO",
+    "c1": 4,
+    "v1": 16,
+    "c2": 4,
+    "v2": 16
+   },
+   "ref": "2 Corinthians 4:16",
+   "score": 0.27,
+   "method": "rule"
+  }
+ ],
+ "glu-057": [
+  {
+   "lxx": "2 Cor 5:1",
+   "lxxKey": null,
+   "web": {
+    "code": "2CO",
+    "c1": 5,
+    "v1": 1,
+    "c2": 5,
+    "v2": 1
+   },
+   "ref": "2 Corinthians 5:1",
+   "score": 0.87,
+   "method": "rule"
+  }
+ ],
+ "glu-058": [
+  {
+   "lxx": "2 Cor 9:7",
+   "lxxKey": null,
+   "web": {
+    "code": "2CO",
+    "c1": 9,
+    "v1": 7,
+    "c2": 9,
+    "v2": 7
+   },
+   "ref": "2 Corinthians 9:7",
+   "score": 0.52,
+   "method": "rule"
+  },
+  {
+   "lxx": "Prov 22:8-9",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 22,
+    "v1": "8",
+    "c2": 22,
+    "v2": "9"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 22,
+    "v1": 8,
+    "c2": 22,
+    "v2": 10
+   },
+   "ref": "Proverbs 22:8–10",
+   "score": 0.19,
+   "method": "rule"
+  }
+ ],
+ "glu-059": [
+  {
+   "lxx": "2 Cor 12:10",
+   "lxxKey": null,
+   "web": {
+    "code": "2CO",
+    "c1": 12,
+    "v1": 10,
+    "c2": 12,
+    "v2": 10
+   },
+   "ref": "2 Corinthians 12:10",
+   "score": 0.27,
+   "method": "rule"
+  }
+ ],
+ "glu-060": [
+  {
+   "lxx": "Eph 5:18-19",
+   "lxxKey": null,
+   "web": {
+    "code": "EPH",
+    "c1": 5,
+    "v1": 18,
+    "c2": 5,
+    "v2": 19
+   },
+   "ref": "Ephesians 5:18–19",
+   "score": 0.61,
+   "method": "rule"
+  }
+ ],
+ "glu-061": [
+  {
+   "lxx": "Phil 4:5-6",
+   "lxxKey": null,
+   "web": {
+    "code": "PHI",
+    "c1": 4,
+    "v1": 5,
+    "c2": 4,
+    "v2": 6
+   },
+   "ref": "Philippians 4:5–6",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "glu-062": [
+  {
+   "lxx": "Phil 4:12-13",
+   "lxxKey": null,
+   "web": {
+    "code": "PHI",
+    "c1": 4,
+    "v1": 12,
+    "c2": 4,
+    "v2": 13
+   },
+   "ref": "Philippians 4:12–13",
+   "score": 0.63,
+   "method": "rule"
+  }
+ ],
+ "glu-063": [
+  {
+   "lxx": "1 Thess 4:10-12",
+   "lxxKey": null,
+   "web": {
+    "code": "1TH",
+    "c1": 4,
+    "v1": 10,
+    "c2": 4,
+    "v2": 12
+   },
+   "ref": "1 Thessalonians 4:10–12",
+   "score": 0.35,
+   "method": "rule"
+  }
+ ],
+ "glu-064": [
+  {
+   "lxx": "2 Thess 3:10",
+   "lxxKey": null,
+   "web": {
+    "code": "2TH",
+    "c1": 3,
+    "v1": 10,
+    "c2": 3,
+    "v2": 10
+   },
+   "ref": "2 Thessalonians 3:10",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "glu-065": [
+  {
+   "lxx": "Heb 12:11",
+   "lxxKey": null,
+   "web": {
+    "code": "HEB",
+    "c1": 12,
+    "v1": 11,
+    "c2": 12,
+    "v2": 11
+   },
+   "ref": "Hebrews 12:11",
+   "score": 0.46,
+   "method": "rule"
+  }
+ ],
+ "glu-066": [
+  {
+   "lxx": "Heb 13:16",
+   "lxxKey": null,
+   "web": {
+    "code": "HEB",
+    "c1": 13,
+    "v1": 16,
+    "c2": 13,
+    "v2": 16
+   },
+   "ref": "Hebrews 13:16",
+   "score": 0.59,
+   "method": "rule"
+  }
+ ],
+ "glu-067": [
+  {
+   "lxx": "1 Tim 5:22-23",
+   "lxxKey": null,
+   "web": {
+    "code": "1TI",
+    "c1": 5,
+    "v1": 22,
+    "c2": 5,
+    "v2": 23
+   },
+   "ref": "1 Timothy 5:22–23",
+   "score": 0.61,
+   "method": "rule"
+  }
+ ],
+ "glu-068": [
+  {
+   "lxx": "Jas 4:4",
+   "lxxKey": null,
+   "web": {
+    "code": "JAM",
+    "c1": 4,
+    "v1": 4,
+    "c2": 4,
+    "v2": 4
+   },
+   "ref": "James 4:4",
+   "score": 0.59,
+   "method": "rule"
+  }
+ ],
+ "glu-069": [
+  {
+   "lxx": "1 John 5:3-4",
+   "lxxKey": null,
+   "web": {
+    "code": "1JO",
+    "c1": 5,
+    "v1": 3,
+    "c2": 5,
+    "v2": 4
+   },
+   "ref": "1 John 5:3–4",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "for-001": [
+  {
+   "lxx": "Exod 20:17",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 20,
+    "v1": "17",
+    "c2": 20,
+    "v2": "17"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 20,
+    "v1": 17,
+    "c2": 20,
+    "v2": 17
+   },
+   "ref": "Exodus 20:17",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "for-002": [
+  {
+   "lxx": "Exod 23:22-23",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 23,
+    "v1": "22",
+    "c2": 23,
+    "v2": "23"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 23,
+    "v1": 22,
+    "c2": 23,
+    "v2": 23
+   },
+   "ref": "Exodus 23:22–23",
+   "score": 0.72,
+   "method": "rule"
+  }
+ ],
+ "for-003": [
+  {
+   "lxx": "Exod 23:29-30",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 23,
+    "v1": "29",
+    "c2": 23,
+    "v2": "30"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 23,
+    "v1": 29,
+    "c2": 23,
+    "v2": 30
+   },
+   "ref": "Exodus 23:29–30",
+   "score": 0.81,
+   "method": "rule"
+  }
+ ],
+ "for-004": [
+  {
+   "lxx": "Exod 30:14",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 30,
+    "v1": "14",
+    "c2": 30,
+    "v2": "14"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 30,
+    "v1": 14,
+    "c2": 30,
+    "v2": 14
+   },
+   "ref": "Exodus 30:14",
+   "score": 0.76,
+   "method": "rule"
+  }
+ ],
+ "for-005": [
+  {
+   "lxx": "Exod 32:33",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 32,
+    "v1": "33",
+    "c2": 32,
+    "v2": "33"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 32,
+    "v1": 33,
+    "c2": 32,
+    "v2": 33
+   },
+   "ref": "Exodus 32:33",
+   "score": 0.86,
+   "method": "rule"
+  }
+ ],
+ "for-006": [
+  {
+   "lxx": "Deut 6:3",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 6,
+    "v1": "3",
+    "c2": 6,
+    "v2": "3"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 6,
+    "v1": 3,
+    "c2": 6,
+    "v2": 3
+   },
+   "ref": "Deuteronomy 6:3",
+   "score": 0.71,
+   "method": "rule"
+  }
+ ],
+ "for-007": [
+  {
+   "lxx": "Deut 6:13",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 6,
+    "v1": "13",
+    "c2": 6,
+    "v2": "13"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 6,
+    "v1": 13,
+    "c2": 6,
+    "v2": 13
+   },
+   "ref": "Deuteronomy 6:13",
+   "score": 0.86,
+   "method": "rule"
+  }
+ ],
+ "for-008": [
+  {
+   "lxx": "Deut 7:17-18",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 7,
+    "v1": "17",
+    "c2": 7,
+    "v2": "18"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 7,
+    "v1": 17,
+    "c2": 7,
+    "v2": 18
+   },
+   "ref": "Deuteronomy 7:17–18",
+   "score": 0.46,
+   "method": "rule"
+  }
+ ],
+ "for-009": [
+  {
+   "lxx": "Deut 9:3",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 9,
+    "v1": "3",
+    "c2": 9,
+    "v2": "3"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 9,
+    "v1": 3,
+    "c2": 9,
+    "v2": 3
+   },
+   "ref": "Deuteronomy 9:3",
+   "score": 0.52,
+   "method": "rule"
+  }
+ ],
+ "for-010": [
+  {
+   "lxx": "Deut 12:8-9",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 12,
+    "v1": "8",
+    "c2": 12,
+    "v2": "9"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 12,
+    "v1": 8,
+    "c2": 12,
+    "v2": 9
+   },
+   "ref": "Deuteronomy 12:8–9",
+   "score": 0.56,
+   "method": "rule"
+  }
+ ],
+ "for-011": [
+  {
+   "lxx": "Deut 33:29",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 33,
+    "v1": "29",
+    "c2": 33,
+    "v2": "29"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 33,
+    "v1": 29,
+    "c2": 33,
+    "v2": 29
+   },
+   "ref": "Deuteronomy 33:29",
+   "score": 0.51,
+   "method": "rule"
+  }
+ ],
+ "for-012": [
+  {
+   "lxx": "Judg 4:14",
+   "lxxKey": {
+    "code": "JDG",
+    "c1": 4,
+    "v1": "14",
+    "c2": 4,
+    "v2": "14"
+   },
+   "web": {
+    "code": "JDG",
+    "c1": 4,
+    "v1": 14,
+    "c2": 4,
+    "v2": 14
+   },
+   "ref": "Judges 4:14",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "for-013": [
+  {
+   "lxx": "Judg 16:20-21",
+   "lxxKey": {
+    "code": "JDG",
+    "c1": 16,
+    "v1": "20",
+    "c2": 16,
+    "v2": "21"
+   },
+   "web": {
+    "code": "JDG",
+    "c1": 16,
+    "v1": 20,
+    "c2": 16,
+    "v2": 21
+   },
+   "ref": "Judges 16:20–21",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "for-014": [
+  {
+   "lxx": "1 Kgdms 2:1",
+   "lxxKey": {
+    "code": "1SA",
+    "c1": 2,
+    "v1": "1",
+    "c2": 2,
+    "v2": "1"
+   },
+   "web": {
+    "code": "1SA",
+    "c1": 2,
+    "v1": 1,
+    "c2": 2,
+    "v2": 1
+   },
+   "ref": "1 Samuel 2:1",
+   "score": 0.69,
+   "method": "rule"
+  }
+ ],
+ "for-015": [
+  {
+   "lxx": "1 Kgdms 2:4-5",
+   "lxxKey": {
+    "code": "1SA",
+    "c1": 2,
+    "v1": "4",
+    "c2": 2,
+    "v2": "5"
+   },
+   "web": {
+    "code": "1SA",
+    "c1": 2,
+    "v1": 4,
+    "c2": 2,
+    "v2": 5
+   },
+   "ref": "1 Samuel 2:4–5",
+   "score": 0.52,
+   "method": "rule"
+  }
+ ],
+ "for-016": [
+  {
+   "lxx": "1 Kgdms 11:1-2",
+   "lxxKey": {
+    "code": "1SA",
+    "c1": 11,
+    "v1": "1",
+    "c2": 11,
+    "v2": "2"
+   },
+   "web": {
+    "code": "1SA",
+    "c1": 11,
+    "v1": 1,
+    "c2": 11,
+    "v2": 2
+   },
+   "ref": "1 Samuel 11:1–2",
+   "score": 0.63,
+   "method": "rule"
+  }
+ ],
+ "for-017": [
+  {
+   "lxx": "3 Kgdms 20:3",
+   "lxxKey": {
+    "code": "1KI",
+    "c1": 20,
+    "v1": "3",
+    "c2": 20,
+    "v2": "3"
+   },
+   "web": {
+    "code": "1KI",
+    "c1": 21,
+    "v1": 3,
+    "c2": 21,
+    "v2": 3
+   },
+   "ref": "1 Kings 21:3",
+   "score": 0.71,
+   "method": "rule"
+  }
+ ],
+ "for-018": [
+  {
+   "lxx": "2 Chr 36:4a",
+   "lxxKey": {
+    "code": "2CH",
+    "c1": 36,
+    "v1": "4a",
+    "c2": 36,
+    "v2": "4a"
+   },
+   "web": null,
+   "ref": "2 Chronicles 36:4a (Greek)",
+   "score": 1,
+   "method": "lxx-only"
+  }
+ ],
+ "for-019": [
+  {
+   "lxx": "2 Esd 9:6-7",
+   "lxxKey": {
+    "code": "EZR",
+    "c1": 9,
+    "v1": "6",
+    "c2": 9,
+    "v2": "7"
+   },
+   "web": {
+    "code": "EZR",
+    "c1": 9,
+    "v1": 6,
+    "c2": 9,
+    "v2": 7
+   },
+   "ref": "Ezra 9:6–7",
+   "score": 0.57,
+   "method": "rule"
+  }
+ ],
+ "for-020": [
+  {
+   "lxx": "2 Esd 9:11",
+   "lxxKey": {
+    "code": "EZR",
+    "c1": 9,
+    "v1": "11",
+    "c2": 9,
+    "v2": "11"
+   },
+   "web": {
+    "code": "EZR",
+    "c1": 9,
+    "v1": 11,
+    "c2": 9,
+    "v2": 11
+   },
+   "ref": "Ezra 9:11",
+   "score": 0.41,
+   "method": "rule"
+  }
+ ],
+ "for-021": [
+  {
+   "lxx": "Ps 3:2-4",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 3,
+    "v1": "2",
+    "c2": 3,
+    "v2": "4"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 3,
+    "v1": 2,
+    "c2": 3,
+    "v2": 3
+   },
+   "ref": "Psalm 3:2–3",
+   "score": 0.51,
+   "method": "rule"
+  }
+ ],
+ "for-022": [
+  {
+   "lxx": "Ps 4:5",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 4,
+    "v1": "5",
+    "c2": 4,
+    "v2": "5"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 4,
+    "v1": 4,
+    "c2": 4,
+    "v2": 4
+   },
+   "ref": "Psalm 4:4",
+   "score": 0.24,
+   "method": "rule"
+  }
+ ],
+ "for-023": [
+  {
+   "lxx": "Ps 6:9-10",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 6,
+    "v1": "9",
+    "c2": 6,
+    "v2": "10"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 6,
+    "v1": 8,
+    "c2": 6,
+    "v2": 9
+   },
+   "ref": "Psalm 6:8–9",
+   "score": 0.76,
+   "method": "rule"
+  }
+ ],
+ "for-024": [
+  {
+   "lxx": "Ps 9:7-8",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 9,
+    "v1": "7",
+    "c2": 9,
+    "v2": "8"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 9,
+    "v1": 6,
+    "c2": 9,
+    "v2": 7
+   },
+   "ref": "Psalm 9:6–7",
+   "score": 0.4,
+   "method": "rule"
+  }
+ ],
+ "for-025": [
+  {
+   "lxx": "Ps 12:4-5",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 12,
+    "v1": "4",
+    "c2": 12,
+    "v2": "5"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 13,
+    "v1": 3,
+    "c2": 13,
+    "v2": 4
+   },
+   "ref": "Psalm 13:3–4",
+   "score": 0.62,
+   "method": "rule"
+  }
+ ],
+ "for-026": [
+  {
+   "lxx": "Ps 17:43",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 17,
+    "v1": "43",
+    "c2": 17,
+    "v2": "43"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 18,
+    "v1": 42,
+    "c2": 18,
+    "v2": 42
+   },
+   "ref": "Psalm 18:42",
+   "score": 0.75,
+   "method": "rule"
+  }
+ ],
+ "for-027": [
+  {
+   "lxx": "Ps 29:12-13",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 29,
+    "v1": "12",
+    "c2": 29,
+    "v2": "13"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 30,
+    "v1": 11,
+    "c2": 30,
+    "v2": 12
+   },
+   "ref": "Psalm 30:11–12",
+   "score": 0.56,
+   "method": "rule"
+  }
+ ],
+ "for-028": [
+  {
+   "lxx": "Ps 34:4",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 34,
+    "v1": "4",
+    "c2": 34,
+    "v2": "4"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 35,
+    "v1": 4,
+    "c2": 35,
+    "v2": 4
+   },
+   "ref": "Psalm 35:4",
+   "score": 0.48,
+   "method": "rule"
+  }
+ ],
+ "for-029": [
+  {
+   "lxx": "Ps 34:5-6",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 34,
+    "v1": "5",
+    "c2": 34,
+    "v2": "6"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 35,
+    "v1": 5,
+    "c2": 35,
+    "v2": 6
+   },
+   "ref": "Psalm 35:5–6",
+   "score": 0.7,
+   "method": "rule"
+  }
+ ],
+ "for-030": [
+  {
+   "lxx": "Ps 34:13",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 34,
+    "v1": "13",
+    "c2": 34,
+    "v2": "13"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 35,
+    "v1": 13,
+    "c2": 35,
+    "v2": 13
+   },
+   "ref": "Psalm 35:13",
+   "score": 0.7,
+   "method": "rule"
+  }
+ ],
+ "for-031": [
+  {
+   "lxx": "Ps 36:10",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 36,
+    "v1": "10",
+    "c2": 36,
+    "v2": "10"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 37,
+    "v1": 10,
+    "c2": 37,
+    "v2": 10
+   },
+   "ref": "Psalm 37:10",
+   "score": 0.44,
+   "method": "rule"
+  }
+ ],
+ "for-032": [
+  {
+   "lxx": "Ps 51:7",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 51,
+    "v1": "7",
+    "c2": 51,
+    "v2": "7"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 52,
+    "v1": 5,
+    "c2": 52,
+    "v2": 5
+   },
+   "ref": "Psalm 52:5",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "for-033": [
+  {
+   "lxx": "Ps 128:5-6",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 128,
+    "v1": "5",
+    "c2": 128,
+    "v2": "6"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 129,
+    "v1": 5,
+    "c2": 129,
+    "v2": 6
+   },
+   "ref": "Psalm 129:5–6",
+   "score": 0.64,
+   "method": "rule"
+  }
+ ],
+ "for-034": [
+  {
+   "lxx": "Prov 1:26-27",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 1,
+    "v1": "26",
+    "c2": 1,
+    "v2": "27"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 1,
+    "v1": 26,
+    "c2": 1,
+    "v2": 27
+   },
+   "ref": "Proverbs 1:26–27",
+   "score": 0.34,
+   "method": "rule"
+  }
+ ],
+ "for-035": [
+  {
+   "lxx": "Prov 5:20",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 5,
+    "v1": "20",
+    "c2": 5,
+    "v2": "20"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 5,
+    "v1": 20,
+    "c2": 5,
+    "v2": 20
+   },
+   "ref": "Proverbs 5:20",
+   "score": 0,
+   "method": "rule"
+  }
+ ],
+ "for-036": [
+  {
+   "lxx": "Prov 6:25-26",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 6,
+    "v1": "25",
+    "c2": 6,
+    "v2": "26"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 6,
+    "v1": 25,
+    "c2": 6,
+    "v2": 26
+   },
+   "ref": "Proverbs 6:25–26",
+   "score": 0.34,
+   "method": "rule"
+  }
+ ],
+ "for-037": [
+  {
+   "lxx": "Prov 6:27-29",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 6,
+    "v1": "27",
+    "c2": 6,
+    "v2": "29"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 6,
+    "v1": 27,
+    "c2": 6,
+    "v2": 29
+   },
+   "ref": "Proverbs 6:27–29",
+   "score": 0.46,
+   "method": "rule"
+  }
+ ],
+ "for-038": [
+  {
+   "lxx": "Prov 17:3",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 17,
+    "v1": "3",
+    "c2": 17,
+    "v2": "3"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 17,
+    "v1": 3,
+    "c2": 17,
+    "v2": 3
+   },
+   "ref": "Proverbs 17:3",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "for-039": [
+  {
+   "lxx": "Prov 26:11",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 26,
+    "v1": "11",
+    "c2": 26,
+    "v2": "11"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 26,
+    "v1": 11,
+    "c2": 26,
+    "v2": 11
+   },
+   "ref": "Proverbs 26:11",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "for-040": [
+  {
+   "lxx": "Qo 7:4",
+   "lxxKey": {
+    "code": "ECC",
+    "c1": 7,
+    "v1": "4",
+    "c2": 7,
+    "v2": "4"
+   },
+   "web": {
+    "code": "ECC",
+    "c1": 7,
+    "v1": 4,
+    "c2": 7,
+    "v2": 4
+   },
+   "ref": "Ecclesiastes 7:4",
+   "score": 1,
+   "method": "rule"
+  }
+ ],
+ "for-041": [
+  {
+   "lxx": "Qo 10:4",
+   "lxxKey": {
+    "code": "ECC",
+    "c1": 10,
+    "v1": "4",
+    "c2": 10,
+    "v2": "4"
+   },
+   "web": {
+    "code": "ECC",
+    "c1": 10,
+    "v1": 4,
+    "c2": 10,
+    "v2": 4
+   },
+   "ref": "Ecclesiastes 10:4",
+   "score": 0.61,
+   "method": "rule"
+  }
+ ],
+ "for-042": [
+  {
+   "lxx": "Song 1:6",
+   "lxxKey": {
+    "code": "SOL",
+    "c1": 1,
+    "v1": "6",
+    "c2": 1,
+    "v2": "6"
+   },
+   "web": {
+    "code": "SOL",
+    "c1": 1,
+    "v1": 6,
+    "c2": 1,
+    "v2": 6
+   },
+   "ref": "Song of Songs 1:6",
+   "score": 0.71,
+   "method": "rule"
+  }
+ ],
+ "for-043": [
+  {
+   "lxx": "Job 1:5",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 1,
+    "v1": "5",
+    "c2": 1,
+    "v2": "5"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 1,
+    "v1": 5,
+    "c2": 1,
+    "v2": 5
+   },
+   "ref": "Job 1:5",
+   "score": 0.43,
+   "method": "rule"
+  }
+ ],
+ "for-044": [
+  {
+   "lxx": "Job 7:1",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 7,
+    "v1": "1",
+    "c2": 7,
+    "v2": "1"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 7,
+    "v1": 1,
+    "c2": 7,
+    "v2": 1
+   },
+   "ref": "Job 7:1",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "for-045": [
+  {
+   "lxx": "Job 5:14",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 5,
+    "v1": "14",
+    "c2": 5,
+    "v2": "14"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 5,
+    "v1": 14,
+    "c2": 5,
+    "v2": 14
+   },
+   "ref": "Job 5:14",
+   "score": 0.62,
+   "method": "rule"
+  }
+ ],
+ "for-046": [
+  {
+   "lxx": "Job 34:10-11",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 34,
+    "v1": "10",
+    "c2": 34,
+    "v2": "11"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 34,
+    "v1": 10,
+    "c2": 34,
+    "v2": 11
+   },
+   "ref": "Job 34:10–11",
+   "score": 0.22,
+   "method": "rule"
+  }
+ ],
+ "for-047": [
+  {
+   "lxx": "Job 41:11",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 41,
+    "v1": "11",
+    "c2": 41,
+    "v2": "11"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 41,
+    "v1": 19,
+    "c2": 41,
+    "v2": 19
+   },
+   "ref": "Job 41:19",
+   "score": 0.43,
+   "method": "scan"
+  }
+ ],
+ "for-048": [
+  {
+   "lxx": "Isa 14:30",
+   "lxxKey": {
+    "code": "ISA",
+    "c1": 14,
+    "v1": "30",
+    "c2": 14,
+    "v2": "30"
+   },
+   "web": {
+    "code": "ISA",
+    "c1": 14,
+    "v1": 30,
+    "c2": 14,
+    "v2": 30
+   },
+   "ref": "Isaiah 14:30",
+   "score": 0.2,
+   "method": "rule"
+  }
+ ],
+ "for-049": [
+  {
+   "lxx": "Isa 32:6",
+   "lxxKey": {
+    "code": "ISA",
+    "c1": 32,
+    "v1": "6",
+    "c2": 32,
+    "v2": "6"
+   },
+   "web": {
+    "code": "ISA",
+    "c1": 32,
+    "v1": 6,
+    "c2": 32,
+    "v2": 6
+   },
+   "ref": "Isaiah 32:6",
+   "score": 0.56,
+   "method": "rule"
+  }
+ ],
+ "for-050": [
+  {
+   "lxx": "Jer 20:12",
+   "lxxKey": {
+    "code": "JER",
+    "c1": 20,
+    "v1": "12",
+    "c2": 20,
+    "v2": "12"
+   },
+   "web": {
+    "code": "JER",
+    "c1": 20,
+    "v1": 12,
+    "c2": 20,
+    "v2": 12
+   },
+   "ref": "Jeremiah 20:12",
+   "score": 0.55,
+   "method": "rule"
+  }
+ ],
+ "for-051": [
+  {
+   "lxx": "Lam 1:9",
+   "lxxKey": {
+    "code": "LAM",
+    "c1": 1,
+    "v1": "9",
+    "c2": 1,
+    "v2": "9"
+   },
+   "web": {
+    "code": "LAM",
+    "c1": 1,
+    "v1": 9,
+    "c2": 1,
+    "v2": 9
+   },
+   "ref": "Lamentations 1:9",
+   "score": 0.46,
+   "method": "rule"
+  }
+ ],
+ "for-052": [
+  {
+   "lxx": "Lam 1:11",
+   "lxxKey": {
+    "code": "LAM",
+    "c1": 1,
+    "v1": "11",
+    "c2": 1,
+    "v2": "11"
+   },
+   "web": {
+    "code": "LAM",
+    "c1": 1,
+    "v1": 11,
+    "c2": 1,
+    "v2": 11
+   },
+   "ref": "Lamentations 1:11",
+   "score": 0.59,
+   "method": "rule"
+  }
+ ],
+ "for-053": [
+  {
+   "lxx": "Lam 2:19",
+   "lxxKey": {
+    "code": "LAM",
+    "c1": 2,
+    "v1": "19",
+    "c2": 2,
+    "v2": "19"
+   },
+   "web": {
+    "code": "LAM",
+    "c1": 2,
+    "v1": 19,
+    "c2": 2,
+    "v2": 19
+   },
+   "ref": "Lamentations 2:19",
+   "score": 0.74,
+   "method": "rule"
+  }
+ ],
+ "for-054": [
+  {
+   "lxx": "Lam 3:55-57",
+   "lxxKey": {
+    "code": "LAM",
+    "c1": 3,
+    "v1": "55",
+    "c2": 3,
+    "v2": "57"
+   },
+   "web": {
+    "code": "LAM",
+    "c1": 3,
+    "v1": 55,
+    "c2": 3,
+    "v2": 57
+   },
+   "ref": "Lamentations 3:55–57",
+   "score": 0.71,
+   "method": "rule"
+  }
+ ],
+ "for-055": [
+  {
+   "lxx": "Dan 4:25",
+   "lxxKey": {
+    "code": "DNG",
+    "c1": 4,
+    "v1": "25",
+    "c2": 4,
+    "v2": "25"
+   },
+   "web": {
+    "code": "DAN",
+    "c1": 4,
+    "v1": 25,
+    "c2": 4,
+    "v2": 25
+   },
+   "ref": "Daniel 4:25",
+   "score": 0.55,
+   "method": "rule"
+  }
+ ],
+ "for-056": [
+  {
+   "lxx": "Matt 5:28",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 5,
+    "v1": 28,
+    "c2": 5,
+    "v2": 28
+   },
+   "ref": "Matthew 5:28",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "for-057": [
+  {
+   "lxx": "Matt 26:41",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 26,
+    "v1": 41,
+    "c2": 26,
+    "v2": 41
+   },
+   "ref": "Matthew 26:41",
+   "score": 0.27,
+   "method": "rule"
+  }
+ ],
+ "for-058": [
+  {
+   "lxx": "1 Cor 6:9-10",
+   "lxxKey": null,
+   "web": {
+    "code": "1CO",
+    "c1": 6,
+    "v1": 9,
+    "c2": 6,
+    "v2": 10
+   },
+   "ref": "1 Corinthians 6:9–10",
+   "score": 0.36,
+   "method": "rule"
+  }
+ ],
+ "for-059": [
+  {
+   "lxx": "1 Cor 10:8",
+   "lxxKey": null,
+   "web": {
+    "code": "1CO",
+    "c1": 10,
+    "v1": 8,
+    "c2": 10,
+    "v2": 8
+   },
+   "ref": "1 Corinthians 10:8",
+   "score": 0.57,
+   "method": "rule"
+  }
+ ],
+ "for-060": [
+  {
+   "lxx": "Eph 5:5",
+   "lxxKey": null,
+   "web": {
+    "code": "EPH",
+    "c1": 5,
+    "v1": 5,
+    "c2": 5,
+    "v2": 5
+   },
+   "ref": "Ephesians 5:5",
+   "score": 0.64,
+   "method": "rule"
+  }
+ ],
+ "for-061": [
+  {
+   "lxx": "Jas 1:13-14",
+   "lxxKey": null,
+   "web": {
+    "code": "JAM",
+    "c1": 1,
+    "v1": 13,
+    "c2": 1,
+    "v2": 13
+   },
+   "ref": "James 1:13",
+   "score": 0.48,
+   "method": "rule"
+  }
+ ],
+ "for-062": [
+  {
+   "lxx": "Jas 4:1",
+   "lxxKey": null,
+   "web": {
+    "code": "JAM",
+    "c1": 4,
+    "v1": 1,
+    "c2": 4,
+    "v2": 1
+   },
+   "ref": "James 4:1",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "for-063": [
+  {
+   "lxx": "1 Pet 4:12-13",
+   "lxxKey": null,
+   "web": {
+    "code": "1PE",
+    "c1": 4,
+    "v1": 12,
+    "c2": 4,
+    "v2": 13
+   },
+   "ref": "1 Peter 4:12–13",
+   "score": 0.52,
+   "method": "rule"
+  }
+ ],
+ "for-064": [
+  {
+   "lxx": "1 Pet 5:8-9",
+   "lxxKey": null,
+   "web": {
+    "code": "1PE",
+    "c1": 5,
+    "v1": 8,
+    "c2": 5,
+    "v2": 9
+   },
+   "ref": "1 Peter 5:8–9",
+   "score": 0.61,
+   "method": "rule"
+  }
+ ],
+ "for-065": [
+  {
+   "lxx": "2 Pet 2:9",
+   "lxxKey": null,
+   "web": {
+    "code": "2PE",
+    "c1": 2,
+    "v1": 9,
+    "c2": 2,
+    "v2": 9
+   },
+   "ref": "2 Peter 2:9",
+   "score": 0.69,
+   "method": "rule"
+  }
+ ],
+ "mon-001": [
+  {
+   "lxx": "Gen 14:22-23",
+   "lxxKey": {
+    "code": "GEN",
+    "c1": 14,
+    "v1": "22",
+    "c2": 14,
+    "v2": "23"
+   },
+   "web": {
+    "code": "GEN",
+    "c1": 14,
+    "v1": 22,
+    "c2": 14,
+    "v2": 23
+   },
+   "ref": "Genesis 14:22–23",
+   "score": 0.73,
+   "method": "rule"
+  }
+ ],
+ "mon-002": [
+  {
+   "lxx": "Gen 28:20-22",
+   "lxxKey": {
+    "code": "GEN",
+    "c1": 28,
+    "v1": "20",
+    "c2": 28,
+    "v2": "22"
+   },
+   "web": {
+    "code": "GEN",
+    "c1": 28,
+    "v1": 20,
+    "c2": 28,
+    "v2": 22
+   },
+   "ref": "Genesis 28:20–22",
+   "score": 0.62,
+   "method": "rule"
+  }
+ ],
+ "mon-003": [
+  {
+   "lxx": "Exod 21:16",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 21,
+    "v1": "16",
+    "c2": 21,
+    "v2": "16"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 21,
+    "v1": 15,
+    "c2": 21,
+    "v2": 15
+   },
+   "ref": "Exodus 21:15",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "mon-004": [
+  {
+   "lxx": "Exod 23:9",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 23,
+    "v1": "9",
+    "c2": 23,
+    "v2": "9"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 23,
+    "v1": 9,
+    "c2": 23,
+    "v2": 9
+   },
+   "ref": "Exodus 23:9",
+   "score": 0.57,
+   "method": "rule"
+  }
+ ],
+ "mon-005": [
+  {
+   "lxx": "Lev 19:18",
+   "lxxKey": {
+    "code": "LEV",
+    "c1": 19,
+    "v1": "18",
+    "c2": 19,
+    "v2": "18"
+   },
+   "web": {
+    "code": "LEV",
+    "c1": 19,
+    "v1": 18,
+    "c2": 19,
+    "v2": 18
+   },
+   "ref": "Leviticus 19:18",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "mon-006": [
+  {
+   "lxx": "Lev 25:17",
+   "lxxKey": {
+    "code": "LEV",
+    "c1": 25,
+    "v1": "17",
+    "c2": 25,
+    "v2": "17"
+   },
+   "web": {
+    "code": "LEV",
+    "c1": 25,
+    "v1": 17,
+    "c2": 25,
+    "v2": 17
+   },
+   "ref": "Leviticus 25:17",
+   "score": 0.55,
+   "method": "rule"
+  }
+ ],
+ "mon-007": [
+  {
+   "lxx": "Lev 25:35",
+   "lxxKey": {
+    "code": "LEV",
+    "c1": 25,
+    "v1": "35",
+    "c2": 25,
+    "v2": "35"
+   },
+   "web": {
+    "code": "LEV",
+    "c1": 25,
+    "v1": 35,
+    "c2": 25,
+    "v2": 35
+   },
+   "ref": "Leviticus 25:35",
+   "score": 0.42,
+   "method": "rule"
+  }
+ ],
+ "mon-008": [
+  {
+   "lxx": "Lev 25:46",
+   "lxxKey": {
+    "code": "LEV",
+    "c1": 25,
+    "v1": "46",
+    "c2": 25,
+    "v2": "46"
+   },
+   "web": {
+    "code": "LEV",
+    "c1": 25,
+    "v1": 46,
+    "c2": 25,
+    "v2": 46
+   },
+   "ref": "Leviticus 25:46",
+   "score": 0.38,
+   "method": "rule"
+  }
+ ],
+ "mon-009": [
+  {
+   "lxx": "Deut 15:7-8",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 15,
+    "v1": "7",
+    "c2": 15,
+    "v2": "8"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 15,
+    "v1": 7,
+    "c2": 15,
+    "v2": 8
+   },
+   "ref": "Deuteronomy 15:7–8",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "mon-010": [
+  {
+   "lxx": "Deut 28:17-18",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 28,
+    "v1": "17",
+    "c2": 28,
+    "v2": "18"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 28,
+    "v1": 17,
+    "c2": 28,
+    "v2": 18
+   },
+   "ref": "Deuteronomy 28:17–18",
+   "score": 0.36,
+   "method": "rule"
+  }
+ ],
+ "mon-011": [
+  {
+   "lxx": "Judg 8:2",
+   "lxxKey": {
+    "code": "JDG",
+    "c1": 8,
+    "v1": "2",
+    "c2": 8,
+    "v2": "2"
+   },
+   "web": {
+    "code": "JDG",
+    "c1": 8,
+    "v1": 2,
+    "c2": 8,
+    "v2": 2
+   },
+   "ref": "Judges 8:2",
+   "score": 0.89,
+   "method": "rule"
+  }
+ ],
+ "mon-012": [
+  {
+   "lxx": "3 Kgdms 8:61",
+   "lxxKey": {
+    "code": "1KI",
+    "c1": 8,
+    "v1": "61",
+    "c2": 8,
+    "v2": "61"
+   },
+   "web": {
+    "code": "1KI",
+    "c1": 8,
+    "v1": 61,
+    "c2": 8,
+    "v2": 61
+   },
+   "ref": "1 Kings 8:61",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "mon-013": [
+  {
+   "lxx": "3 Kgdms 19:19-21",
+   "lxxKey": {
+    "code": "1KI",
+    "c1": 19,
+    "v1": "19",
+    "c2": 19,
+    "v2": "21"
+   },
+   "web": {
+    "code": "1KI",
+    "c1": 19,
+    "v1": 19,
+    "c2": 19,
+    "v2": 21
+   },
+   "ref": "1 Kings 19:19–21",
+   "score": 0.78,
+   "method": "rule"
+  }
+ ],
+ "mon-014": [
+  {
+   "lxx": "4 Kgdms 4:38",
+   "lxxKey": {
+    "code": "2KI",
+    "c1": 4,
+    "v1": "38",
+    "c2": 4,
+    "v2": "38"
+   },
+   "web": {
+    "code": "2KI",
+    "c1": 4,
+    "v1": 38,
+    "c2": 4,
+    "v2": 38
+   },
+   "ref": "2 Kings 4:38",
+   "score": 0.52,
+   "method": "rule"
+  }
+ ],
+ "mon-015": [
+  {
+   "lxx": "4 Kgdms 5:25-27",
+   "lxxKey": {
+    "code": "2KI",
+    "c1": 5,
+    "v1": "25",
+    "c2": 5,
+    "v2": "27"
+   },
+   "web": {
+    "code": "2KI",
+    "c1": 5,
+    "v1": 25,
+    "c2": 5,
+    "v2": 27
+   },
+   "ref": "2 Kings 5:25–27",
+   "score": 0.56,
+   "method": "rule"
+  }
+ ],
+ "mon-016": [
+  {
+   "lxx": "Ps 15:5",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 15,
+    "v1": "5",
+    "c2": 15,
+    "v2": "5"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 16,
+    "v1": 5,
+    "c2": 16,
+    "v2": 5
+   },
+   "ref": "Psalm 16:5",
+   "score": 0.43,
+   "method": "rule"
+  }
+ ],
+ "mon-017": [
+  {
+   "lxx": "Ps 26:10",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 26,
+    "v1": "10",
+    "c2": 26,
+    "v2": "10"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 27,
+    "v1": 10,
+    "c2": 27,
+    "v2": 10
+   },
+   "ref": "Psalm 27:10",
+   "score": 0.6,
+   "method": "rule"
+  }
+ ],
+ "mon-018": [
+  {
+   "lxx": "Ps 33:3",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 33,
+    "v1": "3",
+    "c2": 33,
+    "v2": "3"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 34,
+    "v1": 2,
+    "c2": 34,
+    "v2": 2
+   },
+   "ref": "Psalm 34:2",
+   "score": 0.62,
+   "method": "rule"
+  }
+ ],
+ "mon-019": [
+  {
+   "lxx": "Ps 36:32-33",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 36,
+    "v1": "32",
+    "c2": 36,
+    "v2": "33"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 37,
+    "v1": 32,
+    "c2": 37,
+    "v2": 33
+   },
+   "ref": "Psalm 37:32–33",
+   "score": 0.73,
+   "method": "rule"
+  }
+ ],
+ "mon-020": [
+  {
+   "lxx": "Ps 44:11-12",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 44,
+    "v1": "11",
+    "c2": 44,
+    "v2": "12"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 45,
+    "v1": 10,
+    "c2": 45,
+    "v2": 11
+   },
+   "ref": "Psalm 45:10–11",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "mon-021": [
+  {
+   "lxx": "Ps 61:11",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 61,
+    "v1": "11",
+    "c2": 61,
+    "v2": "11"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 62,
+    "v1": 10,
+    "c2": 62,
+    "v2": 10
+   },
+   "ref": "Psalm 62:10",
+   "score": 0.4,
+   "method": "rule"
+  }
+ ],
+ "mon-022": [
+  {
+   "lxx": "Ps 83:11",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 83,
+    "v1": "11",
+    "c2": 83,
+    "v2": "11"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 84,
+    "v1": 10,
+    "c2": 84,
+    "v2": 10
+   },
+   "ref": "Psalm 84:10",
+   "score": 0.83,
+   "method": "rule"
+  }
+ ],
+ "mon-023": [
+  {
+   "lxx": "Ps 83:12",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 83,
+    "v1": "12",
+    "c2": 83,
+    "v2": "12"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 84,
+    "v1": 11,
+    "c2": 84,
+    "v2": 11
+   },
+   "ref": "Psalm 84:11",
+   "score": 0.64,
+   "method": "rule"
+  }
+ ],
+ "mon-024": [
+  {
+   "lxx": "Ps 118:36",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 118,
+    "v1": "36",
+    "c2": 118,
+    "v2": "36"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 119,
+    "v1": 36,
+    "c2": 119,
+    "v2": 36
+   },
+   "ref": "Psalm 119:36",
+   "score": 0.2,
+   "method": "rule"
+  }
+ ],
+ "mon-025": [
+  {
+   "lxx": "Ps 139:6",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 139,
+    "v1": "6",
+    "c2": 139,
+    "v2": "6"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 140,
+    "v1": 5,
+    "c2": 140,
+    "v2": 5
+   },
+   "ref": "Psalm 140:5",
+   "score": 0.45,
+   "method": "rule"
+  }
+ ],
+ "mon-026": [
+  {
+   "lxx": "Ps 143:4",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 143,
+    "v1": "4",
+    "c2": 143,
+    "v2": "4"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 144,
+    "v1": 4,
+    "c2": 144,
+    "v2": 4
+   },
+   "ref": "Psalm 144:4",
+   "score": 0.62,
+   "method": "rule"
+  }
+ ],
+ "mon-027": [
+  {
+   "lxx": "Prov 3:3-4",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 3,
+    "v1": "3",
+    "c2": 3,
+    "v2": "4"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 3,
+    "v1": 3,
+    "c2": 3,
+    "v2": 4
+   },
+   "ref": "Proverbs 3:3–4",
+   "score": 0.38,
+   "method": "rule"
+  }
+ ],
+ "mon-028": [
+  {
+   "lxx": "Prov 3:27-28",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 3,
+    "v1": "27",
+    "c2": 3,
+    "v2": "28"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 3,
+    "v1": 27,
+    "c2": 3,
+    "v2": 28
+   },
+   "ref": "Proverbs 3:27–28",
+   "score": 0.42,
+   "method": "rule"
+  }
+ ],
+ "mon-029": [
+  {
+   "lxx": "Prov 11:4",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 11,
+    "v1": "4",
+    "c2": 11,
+    "v2": "4"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 11,
+    "v1": 4,
+    "c2": 11,
+    "v2": 4
+   },
+   "ref": "Proverbs 11:4",
+   "score": 0.8,
+   "method": "rule"
+  }
+ ],
+ "mon-030": [
+  {
+   "lxx": "Prov 13:8",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 13,
+    "v1": "8",
+    "c2": 13,
+    "v2": "8"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 13,
+    "v1": 8,
+    "c2": 13,
+    "v2": 8
+   },
+   "ref": "Proverbs 13:8",
+   "score": 0.53,
+   "method": "rule"
+  }
+ ],
+ "mon-031": [
+  {
+   "lxx": "Prov 16:16",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 16,
+    "v1": "16",
+    "c2": 16,
+    "v2": "16"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 16,
+    "v1": 16,
+    "c2": 16,
+    "v2": 16
+   },
+   "ref": "Proverbs 16:16",
+   "score": 0.44,
+   "method": "rule"
+  }
+ ],
+ "mon-032": [
+  {
+   "lxx": "Prov 22:1",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 22,
+    "v1": "1",
+    "c2": 22,
+    "v2": "1"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 22,
+    "v1": 1,
+    "c2": 22,
+    "v2": 1
+   },
+   "ref": "Proverbs 22:1",
+   "score": 0.6,
+   "method": "rule"
+  }
+ ],
+ "mon-033": [
+  {
+   "lxx": "Prov 22:8a",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 22,
+    "v1": "8a",
+    "c2": 22,
+    "v2": "8a"
+   },
+   "web": null,
+   "ref": "Proverbs 22:8a (Greek)",
+   "score": 1,
+   "method": "lxx-only"
+  }
+ ],
+ "mon-034": [
+  {
+   "lxx": "Qo 1:2",
+   "lxxKey": {
+    "code": "ECC",
+    "c1": 1,
+    "v1": "2",
+    "c2": 1,
+    "v2": "2"
+   },
+   "web": {
+    "code": "ECC",
+    "c1": 1,
+    "v1": 2,
+    "c2": 1,
+    "v2": 2
+   },
+   "ref": "Ecclesiastes 1:2",
+   "score": 1,
+   "method": "rule"
+  }
+ ],
+ "mon-035": [
+  {
+   "lxx": "Qo 5:9",
+   "lxxKey": {
+    "code": "ECC",
+    "c1": 5,
+    "v1": "9",
+    "c2": 5,
+    "v2": "9"
+   },
+   "web": {
+    "code": "ECC",
+    "c1": 5,
+    "v1": 10,
+    "c2": 5,
+    "v2": 10
+   },
+   "ref": "Ecclesiastes 5:10",
+   "score": 0.77,
+   "method": "rule"
+  }
+ ],
+ "mon-036": [
+  {
+   "lxx": "Job 1:21",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 1,
+    "v1": "21",
+    "c2": 1,
+    "v2": "21"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 1,
+    "v1": 21,
+    "c2": 1,
+    "v2": 21
+   },
+   "ref": "Job 1:21",
+   "score": 0.76,
+   "method": "rule"
+  }
+ ],
+ "mon-037": [
+  {
+   "lxx": "Isa 58:7",
+   "lxxKey": {
+    "code": "ISA",
+    "c1": 58,
+    "v1": "7",
+    "c2": 58,
+    "v2": "7"
+   },
+   "web": {
+    "code": "ISA",
+    "c1": 58,
+    "v1": 7,
+    "c2": 58,
+    "v2": 7
+   },
+   "ref": "Isaiah 58:7",
+   "score": 0.52,
+   "method": "rule"
+  }
+ ],
+ "mon-038": [
+  {
+   "lxx": "Matt 5:7",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 5,
+    "v1": 7,
+    "c2": 5,
+    "v2": 7
+   },
+   "ref": "Matthew 5:7",
+   "score": 0.75,
+   "method": "rule"
+  }
+ ],
+ "mon-039": [
+  {
+   "lxx": "Matt 5:40",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 5,
+    "v1": 40,
+    "c2": 5,
+    "v2": 40
+   },
+   "ref": "Matthew 5:40",
+   "score": 0.57,
+   "method": "rule"
+  }
+ ],
+ "mon-040": [
+  {
+   "lxx": "Matt 5:42",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 5,
+    "v1": 42,
+    "c2": 5,
+    "v2": 42
+   },
+   "ref": "Matthew 5:42",
+   "score": 0.29,
+   "method": "rule"
+  }
+ ],
+ "mon-041": [
+  {
+   "lxx": "Matt 6:19",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 6,
+    "v1": 19,
+    "c2": 6,
+    "v2": 19
+   },
+   "ref": "Matthew 6:19",
+   "score": 0.83,
+   "method": "rule"
+  }
+ ],
+ "mon-042": [
+  {
+   "lxx": "Matt 6:24",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 6,
+    "v1": 24,
+    "c2": 6,
+    "v2": 24
+   },
+   "ref": "Matthew 6:24",
+   "score": 0.76,
+   "method": "rule"
+  }
+ ],
+ "mon-043": [
+  {
+   "lxx": "Matt 7:12",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 7,
+    "v1": 12,
+    "c2": 7,
+    "v2": 12
+   },
+   "ref": "Matthew 7:12",
+   "score": 0.36,
+   "method": "rule"
+  }
+ ],
+ "mon-044": [
+  {
+   "lxx": "Mark 10:23",
+   "lxxKey": null,
+   "web": {
+    "code": "MAR",
+    "c1": 10,
+    "v1": 23,
+    "c2": 10,
+    "v2": 23
+   },
+   "ref": "Mark 10:23",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "mon-045": [
+  {
+   "lxx": "Rom 12:8-9",
+   "lxxKey": null,
+   "web": {
+    "code": "ROM",
+    "c1": 12,
+    "v1": 8,
+    "c2": 12,
+    "v2": 9
+   },
+   "ref": "Romans 12:8–9",
+   "score": 0.21,
+   "method": "rule"
+  }
+ ],
+ "mon-046": [
+  {
+   "lxx": "2 Cor 4:18",
+   "lxxKey": null,
+   "web": {
+    "code": "2CO",
+    "c1": 4,
+    "v1": 18,
+    "c2": 4,
+    "v2": 18
+   },
+   "ref": "2 Corinthians 4:18",
+   "score": 0.33,
+   "method": "rule"
+  }
+ ],
+ "mon-047": [
+  {
+   "lxx": "2 Cor 9:6",
+   "lxxKey": null,
+   "web": {
+    "code": "2CO",
+    "c1": 9,
+    "v1": 6,
+    "c2": 9,
+    "v2": 6
+   },
+   "ref": "2 Corinthians 9:6",
+   "score": 0.8,
+   "method": "rule"
+  }
+ ],
+ "mon-048": [
+  {
+   "lxx": "Eph 4:32",
+   "lxxKey": null,
+   "web": {
+    "code": "EPH",
+    "c1": 4,
+    "v1": 32,
+    "c2": 4,
+    "v2": 32
+   },
+   "ref": "Ephesians 4:32",
+   "score": 0.56,
+   "method": "rule"
+  }
+ ],
+ "mon-049": [
+  {
+   "lxx": "Phil 2:4",
+   "lxxKey": null,
+   "web": {
+    "code": "PHI",
+    "c1": 2,
+    "v1": 4,
+    "c2": 2,
+    "v2": 4
+   },
+   "ref": "Philippians 2:4",
+   "score": 0.73,
+   "method": "rule"
+  }
+ ],
+ "mon-050": [
+  {
+   "lxx": "Phil 3:7-8",
+   "lxxKey": null,
+   "web": {
+    "code": "PHI",
+    "c1": 3,
+    "v1": 7,
+    "c2": 3,
+    "v2": 8
+   },
+   "ref": "Philippians 3:7–8",
+   "score": 0.38,
+   "method": "rule"
+  }
+ ],
+ "mon-051": [
+  {
+   "lxx": "Col 3:5-6",
+   "lxxKey": null,
+   "web": {
+    "code": "COL",
+    "c1": 3,
+    "v1": 5,
+    "c2": 3,
+    "v2": 6
+   },
+   "ref": "Colossians 3:5–6",
+   "score": 0.53,
+   "method": "rule"
+  }
+ ],
+ "mon-052": [
+  {
+   "lxx": "Heb 13:5",
+   "lxxKey": null,
+   "web": {
+    "code": "HEB",
+    "c1": 13,
+    "v1": 5,
+    "c2": 13,
+    "v2": 5
+   },
+   "ref": "Hebrews 13:5",
+   "score": 0.6,
+   "method": "rule"
+  }
+ ],
+ "mon-053": [
+  {
+   "lxx": "1 Tim 6:7-8",
+   "lxxKey": null,
+   "web": {
+    "code": "1TI",
+    "c1": 6,
+    "v1": 7,
+    "c2": 6,
+    "v2": 8
+   },
+   "ref": "1 Timothy 6:7–8",
+   "score": 0.63,
+   "method": "rule"
+  }
+ ],
+ "mon-054": [
+  {
+   "lxx": "1 Tim 6:10",
+   "lxxKey": null,
+   "web": {
+    "code": "1TI",
+    "c1": 6,
+    "v1": 10,
+    "c2": 6,
+    "v2": 10
+   },
+   "ref": "1 Timothy 6:10",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "mon-055": [
+  {
+   "lxx": "2 Tim 2:4-5",
+   "lxxKey": null,
+   "web": {
+    "code": "2TI",
+    "c1": 2,
+    "v1": 4,
+    "c2": 2,
+    "v2": 5
+   },
+   "ref": "2 Timothy 2:4–5",
+   "score": 0.42,
+   "method": "rule"
+  }
+ ],
+ "mon-056": [
+  {
+   "lxx": "1 Pet 4:11",
+   "lxxKey": null,
+   "web": {
+    "code": "1PE",
+    "c1": 4,
+    "v1": 11,
+    "c2": 4,
+    "v2": 11
+   },
+   "ref": "1 Peter 4:11",
+   "score": 0.52,
+   "method": "rule"
+  }
+ ],
+ "mon-057": [
+  {
+   "lxx": "1 John 3:17",
+   "lxxKey": null,
+   "web": {
+    "code": "1JO",
+    "c1": 3,
+    "v1": 17,
+    "c2": 3,
+    "v2": 17
+   },
+   "ref": "1 John 3:17",
+   "score": 0.59,
+   "method": "rule"
+  }
+ ],
+ "mon-058": [
+  {
+   "lxx": "1 John 3:18",
+   "lxxKey": null,
+   "web": {
+    "code": "1JO",
+    "c1": 3,
+    "v1": 18,
+    "c2": 3,
+    "v2": 18
+   },
+   "ref": "1 John 3:18",
+   "score": 0.63,
+   "method": "rule"
+  }
+ ],
+ "sad-001": [
+  {
+   "lxx": "Exod 2:23-24",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 2,
+    "v1": "23",
+    "c2": 2,
+    "v2": "24"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 2,
+    "v1": 23,
+    "c2": 2,
+    "v2": 24
+   },
+   "ref": "Exodus 2:23–24",
+   "score": 0.7,
+   "method": "rule"
+  }
+ ],
+ "sad-002": [
+  {
+   "lxx": "Exod 3:7-8",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 3,
+    "v1": "7",
+    "c2": 3,
+    "v2": "8"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 3,
+    "v1": 7,
+    "c2": 3,
+    "v2": 8
+   },
+   "ref": "Exodus 3:7–8",
+   "score": 0.66,
+   "method": "rule"
+  }
+ ],
+ "sad-003": [
+  {
+   "lxx": "Exod 5:22-23",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 5,
+    "v1": "22",
+    "c2": 5,
+    "v2": "23"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 5,
+    "v1": 22,
+    "c2": 5,
+    "v2": 23
+   },
+   "ref": "Exodus 5:22–23",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "sad-004": [
+  {
+   "lxx": "Exod 6:6-7",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 6,
+    "v1": "6",
+    "c2": 6,
+    "v2": "7"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 6,
+    "v1": 6,
+    "c2": 6,
+    "v2": 7
+   },
+   "ref": "Exodus 6:6–7",
+   "score": 0.59,
+   "method": "rule"
+  }
+ ],
+ "sad-005": [
+  {
+   "lxx": "Exod 13:17",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 13,
+    "v1": "17",
+    "c2": 13,
+    "v2": "17"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 13,
+    "v1": 17,
+    "c2": 13,
+    "v2": 17
+   },
+   "ref": "Exodus 13:17",
+   "score": 0.74,
+   "method": "rule"
+  }
+ ],
+ "sad-006": [
+  {
+   "lxx": "Exod 14:25",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 14,
+    "v1": "25",
+    "c2": 14,
+    "v2": "25"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 14,
+    "v1": 25,
+    "c2": 14,
+    "v2": 25
+   },
+   "ref": "Exodus 14:25",
+   "score": 0.59,
+   "method": "rule"
+  }
+ ],
+ "sad-007": [
+  {
+   "lxx": "Exod 15:9",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 15,
+    "v1": "9",
+    "c2": 15,
+    "v2": "9"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 15,
+    "v1": 9,
+    "c2": 15,
+    "v2": 9
+   },
+   "ref": "Exodus 15:9",
+   "score": 0.64,
+   "method": "rule"
+  }
+ ],
+ "sad-008": [
+  {
+   "lxx": "Exod 15:16",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 15,
+    "v1": "16",
+    "c2": 15,
+    "v2": "16"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 15,
+    "v1": 16,
+    "c2": 15,
+    "v2": 16
+   },
+   "ref": "Exodus 15:16",
+   "score": 0.77,
+   "method": "rule"
+  }
+ ],
+ "sad-009": [
+  {
+   "lxx": "Exod 17:16",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 17,
+    "v1": "16",
+    "c2": 17,
+    "v2": "16"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 17,
+    "v1": 16,
+    "c2": 17,
+    "v2": 16
+   },
+   "ref": "Exodus 17:16",
+   "score": 0.62,
+   "method": "rule"
+  }
+ ],
+ "sad-010": [
+  {
+   "lxx": "Exod 23:20",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 23,
+    "v1": "20",
+    "c2": 23,
+    "v2": "20"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 23,
+    "v1": 20,
+    "c2": 23,
+    "v2": 20
+   },
+   "ref": "Exodus 23:20",
+   "score": 0.84,
+   "method": "rule"
+  }
+ ],
+ "sad-011": [
+  {
+   "lxx": "Lev 26:6-7",
+   "lxxKey": {
+    "code": "LEV",
+    "c1": 26,
+    "v1": "6",
+    "c2": 26,
+    "v2": "7"
+   },
+   "web": {
+    "code": "LEV",
+    "c1": 26,
+    "v1": 6,
+    "c2": 26,
+    "v2": 7
+   },
+   "ref": "Leviticus 26:6–7",
+   "score": 0.56,
+   "method": "rule"
+  }
+ ],
+ "sad-012": [
+  {
+   "lxx": "Deut 1:29-30",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 1,
+    "v1": "29",
+    "c2": 1,
+    "v2": "30"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 1,
+    "v1": 29,
+    "c2": 1,
+    "v2": 30
+   },
+   "ref": "Deuteronomy 1:29–30",
+   "score": 0.59,
+   "method": "rule"
+  }
+ ],
+ "sad-013": [
+  {
+   "lxx": "Deut 2:24-25",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 2,
+    "v1": "24",
+    "c2": 2,
+    "v2": "25"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 2,
+    "v1": 24,
+    "c2": 2,
+    "v2": 25
+   },
+   "ref": "Deuteronomy 2:24–25",
+   "score": 0.44,
+   "method": "rule"
+  }
+ ],
+ "sad-014": [
+  {
+   "lxx": "Deut 1:29-30",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 1,
+    "v1": "29",
+    "c2": 1,
+    "v2": "30"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 1,
+    "v1": 29,
+    "c2": 1,
+    "v2": 30
+   },
+   "ref": "Deuteronomy 1:29–30",
+   "score": 0.6,
+   "method": "rule"
+  }
+ ],
+ "sad-015": [
+  {
+   "lxx": "Deut 3:24",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 3,
+    "v1": "24",
+    "c2": 3,
+    "v2": "24"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 3,
+    "v1": 24,
+    "c2": 3,
+    "v2": 24
+   },
+   "ref": "Deuteronomy 3:24",
+   "score": 0.58,
+   "method": "rule"
+  }
+ ],
+ "sad-016": [
+  {
+   "lxx": "Deut 4:31",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 4,
+    "v1": "31",
+    "c2": 4,
+    "v2": "31"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 4,
+    "v1": 31,
+    "c2": 4,
+    "v2": 31
+   },
+   "ref": "Deuteronomy 4:31",
+   "score": 0.82,
+   "method": "rule"
+  }
+ ],
+ "sad-017": [
+  {
+   "lxx": "Deut 8:16",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 8,
+    "v1": "16",
+    "c2": 8,
+    "v2": "16"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 8,
+    "v1": 16,
+    "c2": 8,
+    "v2": 16
+   },
+   "ref": "Deuteronomy 8:16",
+   "score": 0.58,
+   "method": "rule"
+  }
+ ],
+ "sad-018": [
+  {
+   "lxx": "Deut 20:3-4",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 20,
+    "v1": "3",
+    "c2": 20,
+    "v2": "4"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 20,
+    "v1": 3,
+    "c2": 20,
+    "v2": 4
+   },
+   "ref": "Deuteronomy 20:3–4",
+   "score": 0.63,
+   "method": "rule"
+  }
+ ],
+ "sad-019a": [
+  {
+   "lxx": "Deut 31:6",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 31,
+    "v1": "6",
+    "c2": 31,
+    "v2": "6"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 31,
+    "v1": 6,
+    "c2": 31,
+    "v2": 6
+   },
+   "ref": "Deuteronomy 31:6",
+   "score": 0.52,
+   "method": "rule"
+  }
+ ],
+ "sad-019b": [
+  {
+   "lxx": "Josh 1:9",
+   "lxxKey": {
+    "code": "JOS",
+    "c1": 1,
+    "v1": "9",
+    "c2": 1,
+    "v2": "9"
+   },
+   "web": {
+    "code": "JOS",
+    "c1": 1,
+    "v1": 9,
+    "c2": 1,
+    "v2": 9
+   },
+   "ref": "Joshua 1:9",
+   "score": 0.71,
+   "method": "rule"
+  }
+ ],
+ "sad-020": [
+  {
+   "lxx": "Josh 10:25",
+   "lxxKey": {
+    "code": "JOS",
+    "c1": 10,
+    "v1": "25",
+    "c2": 10,
+    "v2": "25"
+   },
+   "web": {
+    "code": "JOS",
+    "c1": 10,
+    "v1": 25,
+    "c2": 10,
+    "v2": 25
+   },
+   "ref": "Joshua 10:25",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "sad-021": [
+  {
+   "lxx": "Judg 5:12",
+   "lxxKey": {
+    "code": "JDG",
+    "c1": 5,
+    "v1": "12",
+    "c2": 5,
+    "v2": "12"
+   },
+   "web": {
+    "code": "JDG",
+    "c1": 5,
+    "v1": 12,
+    "c2": 5,
+    "v2": 12
+   },
+   "ref": "Judges 5:12",
+   "score": 0.55,
+   "method": "rule"
+  }
+ ],
+ "sad-022": [
+  {
+   "lxx": "1 Kgdms 16:23",
+   "lxxKey": {
+    "code": "1SA",
+    "c1": 16,
+    "v1": "23",
+    "c2": 16,
+    "v2": "23"
+   },
+   "web": {
+    "code": "1SA",
+    "c1": 16,
+    "v1": 23,
+    "c2": 16,
+    "v2": 23
+   },
+   "ref": "1 Samuel 16:23",
+   "score": 0.88,
+   "method": "rule"
+  }
+ ],
+ "sad-023": [
+  {
+   "lxx": "1 Kgdms 17:45",
+   "lxxKey": {
+    "code": "1SA",
+    "c1": 17,
+    "v1": "45",
+    "c2": 17,
+    "v2": "45"
+   },
+   "web": {
+    "code": "1SA",
+    "c1": 17,
+    "v1": 45,
+    "c2": 17,
+    "v2": 45
+   },
+   "ref": "1 Samuel 17:45",
+   "score": 0.74,
+   "method": "rule"
+  }
+ ],
+ "sad-024": [
+  {
+   "lxx": "1 Kgdms 17:47",
+   "lxxKey": {
+    "code": "1SA",
+    "c1": 17,
+    "v1": "47",
+    "c2": 17,
+    "v2": "47"
+   },
+   "web": {
+    "code": "1SA",
+    "c1": 17,
+    "v1": 47,
+    "c2": 17,
+    "v2": 47
+   },
+   "ref": "1 Samuel 17:47",
+   "score": 0.78,
+   "method": "rule"
+  }
+ ],
+ "sad-025": [
+  {
+   "lxx": "3 Kgdms 21:11",
+   "lxxKey": {
+    "code": "1KI",
+    "c1": 21,
+    "v1": "11",
+    "c2": 21,
+    "v2": "11"
+   },
+   "web": {
+    "code": "1KI",
+    "c1": 20,
+    "v1": 11,
+    "c2": 20,
+    "v2": 11
+   },
+   "ref": "1 Kings 20:11",
+   "score": 0.33,
+   "method": "rule"
+  }
+ ],
+ "sad-026": [
+  {
+   "lxx": "4 Kgdms 6:16",
+   "lxxKey": {
+    "code": "2KI",
+    "c1": 6,
+    "v1": "16",
+    "c2": 6,
+    "v2": "16"
+   },
+   "web": {
+    "code": "2KI",
+    "c1": 6,
+    "v1": 16,
+    "c2": 6,
+    "v2": 16
+   },
+   "ref": "2 Kings 6:16",
+   "score": 0.33,
+   "method": "rule"
+  }
+ ],
+ "sad-027": [
+  {
+   "lxx": "4 Kgdms 6:17",
+   "lxxKey": {
+    "code": "2KI",
+    "c1": 6,
+    "v1": "17",
+    "c2": 6,
+    "v2": "17"
+   },
+   "web": {
+    "code": "2KI",
+    "c1": 6,
+    "v1": 17,
+    "c2": 6,
+    "v2": 17
+   },
+   "ref": "2 Kings 6:17",
+   "score": 0.73,
+   "method": "rule"
+  }
+ ],
+ "sad-028": [
+  {
+   "lxx": "Ps 2:4-5",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 2,
+    "v1": "4",
+    "c2": 2,
+    "v2": "5"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 2,
+    "v1": 4,
+    "c2": 2,
+    "v2": 5
+   },
+   "ref": "Psalm 2:4–5",
+   "score": 0.53,
+   "method": "rule"
+  }
+ ],
+ "sad-029": [
+  {
+   "lxx": "Ps 6:3-5",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 6,
+    "v1": "3",
+    "c2": 6,
+    "v2": "5"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 6,
+    "v1": 2,
+    "c2": 6,
+    "v2": 4
+   },
+   "ref": "Psalm 6:2–4",
+   "score": 0.77,
+   "method": "rule"
+  }
+ ],
+ "sad-030": [
+  {
+   "lxx": "Ps 10:1",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 10,
+    "v1": "1",
+    "c2": 10,
+    "v2": "1"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 11,
+    "v1": 1,
+    "c2": 11,
+    "v2": 1
+   },
+   "ref": "Psalm 11:1",
+   "score": 0.52,
+   "method": "rule"
+  }
+ ],
+ "sad-031": [
+  {
+   "lxx": "Ps 16:13",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 16,
+    "v1": "13",
+    "c2": 16,
+    "v2": "13"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 17,
+    "v1": 13,
+    "c2": 17,
+    "v2": 13
+   },
+   "ref": "Psalm 17:13",
+   "score": 0.74,
+   "method": "rule"
+  }
+ ],
+ "sad-032": [
+  {
+   "lxx": "Ps 19:8-9",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 19,
+    "v1": "8",
+    "c2": 19,
+    "v2": "9"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 20,
+    "v1": 7,
+    "c2": 20,
+    "v2": 8
+   },
+   "ref": "Psalm 20:7–8",
+   "score": 0.64,
+   "method": "rule"
+  }
+ ],
+ "sad-033": [
+  {
+   "lxx": "Ps 26:1",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 26,
+    "v1": "1",
+    "c2": 26,
+    "v2": "1"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 27,
+    "v1": 1,
+    "c2": 27,
+    "v2": 1
+   },
+   "ref": "Psalm 27:1",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "sad-034": [
+  {
+   "lxx": "Ps 26:3",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 26,
+    "v1": "3",
+    "c2": 26,
+    "v2": "3"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 27,
+    "v1": 3,
+    "c2": 27,
+    "v2": 3
+   },
+   "ref": "Psalm 27:3",
+   "score": 0.7,
+   "method": "rule"
+  }
+ ],
+ "sad-035": [
+  {
+   "lxx": "Ps 31:7",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 31,
+    "v1": "7",
+    "c2": 31,
+    "v2": "7"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 32,
+    "v1": 7,
+    "c2": 32,
+    "v2": 7
+   },
+   "ref": "Psalm 32:7",
+   "score": 0.14,
+   "method": "rule"
+  }
+ ],
+ "sad-036": [
+  {
+   "lxx": "Ps 34:1-3",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 34,
+    "v1": "1",
+    "c2": 34,
+    "v2": "3"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 35,
+    "v1": 1,
+    "c2": 35,
+    "v2": 3
+   },
+   "ref": "Psalm 35:1–3",
+   "score": 0.56,
+   "method": "rule"
+  }
+ ],
+ "sad-037": [
+  {
+   "lxx": "Ps 34:17",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 34,
+    "v1": "17",
+    "c2": 34,
+    "v2": "17"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 35,
+    "v1": 17,
+    "c2": 35,
+    "v2": 17
+   },
+   "ref": "Psalm 35:17",
+   "score": 0.4,
+   "method": "rule"
+  }
+ ],
+ "sad-038": [
+  {
+   "lxx": "Ps 36:15",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 36,
+    "v1": "15",
+    "c2": 36,
+    "v2": "15"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 37,
+    "v1": 15,
+    "c2": 37,
+    "v2": 15
+   },
+   "ref": "Psalm 37:15",
+   "score": 1,
+   "method": "rule"
+  }
+ ],
+ "sad-039": [
+  {
+   "lxx": "Ps 37:18",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 37,
+    "v1": "18",
+    "c2": 37,
+    "v2": "18"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 38,
+    "v1": 17,
+    "c2": 38,
+    "v2": 17
+   },
+   "ref": "Psalm 38:17",
+   "score": 0.6,
+   "method": "rule"
+  }
+ ],
+ "sad-040": [
+  {
+   "lxx": "Ps 37:22-23",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 37,
+    "v1": "22",
+    "c2": 37,
+    "v2": "23"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 38,
+    "v1": 21,
+    "c2": 38,
+    "v2": 22
+   },
+   "ref": "Psalm 38:21–22",
+   "score": 0.63,
+   "method": "rule"
+  }
+ ],
+ "sad-041": [
+  {
+   "lxx": "Ps 38:11",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 38,
+    "v1": "11",
+    "c2": 38,
+    "v2": "11"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 39,
+    "v1": 10,
+    "c2": 39,
+    "v2": 10
+   },
+   "ref": "Psalm 39:10",
+   "score": 0.33,
+   "method": "rule"
+  }
+ ],
+ "sad-042": [
+  {
+   "lxx": "Ps 54:22",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 54,
+    "v1": "22",
+    "c2": 54,
+    "v2": "22"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 55,
+    "v1": 21,
+    "c2": 55,
+    "v2": 21
+   },
+   "ref": "Psalm 55:21",
+   "score": 0.36,
+   "method": "rule"
+  }
+ ],
+ "sad-043": [
+  {
+   "lxx": "Ps 68:7",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 68,
+    "v1": "7",
+    "c2": 68,
+    "v2": "7"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 69,
+    "v1": 6,
+    "c2": 69,
+    "v2": 6
+   },
+   "ref": "Psalm 69:6",
+   "score": 0.53,
+   "method": "rule"
+  }
+ ],
+ "sad-044": [
+  {
+   "lxx": "Ps 70:10-11",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 70,
+    "v1": "10",
+    "c2": 70,
+    "v2": "11"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 71,
+    "v1": 10,
+    "c2": 71,
+    "v2": 11
+   },
+   "ref": "Psalm 71:10–11",
+   "score": 0.47,
+   "method": "rule"
+  }
+ ],
+ "sad-045": [
+  {
+   "lxx": "Ps 73:19",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 73,
+    "v1": "19",
+    "c2": 73,
+    "v2": "19"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 74,
+    "v1": 19,
+    "c2": 74,
+    "v2": 19
+   },
+   "ref": "Psalm 74:19",
+   "score": 0.63,
+   "method": "rule"
+  }
+ ],
+ "sad-046": [
+  {
+   "lxx": "Ps 82:5",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 82,
+    "v1": "5",
+    "c2": 82,
+    "v2": "5"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 83,
+    "v1": 4,
+    "c2": 83,
+    "v2": 4
+   },
+   "ref": "Psalm 83:4",
+   "score": 0.88,
+   "method": "rule"
+  }
+ ],
+ "sad-047": [
+  {
+   "lxx": "Ps 117:7",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 117,
+    "v1": "7",
+    "c2": 117,
+    "v2": "7"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 118,
+    "v1": 7,
+    "c2": 118,
+    "v2": 7
+   },
+   "ref": "Psalm 118:7",
+   "score": 0.33,
+   "method": "rule"
+  }
+ ],
+ "sad-048": [
+  {
+   "lxx": "Ps 123:7-8",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 123,
+    "v1": "7",
+    "c2": 123,
+    "v2": "8"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 124,
+    "v1": 7,
+    "c2": 124,
+    "v2": 8
+   },
+   "ref": "Psalm 124:7–8",
+   "score": 0.8,
+   "method": "rule"
+  }
+ ],
+ "sad-049": [
+  {
+   "lxx": "Ps 139:11",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 139,
+    "v1": "11",
+    "c2": 139,
+    "v2": "11"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 140,
+    "v1": 10,
+    "c2": 140,
+    "v2": 10
+   },
+   "ref": "Psalm 140:10",
+   "score": 0.35,
+   "method": "rule"
+  }
+ ],
+ "sad-050": [
+  {
+   "lxx": "Prov 22:13",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 22,
+    "v1": "13",
+    "c2": 22,
+    "v2": "13"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 22,
+    "v1": 13,
+    "c2": 22,
+    "v2": 13
+   },
+   "ref": "Proverbs 22:13",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "sad-051": [
+  {
+   "lxx": "Job 1:10-11",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 1,
+    "v1": "10",
+    "c2": 1,
+    "v2": "11"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 1,
+    "v1": 10,
+    "c2": 1,
+    "v2": 11
+   },
+   "ref": "Job 1:10–11",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "sad-052": [
+  {
+   "lxx": "Job 2:4-5",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 2,
+    "v1": "4",
+    "c2": 2,
+    "v2": "5"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 2,
+    "v1": 4,
+    "c2": 2,
+    "v2": 5
+   },
+   "ref": "Job 2:4–5",
+   "score": 0.59,
+   "method": "rule"
+  }
+ ],
+ "sad-053": [
+  {
+   "lxx": "Job 3:9",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 3,
+    "v1": "9",
+    "c2": 3,
+    "v2": "9"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 3,
+    "v1": 9,
+    "c2": 3,
+    "v2": 9
+   },
+   "ref": "Job 3:9",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "sad-054": [
+  {
+   "lxx": "Job 14:14",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 14,
+    "v1": "14",
+    "c2": 14,
+    "v2": "14"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 14,
+    "v1": 14,
+    "c2": 14,
+    "v2": 14
+   },
+   "ref": "Job 14:14",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "sad-055": [
+  {
+   "lxx": "Mic 7:8",
+   "lxxKey": {
+    "code": "MIC",
+    "c1": 7,
+    "v1": "8",
+    "c2": 7,
+    "v2": "8"
+   },
+   "web": {
+    "code": "MIC",
+    "c1": 7,
+    "v1": 8,
+    "c2": 7,
+    "v2": 8
+   },
+   "ref": "Micah 7:8",
+   "score": 0.7,
+   "method": "rule"
+  }
+ ],
+ "sad-056": [
+  {
+   "lxx": "Nah 1:7",
+   "lxxKey": {
+    "code": "NAH",
+    "c1": 1,
+    "v1": "7",
+    "c2": 1,
+    "v2": "7"
+   },
+   "web": {
+    "code": "NAH",
+    "c1": 1,
+    "v1": 7,
+    "c2": 1,
+    "v2": 7
+   },
+   "ref": "Nahum 1:7",
+   "score": 0.53,
+   "method": "rule"
+  }
+ ],
+ "sad-057": [
+  {
+   "lxx": "Zech 14:12",
+   "lxxKey": {
+    "code": "ZEC",
+    "c1": 14,
+    "v1": "12",
+    "c2": 14,
+    "v2": "12"
+   },
+   "web": {
+    "code": "ZEC",
+    "c1": 14,
+    "v1": 12,
+    "c2": 14,
+    "v2": 12
+   },
+   "ref": "Zechariah 14:12",
+   "score": 0.8,
+   "method": "rule"
+  }
+ ],
+ "sad-058": [
+  {
+   "lxx": "Isa 8:9-10",
+   "lxxKey": {
+    "code": "ISA",
+    "c1": 8,
+    "v1": "9",
+    "c2": 8,
+    "v2": "10"
+   },
+   "web": {
+    "code": "ISA",
+    "c1": 8,
+    "v1": 9,
+    "c2": 8,
+    "v2": 10
+   },
+   "ref": "Isaiah 8:9–10",
+   "score": 0.29,
+   "method": "rule"
+  }
+ ],
+ "sad-059": [
+  {
+   "lxx": "Isa 50:5-7",
+   "lxxKey": {
+    "code": "ISA",
+    "c1": 50,
+    "v1": "5",
+    "c2": 50,
+    "v2": "7"
+   },
+   "web": {
+    "code": "ISA",
+    "c1": 50,
+    "v1": 5,
+    "c2": 50,
+    "v2": 7
+   },
+   "ref": "Isaiah 50:5–7",
+   "score": 0.51,
+   "method": "rule"
+  }
+ ],
+ "sad-060": [
+  {
+   "lxx": "Isa 51:7",
+   "lxxKey": {
+    "code": "ISA",
+    "c1": 51,
+    "v1": "7",
+    "c2": 51,
+    "v2": "7"
+   },
+   "web": {
+    "code": "ISA",
+    "c1": 51,
+    "v1": 7,
+    "c2": 51,
+    "v2": 7
+   },
+   "ref": "Isaiah 51:7",
+   "score": 0.64,
+   "method": "rule"
+  }
+ ],
+ "sad-061": [
+  {
+   "lxx": "Isa 54:14",
+   "lxxKey": {
+    "code": "ISA",
+    "c1": 54,
+    "v1": "14",
+    "c2": 54,
+    "v2": "14"
+   },
+   "web": {
+    "code": "ISA",
+    "c1": 54,
+    "v1": 14,
+    "c2": 54,
+    "v2": 14
+   },
+   "ref": "Isaiah 54:14",
+   "score": 0.43,
+   "method": "rule"
+  }
+ ],
+ "sad-062": [
+  {
+   "lxx": "Jer 1:8",
+   "lxxKey": {
+    "code": "JER",
+    "c1": 1,
+    "v1": "8",
+    "c2": 1,
+    "v2": "8"
+   },
+   "web": {
+    "code": "JER",
+    "c1": 1,
+    "v1": 8,
+    "c2": 1,
+    "v2": 8
+   },
+   "ref": "Jeremiah 1:8",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "sad-063": [
+  {
+   "lxx": "Jer 15:18",
+   "lxxKey": {
+    "code": "JER",
+    "c1": 15,
+    "v1": "18",
+    "c2": 15,
+    "v2": "18"
+   },
+   "web": {
+    "code": "JER",
+    "c1": 15,
+    "v1": 18,
+    "c2": 15,
+    "v2": 18
+   },
+   "ref": "Jeremiah 15:18",
+   "score": 0.48,
+   "method": "rule"
+  }
+ ],
+ "sad-064": [
+  {
+   "lxx": "Jer 17:18",
+   "lxxKey": {
+    "code": "JER",
+    "c1": 17,
+    "v1": "18",
+    "c2": 17,
+    "v2": "18"
+   },
+   "web": {
+    "code": "JER",
+    "c1": 17,
+    "v1": 18,
+    "c2": 17,
+    "v2": 18
+   },
+   "ref": "Jeremiah 17:18",
+   "score": 0.63,
+   "method": "rule"
+  }
+ ],
+ "sad-065": [
+  {
+   "lxx": "Ezek 3:9",
+   "lxxKey": {
+    "code": "EZE",
+    "c1": 3,
+    "v1": "9",
+    "c2": 3,
+    "v2": "9"
+   },
+   "web": {
+    "code": "EZE",
+    "c1": 3,
+    "v1": 9,
+    "c2": 3,
+    "v2": 9
+   },
+   "ref": "Ezekiel 3:9",
+   "score": 0.35,
+   "method": "rule"
+  }
+ ],
+ "sad-066": [
+  {
+   "lxx": "Matt 8:30-32",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 8,
+    "v1": 30,
+    "c2": 8,
+    "v2": 31
+   },
+   "ref": "Matthew 8:30–31",
+   "score": 0.47,
+   "method": "rule"
+  }
+ ],
+ "sad-067": [
+  {
+   "lxx": "John 14:1",
+   "lxxKey": null,
+   "web": {
+    "code": "JOH",
+    "c1": 14,
+    "v1": 1,
+    "c2": 14,
+    "v2": 1
+   },
+   "ref": "John 14:1",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "sad-068": [
+  {
+   "lxx": "Acts 5:41",
+   "lxxKey": null,
+   "web": {
+    "code": "ACT",
+    "c1": 5,
+    "v1": 41,
+    "c2": 5,
+    "v2": 41
+   },
+   "ref": "Acts 5:41",
+   "score": 0.57,
+   "method": "rule"
+  }
+ ],
+ "sad-069": [
+  {
+   "lxx": "Rom 5:3-5",
+   "lxxKey": null,
+   "web": {
+    "code": "ROM",
+    "c1": 5,
+    "v1": 3,
+    "c2": 5,
+    "v2": 5
+   },
+   "ref": "Romans 5:3–5",
+   "score": 0.85,
+   "method": "rule"
+  }
+ ],
+ "sad-070": [
+  {
+   "lxx": "Rom 8:18",
+   "lxxKey": null,
+   "web": {
+    "code": "ROM",
+    "c1": 8,
+    "v1": 18,
+    "c2": 8,
+    "v2": 18
+   },
+   "ref": "Romans 8:18",
+   "score": 0.78,
+   "method": "rule"
+  }
+ ],
+ "sad-071": [
+  {
+   "lxx": "1 Cor 10:13",
+   "lxxKey": null,
+   "web": {
+    "code": "1CO",
+    "c1": 10,
+    "v1": 13,
+    "c2": 10,
+    "v2": 13
+   },
+   "ref": "1 Corinthians 10:13",
+   "score": 0.42,
+   "method": "rule"
+  }
+ ],
+ "sad-072": [
+  {
+   "lxx": "2 Cor 1:9-10",
+   "lxxKey": null,
+   "web": {
+    "code": "2CO",
+    "c1": 1,
+    "v1": 9,
+    "c2": 1,
+    "v2": 9
+   },
+   "ref": "2 Corinthians 1:9",
+   "score": 0.39,
+   "method": "rule"
+  }
+ ],
+ "sad-073": [
+  {
+   "lxx": "2 Cor 5:17",
+   "lxxKey": null,
+   "web": {
+    "code": "2CO",
+    "c1": 5,
+    "v1": 17,
+    "c2": 5,
+    "v2": 17
+   },
+   "ref": "2 Corinthians 5:17",
+   "score": 0.56,
+   "method": "rule"
+  }
+ ],
+ "sad-074": [
+  {
+   "lxx": "2 Cor 7:10",
+   "lxxKey": null,
+   "web": {
+    "code": "2CO",
+    "c1": 7,
+    "v1": 10,
+    "c2": 7,
+    "v2": 10
+   },
+   "ref": "2 Corinthians 7:10",
+   "score": 0.8,
+   "method": "rule"
+  }
+ ],
+ "sad-075": [
+  {
+   "lxx": "Jas 4:7",
+   "lxxKey": null,
+   "web": {
+    "code": "JAM",
+    "c1": 4,
+    "v1": 7,
+    "c2": 4,
+    "v2": 7
+   },
+   "ref": "James 4:7",
+   "score": 0.77,
+   "method": "rule"
+  }
+ ],
+ "sad-076": [
+  {
+   "lxx": "1 Pet 3:13-15",
+   "lxxKey": null,
+   "web": {
+    "code": "1PE",
+    "c1": 3,
+    "v1": 13,
+    "c2": 3,
+    "v2": 15
+   },
+   "ref": "1 Peter 3:13–15",
+   "score": 0.45,
+   "method": "rule"
+  }
+ ],
+ "ang-001": [
+  {
+   "lxx": "Gen 33:10-11",
+   "lxxKey": {
+    "code": "GEN",
+    "c1": 33,
+    "v1": "10",
+    "c2": 33,
+    "v2": "11"
+   },
+   "web": {
+    "code": "GEN",
+    "c1": 33,
+    "v1": 10,
+    "c2": 33,
+    "v2": 11
+   },
+   "ref": "Genesis 33:10–11",
+   "score": 0.56,
+   "method": "rule"
+  }
+ ],
+ "ang-002": [
+  {
+   "lxx": "Gen 45:24",
+   "lxxKey": {
+    "code": "GEN",
+    "c1": 45,
+    "v1": "24",
+    "c2": 45,
+    "v2": "24"
+   },
+   "web": {
+    "code": "GEN",
+    "c1": 45,
+    "v1": 24,
+    "c2": 45,
+    "v2": 24
+   },
+   "ref": "Genesis 45:24",
+   "score": 0.43,
+   "method": "rule"
+  }
+ ],
+ "ang-003": [
+  {
+   "lxx": "Exod 20:16",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 20,
+    "v1": "16",
+    "c2": 20,
+    "v2": "16"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 20,
+    "v1": 16,
+    "c2": 20,
+    "v2": 16
+   },
+   "ref": "Exodus 20:16",
+   "score": 0.6,
+   "method": "rule"
+  }
+ ],
+ "ang-004": [
+  {
+   "lxx": "Exod 23:1",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 23,
+    "v1": "1",
+    "c2": 23,
+    "v2": "1"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 23,
+    "v1": 1,
+    "c2": 23,
+    "v2": 1
+   },
+   "ref": "Exodus 23:1",
+   "score": 0.22,
+   "method": "rule"
+  }
+ ],
+ "ang-005": [
+  {
+   "lxx": "Exod 23:7",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 23,
+    "v1": "7",
+    "c2": 23,
+    "v2": "7"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 23,
+    "v1": 7,
+    "c2": 23,
+    "v2": 7
+   },
+   "ref": "Exodus 23:7",
+   "score": 0.29,
+   "method": "rule"
+  }
+ ],
+ "ang-006": [
+  {
+   "lxx": "Lev 19:17",
+   "lxxKey": {
+    "code": "LEV",
+    "c1": 19,
+    "v1": "17",
+    "c2": 19,
+    "v2": "17"
+   },
+   "web": {
+    "code": "LEV",
+    "c1": 19,
+    "v1": 17,
+    "c2": 19,
+    "v2": 17
+   },
+   "ref": "Leviticus 19:17",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "ang-007": [
+  {
+   "lxx": "Num 12:3",
+   "lxxKey": {
+    "code": "NUM",
+    "c1": 12,
+    "v1": "3",
+    "c2": 12,
+    "v2": "3"
+   },
+   "web": {
+    "code": "NUM",
+    "c1": 12,
+    "v1": 3,
+    "c2": 12,
+    "v2": 3
+   },
+   "ref": "Numbers 12:3",
+   "score": 0.63,
+   "method": "rule"
+  }
+ ],
+ "ang-008": [
+  {
+   "lxx": "2 Kgdms 16:11-12",
+   "lxxKey": {
+    "code": "2SA",
+    "c1": 16,
+    "v1": "11",
+    "c2": 16,
+    "v2": "12"
+   },
+   "web": {
+    "code": "2SA",
+    "c1": 16,
+    "v1": 11,
+    "c2": 16,
+    "v2": 12
+   },
+   "ref": "2 Samuel 16:11–12",
+   "score": 0.57,
+   "method": "rule"
+  }
+ ],
+ "ang-009": [
+  {
+   "lxx": "Ps 24:9",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 24,
+    "v1": "9",
+    "c2": 24,
+    "v2": "9"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 25,
+    "v1": 9,
+    "c2": 25,
+    "v2": 9
+   },
+   "ref": "Psalm 25:9",
+   "score": 0.6,
+   "method": "rule"
+  }
+ ],
+ "ang-010": [
+  {
+   "lxx": "Ps 36:8-9",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 36,
+    "v1": "8",
+    "c2": 36,
+    "v2": "9"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 37,
+    "v1": 8,
+    "c2": 37,
+    "v2": 9
+   },
+   "ref": "Psalm 37:8–9",
+   "score": 0.62,
+   "method": "rule"
+  }
+ ],
+ "ang-011": [
+  {
+   "lxx": "Ps 49:20",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 49,
+    "v1": "20",
+    "c2": 49,
+    "v2": "20"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 50,
+    "v1": 20,
+    "c2": 50,
+    "v2": 20
+   },
+   "ref": "Psalm 50:20",
+   "score": 0.75,
+   "method": "rule"
+  }
+ ],
+ "ang-012": [
+  {
+   "lxx": "Ps 118:98-99",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 118,
+    "v1": "98",
+    "c2": 118,
+    "v2": "99"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 119,
+    "v1": 98,
+    "c2": 119,
+    "v2": 99
+   },
+   "ref": "Psalm 119:98–99",
+   "score": 0.73,
+   "method": "rule"
+  }
+ ],
+ "ang-013": [
+  {
+   "lxx": "Ps 136:4",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 136,
+    "v1": "4",
+    "c2": 136,
+    "v2": "4"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 137,
+    "v1": 4,
+    "c2": 137,
+    "v2": 4
+   },
+   "ref": "Psalm 137:4",
+   "score": 0.92,
+   "method": "rule"
+  }
+ ],
+ "ang-014": [
+  {
+   "lxx": "Prov 3:29",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 3,
+    "v1": "29",
+    "c2": 3,
+    "v2": "29"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 3,
+    "v1": 29,
+    "c2": 3,
+    "v2": 29
+   },
+   "ref": "Proverbs 3:29",
+   "score": 0.4,
+   "method": "rule"
+  }
+ ],
+ "ang-015": [
+  {
+   "lxx": "Prov 10:12",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 10,
+    "v1": "12",
+    "c2": 10,
+    "v2": "12"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 10,
+    "v1": 12,
+    "c2": 10,
+    "v2": 12
+   },
+   "ref": "Proverbs 10:12",
+   "score": 0.91,
+   "method": "rule"
+  }
+ ],
+ "ang-016": [
+  {
+   "lxx": "Prov 10:18",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 10,
+    "v1": "18",
+    "c2": 10,
+    "v2": "18"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 10,
+    "v1": 21,
+    "c2": 10,
+    "v2": 21
+   },
+   "ref": "Proverbs 10:21",
+   "score": 0.38,
+   "method": "rule"
+  }
+ ],
+ "ang-017": [
+  {
+   "lxx": "Prov 11:25",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 11,
+    "v1": "25",
+    "c2": 11,
+    "v2": "25"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 11,
+    "v1": 25,
+    "c2": 11,
+    "v2": 25
+   },
+   "ref": "Proverbs 11:25",
+   "score": 0.15,
+   "method": "rule"
+  }
+ ],
+ "ang-018": [
+  {
+   "lxx": "Prov 12:10",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 12,
+    "v1": "10",
+    "c2": 12,
+    "v2": "10"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 12,
+    "v1": 10,
+    "c2": 12,
+    "v2": 10
+   },
+   "ref": "Proverbs 12:10",
+   "score": 0.24,
+   "method": "rule"
+  }
+ ],
+ "ang-019": [
+  {
+   "lxx": "Prov 12:16",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 12,
+    "v1": "16",
+    "c2": 12,
+    "v2": "16"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 12,
+    "v1": 16,
+    "c2": 12,
+    "v2": 16
+   },
+   "ref": "Proverbs 12:16",
+   "score": 0.44,
+   "method": "rule"
+  }
+ ],
+ "ang-020": [
+  {
+   "lxx": "Prov 12:27",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 12,
+    "v1": "27",
+    "c2": 12,
+    "v2": "27"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 12,
+    "v1": 27,
+    "c2": 12,
+    "v2": 27
+   },
+   "ref": "Proverbs 12:27",
+   "score": 0.38,
+   "method": "rule"
+  }
+ ],
+ "ang-021": [
+  {
+   "lxx": "Prov 12:28",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 12,
+    "v1": "28",
+    "c2": 12,
+    "v2": "28"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 12,
+    "v1": 28,
+    "c2": 12,
+    "v2": 28
+   },
+   "ref": "Proverbs 12:28",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "ang-022": [
+  {
+   "lxx": "Prov 14:29",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 14,
+    "v1": "29",
+    "c2": 14,
+    "v2": "29"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 14,
+    "v1": 29,
+    "c2": 14,
+    "v2": 29
+   },
+   "ref": "Proverbs 14:29",
+   "score": 0.13,
+   "method": "rule"
+  }
+ ],
+ "ang-023": [
+  {
+   "lxx": "Prov 15:1",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 15,
+    "v1": "1",
+    "c2": 15,
+    "v2": "1"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 15,
+    "v1": 1,
+    "c2": 15,
+    "v2": 1
+   },
+   "ref": "Proverbs 15:1",
+   "score": 0.61,
+   "method": "rule"
+  }
+ ],
+ "ang-024": [
+  {
+   "lxx": "Prov 15:18",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 15,
+    "v1": "18",
+    "c2": 15,
+    "v2": "18"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 15,
+    "v1": 18,
+    "c2": 15,
+    "v2": 18
+   },
+   "ref": "Proverbs 15:18",
+   "score": 0.71,
+   "method": "rule"
+  }
+ ],
+ "ang-025": [
+  {
+   "lxx": "Prov 15:26",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 15,
+    "v1": "26",
+    "c2": 15,
+    "v2": "26"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 15,
+    "v1": 26,
+    "c2": 15,
+    "v2": 26
+   },
+   "ref": "Proverbs 15:26",
+   "score": 0.43,
+   "method": "rule"
+  }
+ ],
+ "ang-026": [
+  {
+   "lxx": "Prov 22:24-25",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 22,
+    "v1": "24",
+    "c2": 22,
+    "v2": "25"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 22,
+    "v1": 24,
+    "c2": 22,
+    "v2": 25
+   },
+   "ref": "Proverbs 22:24–25",
+   "score": 0.4,
+   "method": "rule"
+  }
+ ],
+ "ang-027": [
+  {
+   "lxx": "Prov 24:29",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 24,
+    "v1": "29",
+    "c2": 24,
+    "v2": "29"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 24,
+    "v1": 29,
+    "c2": 24,
+    "v2": 29
+   },
+   "ref": "Proverbs 24:29",
+   "score": 0.4,
+   "method": "rule"
+  }
+ ],
+ "ang-028": [
+  {
+   "lxx": "Prov 25:21-22",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 25,
+    "v1": "21",
+    "c2": 25,
+    "v2": "22"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 25,
+    "v1": 21,
+    "c2": 25,
+    "v2": 22
+   },
+   "ref": "Proverbs 25:21–22",
+   "score": 0.69,
+   "method": "rule"
+  }
+ ],
+ "ang-029": [
+  {
+   "lxx": "Qo 7:9",
+   "lxxKey": {
+    "code": "ECC",
+    "c1": 7,
+    "v1": "9",
+    "c2": 7,
+    "v2": "9"
+   },
+   "web": {
+    "code": "ECC",
+    "c1": 7,
+    "v1": 9,
+    "c2": 7,
+    "v2": 9
+   },
+   "ref": "Ecclesiastes 7:9",
+   "score": 0.8,
+   "method": "rule"
+  }
+ ],
+ "ang-030": [
+  {
+   "lxx": "Qo 11:10",
+   "lxxKey": {
+    "code": "ECC",
+    "c1": 11,
+    "v1": "10",
+    "c2": 11,
+    "v2": "10"
+   },
+   "web": {
+    "code": "ECC",
+    "c1": 11,
+    "v1": 10,
+    "c2": 11,
+    "v2": 10
+   },
+   "ref": "Ecclesiastes 11:10",
+   "score": 0.87,
+   "method": "rule"
+  }
+ ],
+ "ang-031": [
+  {
+   "lxx": "Song 8:7",
+   "lxxKey": {
+    "code": "SOL",
+    "c1": 8,
+    "v1": "7",
+    "c2": 8,
+    "v2": "7"
+   },
+   "web": {
+    "code": "SOL",
+    "c1": 8,
+    "v1": 7,
+    "c2": 8,
+    "v2": 7
+   },
+   "ref": "Song of Songs 8:7",
+   "score": 0.53,
+   "method": "rule"
+  }
+ ],
+ "ang-032": [
+  {
+   "lxx": "Isa 10:1",
+   "lxxKey": {
+    "code": "ISA",
+    "c1": 10,
+    "v1": "1",
+    "c2": 10,
+    "v2": "1"
+   },
+   "web": {
+    "code": "ISA",
+    "c1": 10,
+    "v1": 1,
+    "c2": 10,
+    "v2": 1
+   },
+   "ref": "Isaiah 10:1",
+   "score": 0.4,
+   "method": "rule"
+  }
+ ],
+ "ang-033": [
+  {
+   "lxx": "Lam 3:58-60",
+   "lxxKey": {
+    "code": "LAM",
+    "c1": 3,
+    "v1": "58",
+    "c2": 3,
+    "v2": "60"
+   },
+   "web": {
+    "code": "LAM",
+    "c1": 3,
+    "v1": 58,
+    "c2": 3,
+    "v2": 60
+   },
+   "ref": "Lamentations 3:58–60",
+   "score": 0.69,
+   "method": "rule"
+  }
+ ],
+ "ang-034": [
+  {
+   "lxx": "Matt 5:10",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 5,
+    "v1": 10,
+    "c2": 5,
+    "v2": 10
+   },
+   "ref": "Matthew 5:10",
+   "score": 1,
+   "method": "rule"
+  }
+ ],
+ "ang-035": [
+  {
+   "lxx": "Matt 5:22",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 5,
+    "v1": 22,
+    "c2": 5,
+    "v2": 22
+   },
+   "ref": "Matthew 5:22",
+   "score": 0.33,
+   "method": "rule"
+  }
+ ],
+ "ang-036": [
+  {
+   "lxx": "Matt 5:39",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 5,
+    "v1": 39,
+    "c2": 5,
+    "v2": 39
+   },
+   "ref": "Matthew 5:39",
+   "score": 0.63,
+   "method": "rule"
+  }
+ ],
+ "ang-037": [
+  {
+   "lxx": "Matt 5:44-45",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 5,
+    "v1": 44,
+    "c2": 5,
+    "v2": 45
+   },
+   "ref": "Matthew 5:44–45",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "ang-038": [
+  {
+   "lxx": "Luke 17:3-4",
+   "lxxKey": null,
+   "web": {
+    "code": "LUK",
+    "c1": 17,
+    "v1": 3,
+    "c2": 17,
+    "v2": 4
+   },
+   "ref": "Luke 17:3–4",
+   "score": 0.75,
+   "method": "rule"
+  }
+ ],
+ "ang-039": [
+  {
+   "lxx": "John 13:34",
+   "lxxKey": null,
+   "web": {
+    "code": "JOH",
+    "c1": 13,
+    "v1": 34,
+    "c2": 13,
+    "v2": 34
+   },
+   "ref": "John 13:34",
+   "score": 0.93,
+   "method": "rule"
+  }
+ ],
+ "ang-040": [
+  {
+   "lxx": "Rom 8:35",
+   "lxxKey": null,
+   "web": {
+    "code": "ROM",
+    "c1": 8,
+    "v1": 35,
+    "c2": 8,
+    "v2": 35
+   },
+   "ref": "Romans 8:35",
+   "score": 0.76,
+   "method": "rule"
+  }
+ ],
+ "ang-041": [
+  {
+   "lxx": "Rom 12:15-16",
+   "lxxKey": null,
+   "web": {
+    "code": "ROM",
+    "c1": 12,
+    "v1": 15,
+    "c2": 12,
+    "v2": 15
+   },
+   "ref": "Romans 12:15",
+   "score": 0.52,
+   "method": "rule"
+  }
+ ],
+ "ang-042": [
+  {
+   "lxx": "Rom 12:17",
+   "lxxKey": null,
+   "web": {
+    "code": "ROM",
+    "c1": 12,
+    "v1": 17,
+    "c2": 12,
+    "v2": 17
+   },
+   "ref": "Romans 12:17",
+   "score": 0.46,
+   "method": "rule"
+  }
+ ],
+ "ang-043": [
+  {
+   "lxx": "1 Cor 6:7",
+   "lxxKey": null,
+   "web": {
+    "code": "1CO",
+    "c1": 6,
+    "v1": 8,
+    "c2": 6,
+    "v2": 8
+   },
+   "ref": "1 Corinthians 6:8",
+   "score": 0.73,
+   "method": "rule"
+  }
+ ],
+ "ang-044": [
+  {
+   "lxx": "1 Cor 7:21-22",
+   "lxxKey": null,
+   "web": {
+    "code": "1CO",
+    "c1": 7,
+    "v1": 21,
+    "c2": 7,
+    "v2": 22
+   },
+   "ref": "1 Corinthians 7:21–22",
+   "score": 0.36,
+   "method": "rule"
+  }
+ ],
+ "ang-045": [
+  {
+   "lxx": "1 Cor 13:1-8",
+   "lxxKey": null,
+   "web": {
+    "code": "1CO",
+    "c1": 13,
+    "v1": 1,
+    "c2": 13,
+    "v2": 8
+   },
+   "ref": "1 Corinthians 13:1–8",
+   "score": 0.47,
+   "method": "rule"
+  }
+ ],
+ "ang-046": [
+  {
+   "lxx": "Gal 5:22-23",
+   "lxxKey": null,
+   "web": {
+    "code": "GAL",
+    "c1": 5,
+    "v1": 22,
+    "c2": 5,
+    "v2": 23
+   },
+   "ref": "Galatians 5:22–23",
+   "score": 0.71,
+   "method": "rule"
+  }
+ ],
+ "ang-047": [
+  {
+   "lxx": "Gal 6:2",
+   "lxxKey": null,
+   "web": {
+    "code": "GAL",
+    "c1": 6,
+    "v1": 2,
+    "c2": 6,
+    "v2": 2
+   },
+   "ref": "Galatians 6:2",
+   "score": 0.92,
+   "method": "rule"
+  }
+ ],
+ "ang-048": [
+  {
+   "lxx": "Gal 6:9",
+   "lxxKey": null,
+   "web": {
+    "code": "GAL",
+    "c1": 6,
+    "v1": 9,
+    "c2": 6,
+    "v2": 9
+   },
+   "ref": "Galatians 6:9",
+   "score": 0.47,
+   "method": "rule"
+  }
+ ],
+ "ang-049": [
+  {
+   "lxx": "Eph 4:26-27",
+   "lxxKey": null,
+   "web": {
+    "code": "EPH",
+    "c1": 4,
+    "v1": 26,
+    "c2": 4,
+    "v2": 27
+   },
+   "ref": "Ephesians 4:26–27",
+   "score": 0.4,
+   "method": "rule"
+  }
+ ],
+ "ang-050": [
+  {
+   "lxx": "Eph 4:31",
+   "lxxKey": null,
+   "web": {
+    "code": "EPH",
+    "c1": 4,
+    "v1": 31,
+    "c2": 4,
+    "v2": 31
+   },
+   "ref": "Ephesians 4:31",
+   "score": 0.82,
+   "method": "rule"
+  }
+ ],
+ "ang-051": [
+  {
+   "lxx": "Phil 2:14-15",
+   "lxxKey": null,
+   "web": {
+    "code": "PHI",
+    "c1": 2,
+    "v1": 14,
+    "c2": 2,
+    "v2": 15
+   },
+   "ref": "Philippians 2:14–15",
+   "score": 0.58,
+   "method": "rule"
+  }
+ ],
+ "ang-052": [
+  {
+   "lxx": "Col 3:8-9",
+   "lxxKey": null,
+   "web": {
+    "code": "COL",
+    "c1": 3,
+    "v1": 8,
+    "c2": 3,
+    "v2": 9
+   },
+   "ref": "Colossians 3:8–9",
+   "score": 0.53,
+   "method": "rule"
+  }
+ ],
+ "ang-053": [
+  {
+   "lxx": "1 Thess 5:15",
+   "lxxKey": null,
+   "web": {
+    "code": "1TH",
+    "c1": 5,
+    "v1": 15,
+    "c2": 5,
+    "v2": 15
+   },
+   "ref": "1 Thessalonians 5:15",
+   "score": 0.59,
+   "method": "rule"
+  }
+ ],
+ "ang-054": [
+  {
+   "lxx": "1 Tim 1:5",
+   "lxxKey": null,
+   "web": {
+    "code": "1TI",
+    "c1": 1,
+    "v1": 5,
+    "c2": 1,
+    "v2": 5
+   },
+   "ref": "1 Timothy 1:5",
+   "score": 0.7,
+   "method": "rule"
+  }
+ ],
+ "ang-055": [
+  {
+   "lxx": "2 Tim 2:24",
+   "lxxKey": null,
+   "web": {
+    "code": "2TI",
+    "c1": 2,
+    "v1": 24,
+    "c2": 2,
+    "v2": 24
+   },
+   "ref": "2 Timothy 2:24",
+   "score": 0.27,
+   "method": "rule"
+  }
+ ],
+ "ang-056": [
+  {
+   "lxx": "2 Tim 3:12",
+   "lxxKey": null,
+   "web": {
+    "code": "2TI",
+    "c1": 3,
+    "v1": 12,
+    "c2": 3,
+    "v2": 12
+   },
+   "ref": "2 Timothy 3:12",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "ang-057": [
+  {
+   "lxx": "Phlm 18",
+   "lxxKey": null,
+   "web": {
+    "code": "PHM",
+    "c1": 1,
+    "v1": 18,
+    "c2": 1,
+    "v2": 18
+   },
+   "ref": "Philemon 1:18",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "ang-058": [
+  {
+   "lxx": "Jas 1:19-20",
+   "lxxKey": null,
+   "web": {
+    "code": "JAM",
+    "c1": 1,
+    "v1": 19,
+    "c2": 1,
+    "v2": 20
+   },
+   "ref": "James 1:19–20",
+   "score": 0.55,
+   "method": "rule"
+  }
+ ],
+ "ang-059": [
+  {
+   "lxx": "Jas 3:17-18",
+   "lxxKey": null,
+   "web": {
+    "code": "JAM",
+    "c1": 3,
+    "v1": 17,
+    "c2": 3,
+    "v2": 18
+   },
+   "ref": "James 3:17–18",
+   "score": 0.8,
+   "method": "rule"
+  }
+ ],
+ "ang-060": [
+  {
+   "lxx": "Jas 4:11-12",
+   "lxxKey": null,
+   "web": {
+    "code": "JAM",
+    "c1": 4,
+    "v1": 11,
+    "c2": 4,
+    "v2": 12
+   },
+   "ref": "James 4:11–12",
+   "score": 0.86,
+   "method": "rule"
+  }
+ ],
+ "ang-061": [
+  {
+   "lxx": "1 Pet 3:9",
+   "lxxKey": null,
+   "web": {
+    "code": "1PE",
+    "c1": 3,
+    "v1": 9,
+    "c2": 3,
+    "v2": 9
+   },
+   "ref": "1 Peter 3:9",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "ang-062": [
+  {
+   "lxx": "1 John 2:9",
+   "lxxKey": null,
+   "web": {
+    "code": "1JO",
+    "c1": 2,
+    "v1": 9,
+    "c2": 2,
+    "v2": 9
+   },
+   "ref": "1 John 2:9",
+   "score": 0.57,
+   "method": "rule"
+  }
+ ],
+ "ang-063": [
+  {
+   "lxx": "1 John 3:15",
+   "lxxKey": null,
+   "web": {
+    "code": "1JO",
+    "c1": 3,
+    "v1": 15,
+    "c2": 3,
+    "v2": 15
+   },
+   "ref": "1 John 3:15",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "ang-064": [
+  {
+   "lxx": "1 John 4:20",
+   "lxxKey": null,
+   "web": {
+    "code": "1JO",
+    "c1": 4,
+    "v1": 20,
+    "c2": 4,
+    "v2": 20
+   },
+   "ref": "1 John 4:20",
+   "score": 0.59,
+   "method": "rule"
+  }
+ ],
+ "lis-001": [
+  {
+   "lxx": "Gen 3:19",
+   "lxxKey": {
+    "code": "GEN",
+    "c1": 3,
+    "v1": "19",
+    "c2": 3,
+    "v2": "19"
+   },
+   "web": {
+    "code": "GEN",
+    "c1": 3,
+    "v1": 19,
+    "c2": 3,
+    "v2": 19
+   },
+   "ref": "Genesis 3:19",
+   "score": 0.82,
+   "method": "rule"
+  }
+ ],
+ "lis-002": [
+  {
+   "lxx": "Exod 22:27",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 22,
+    "v1": "27",
+    "c2": 22,
+    "v2": "27"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 22,
+    "v1": 28,
+    "c2": 22,
+    "v2": 28
+   },
+   "ref": "Exodus 22:28",
+   "score": 0.55,
+   "method": "rule"
+  }
+ ],
+ "lis-003": [
+  {
+   "lxx": "Num 13:21",
+   "lxxKey": {
+    "code": "NUM",
+    "c1": 13,
+    "v1": "21",
+    "c2": 13,
+    "v2": "21"
+   },
+   "web": {
+    "code": "NUM",
+    "c1": 13,
+    "v1": 21,
+    "c2": 13,
+    "v2": 21
+   },
+   "ref": "Numbers 13:21",
+   "score": 0.38,
+   "method": "rule"
+  }
+ ],
+ "lis-004": [
+  {
+   "lxx": "Deut 6:4-5",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 6,
+    "v1": "4",
+    "c2": 6,
+    "v2": "5"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 6,
+    "v1": 4,
+    "c2": 6,
+    "v2": 5
+   },
+   "ref": "Deuteronomy 6:4–5",
+   "score": 0.75,
+   "method": "rule"
+  }
+ ],
+ "lis-005": [
+  {
+   "lxx": "Deut 6:6-7",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 6,
+    "v1": "6",
+    "c2": 6,
+    "v2": "7"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 6,
+    "v1": 6,
+    "c2": 6,
+    "v2": 7
+   },
+   "ref": "Deuteronomy 6:6–7",
+   "score": 0.58,
+   "method": "rule"
+  }
+ ],
+ "lis-006": [
+  {
+   "lxx": "Deut 7:15",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 7,
+    "v1": "15",
+    "c2": 7,
+    "v2": "15"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 7,
+    "v1": 15,
+    "c2": 7,
+    "v2": 15
+   },
+   "ref": "Deuteronomy 7:15",
+   "score": 0.64,
+   "method": "rule"
+  }
+ ],
+ "lis-007": [
+  {
+   "lxx": "Deut 28:7",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 28,
+    "v1": "7",
+    "c2": 28,
+    "v2": "7"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 28,
+    "v1": 7,
+    "c2": 28,
+    "v2": 7
+   },
+   "ref": "Deuteronomy 28:7",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "lis-008": [
+  {
+   "lxx": "Josh 1:8-9",
+   "lxxKey": {
+    "code": "JOS",
+    "c1": 1,
+    "v1": "8",
+    "c2": 1,
+    "v2": "9"
+   },
+   "web": {
+    "code": "JOS",
+    "c1": 1,
+    "v1": 8,
+    "c2": 1,
+    "v2": 9
+   },
+   "ref": "Joshua 1:8–9",
+   "score": 0.6,
+   "method": "rule"
+  }
+ ],
+ "lis-009": [
+  {
+   "lxx": "Judg 2:20–3:2",
+   "lxxKey": {
+    "code": "JDG",
+    "c1": 2,
+    "v1": "20",
+    "c2": 3,
+    "v2": "2"
+   },
+   "web": {
+    "code": "JDG",
+    "c1": 2,
+    "v1": 20,
+    "c2": 3,
+    "v2": 2
+   },
+   "ref": "Judges 2:20–3:2",
+   "score": 0.54,
+   "method": "rule"
+  }
+ ],
+ "lis-010": [
+  {
+   "lxx": "Ps 6:7",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 6,
+    "v1": "7",
+    "c2": 6,
+    "v2": "7"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 6,
+    "v1": 6,
+    "c2": 6,
+    "v2": 6
+   },
+   "ref": "Psalm 6:6",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "lis-011": [
+  {
+   "lxx": "Ps 24:18",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 24,
+    "v1": "18",
+    "c2": 24,
+    "v2": "18"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 25,
+    "v1": 18,
+    "c2": 25,
+    "v2": 18
+   },
+   "ref": "Psalm 25:18",
+   "score": 0.6,
+   "method": "rule"
+  }
+ ],
+ "lis-012": [
+  {
+   "lxx": "Ps 26:13",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 26,
+    "v1": "13",
+    "c2": 26,
+    "v2": "13"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 27,
+    "v1": 13,
+    "c2": 27,
+    "v2": 13
+   },
+   "ref": "Psalm 27:13",
+   "score": 0.77,
+   "method": "rule"
+  }
+ ],
+ "lis-013": [
+  {
+   "lxx": "Ps 33:2",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 33,
+    "v1": "2",
+    "c2": 33,
+    "v2": "2"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 34,
+    "v1": 1,
+    "c2": 34,
+    "v2": 1
+   },
+   "ref": "Psalm 34:1",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "lis-014": [
+  {
+   "lxx": "Ps 36:3",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 36,
+    "v1": "3",
+    "c2": 36,
+    "v2": "3"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 37,
+    "v1": 3,
+    "c2": 37,
+    "v2": 3
+   },
+   "ref": "Psalm 37:3",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "lis-015": [
+  {
+   "lxx": "Ps 36:34",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 36,
+    "v1": "34",
+    "c2": 36,
+    "v2": "34"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 37,
+    "v1": 34,
+    "c2": 37,
+    "v2": 34
+   },
+   "ref": "Psalm 37:34",
+   "score": 0.82,
+   "method": "rule"
+  }
+ ],
+ "lis-016": [
+  {
+   "lxx": "Ps 37:11",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 37,
+    "v1": "11",
+    "c2": 37,
+    "v2": "11"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 38,
+    "v1": 10,
+    "c2": 38,
+    "v2": 10
+   },
+   "ref": "Psalm 38:10",
+   "score": 0.77,
+   "method": "rule"
+  }
+ ],
+ "lis-017": [
+  {
+   "lxx": "Ps 37:12-13",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 37,
+    "v1": "12",
+    "c2": 37,
+    "v2": "13"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 38,
+    "v1": 11,
+    "c2": 38,
+    "v2": 12
+   },
+   "ref": "Psalm 38:11–12",
+   "score": 0.28,
+   "method": "rule"
+  }
+ ],
+ "lis-018": [
+  {
+   "lxx": "Ps 39:2",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 39,
+    "v1": "2",
+    "c2": 39,
+    "v2": "2"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 40,
+    "v1": 1,
+    "c2": 40,
+    "v2": 1
+   },
+   "ref": "Psalm 40:1",
+   "score": 0.37,
+   "method": "rule"
+  }
+ ],
+ "lis-019": [
+  {
+   "lxx": "Ps 41:4",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 41,
+    "v1": "4",
+    "c2": 41,
+    "v2": "4"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 42,
+    "v1": 3,
+    "c2": 42,
+    "v2": 3
+   },
+   "ref": "Psalm 42:3",
+   "score": 0.71,
+   "method": "rule"
+  }
+ ],
+ "lis-020": [
+  {
+   "lxx": "Ps 41:6",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 41,
+    "v1": "6",
+    "c2": 41,
+    "v2": "6"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 42,
+    "v1": 5,
+    "c2": 42,
+    "v2": 5
+   },
+   "ref": "Psalm 42:5",
+   "score": 0.35,
+   "method": "rule"
+  }
+ ],
+ "lis-021": [
+  {
+   "lxx": "Ps 55:2",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 55,
+    "v1": "2",
+    "c2": 55,
+    "v2": "2"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 56,
+    "v1": 1,
+    "c2": 56,
+    "v2": 1
+   },
+   "ref": "Psalm 56:1",
+   "score": 0.27,
+   "method": "rule"
+  }
+ ],
+ "lis-022": [
+  {
+   "lxx": "Ps 65:12",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 65,
+    "v1": "12",
+    "c2": 65,
+    "v2": "12"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 66,
+    "v1": 12,
+    "c2": 66,
+    "v2": 12
+   },
+   "ref": "Psalm 66:12",
+   "score": 0.7,
+   "method": "rule"
+  }
+ ],
+ "lis-023": [
+  {
+   "lxx": "Ps 72:28",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 72,
+    "v1": "28",
+    "c2": 72,
+    "v2": "28"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 73,
+    "v1": 28,
+    "c2": 73,
+    "v2": 28
+   },
+   "ref": "Psalm 73:28",
+   "score": 0.4,
+   "method": "rule"
+  }
+ ],
+ "lis-024": [
+  {
+   "lxx": "Ps 76:3-4",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 76,
+    "v1": "3",
+    "c2": 76,
+    "v2": "4"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 77,
+    "v1": 2,
+    "c2": 77,
+    "v2": 3
+   },
+   "ref": "Psalm 77:2–3",
+   "score": 0.49,
+   "method": "rule"
+  }
+ ],
+ "lis-025": [
+  {
+   "lxx": "Ps 102:15",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 102,
+    "v1": "15",
+    "c2": 102,
+    "v2": "15"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 103,
+    "v1": 15,
+    "c2": 103,
+    "v2": 15
+   },
+   "ref": "Psalm 103:15",
+   "score": 0.92,
+   "method": "rule"
+  }
+ ],
+ "lis-026": [
+  {
+   "lxx": "Ps 131:14",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 131,
+    "v1": "14",
+    "c2": 131,
+    "v2": "14"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 132,
+    "v1": 13,
+    "c2": 132,
+    "v2": 14
+   },
+   "ref": "Psalm 132:13–14",
+   "score": 0.26,
+   "method": "rule"
+  }
+ ],
+ "lis-027": [
+  {
+   "lxx": "Ps 142:3-4",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 142,
+    "v1": "3",
+    "c2": 142,
+    "v2": "4"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 143,
+    "v1": 3,
+    "c2": 143,
+    "v2": 4
+   },
+   "ref": "Psalm 143:3–4",
+   "score": 0.68,
+   "method": "rule"
+  }
+ ],
+ "lis-028": [
+  {
+   "lxx": "Prov 6:9-11",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 6,
+    "v1": "9",
+    "c2": 6,
+    "v2": "11"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 6,
+    "v1": 9,
+    "c2": 6,
+    "v2": 11
+   },
+   "ref": "Proverbs 6:9–11",
+   "score": 0.47,
+   "method": "rule"
+  }
+ ],
+ "lis-029": {
+  "lxx": null,
+  "ref": null,
+  "web": null,
+  "lxxKey": null,
+  "score": 0,
+  "note": "unidentified"
+ },
+ "lis-030": [
+  {
+   "lxx": "Prov 18:1",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 18,
+    "v1": "1",
+    "c2": 18,
+    "v2": "1"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 18,
+    "v1": 1,
+    "c2": 18,
+    "v2": 1
+   },
+   "ref": "Proverbs 18:1",
+   "score": 0.12,
+   "method": "rule"
+  }
+ ],
+ "lis-031": [
+  {
+   "lxx": "Job 5:17-19",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 5,
+    "v1": "17",
+    "c2": 5,
+    "v2": "19"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 5,
+    "v1": 17,
+    "c2": 5,
+    "v2": 19
+   },
+   "ref": "Job 5:17–19",
+   "score": 0.35,
+   "method": "rule"
+  }
+ ],
+ "lis-032": [
+  {
+   "lxx": "Job 8:8-9",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 8,
+    "v1": "8",
+    "c2": 8,
+    "v2": "9"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 8,
+    "v1": 8,
+    "c2": 8,
+    "v2": 9
+   },
+   "ref": "Job 8:8–9",
+   "score": 0.48,
+   "method": "rule"
+  }
+ ],
+ "lis-033": [
+  {
+   "lxx": "Job 10:20-22",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 10,
+    "v1": "20",
+    "c2": 10,
+    "v2": "22"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 10,
+    "v1": 20,
+    "c2": 10,
+    "v2": 22
+   },
+   "ref": "Job 10:20–22",
+   "score": 0.4,
+   "method": "rule"
+  }
+ ],
+ "lis-034": [
+  {
+   "lxx": "Job 34:9",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 34,
+    "v1": "9",
+    "c2": 34,
+    "v2": "9"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 34,
+    "v1": 9,
+    "c2": 34,
+    "v2": 9
+   },
+   "ref": "Job 34:9",
+   "score": 0.33,
+   "method": "rule"
+  }
+ ],
+ "lis-035": [
+  {
+   "lxx": "Mic 4:5",
+   "lxxKey": {
+    "code": "MIC",
+    "c1": 4,
+    "v1": "5",
+    "c2": 4,
+    "v2": "5"
+   },
+   "web": {
+    "code": "MIC",
+    "c1": 4,
+    "v1": 5,
+    "c2": 4,
+    "v2": 5
+   },
+   "ref": "Micah 4:5",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "lis-036": [
+  {
+   "lxx": "Mic 7:9",
+   "lxxKey": {
+    "code": "MIC",
+    "c1": 7,
+    "v1": "9",
+    "c2": 7,
+    "v2": "9"
+   },
+   "web": {
+    "code": "MIC",
+    "c1": 7,
+    "v1": 9,
+    "c2": 7,
+    "v2": 9
+   },
+   "ref": "Micah 7:9",
+   "score": 0.73,
+   "method": "rule"
+  }
+ ],
+ "lis-037": [
+  {
+   "lxx": "Isa 41:11",
+   "lxxKey": {
+    "code": "ISA",
+    "c1": 41,
+    "v1": "11",
+    "c2": 41,
+    "v2": "11"
+   },
+   "web": {
+    "code": "ISA",
+    "c1": 41,
+    "v1": 11,
+    "c2": 41,
+    "v2": 11
+   },
+   "ref": "Isaiah 41:11",
+   "score": 0.4,
+   "method": "rule"
+  }
+ ],
+ "lis-038": [
+  {
+   "lxx": "Jer 38:16-17",
+   "lxxKey": {
+    "code": "JER",
+    "c1": 38,
+    "v1": "16",
+    "c2": 38,
+    "v2": "17"
+   },
+   "web": {
+    "code": "JER",
+    "c1": 31,
+    "v1": 16,
+    "c2": 31,
+    "v2": 17
+   },
+   "ref": "Jeremiah 31:16–17",
+   "score": 0.53,
+   "method": "scan"
+  }
+ ],
+ "lis-039": [
+  {
+   "lxx": "Jer 14:7-8",
+   "lxxKey": {
+    "code": "JER",
+    "c1": 14,
+    "v1": "7",
+    "c2": 14,
+    "v2": "8"
+   },
+   "web": {
+    "code": "JER",
+    "c1": 14,
+    "v1": 7,
+    "c2": 14,
+    "v2": 8
+   },
+   "ref": "Jeremiah 14:7–8",
+   "score": 0.47,
+   "method": "rule"
+  }
+ ],
+ "lis-040": [
+  {
+   "lxx": "Lam 3:25-26",
+   "lxxKey": {
+    "code": "LAM",
+    "c1": 3,
+    "v1": "25",
+    "c2": 3,
+    "v2": "26"
+   },
+   "web": {
+    "code": "LAM",
+    "c1": 3,
+    "v1": 25,
+    "c2": 3,
+    "v2": 26
+   },
+   "ref": "Lamentations 3:25–26",
+   "score": 0.74,
+   "method": "rule"
+  }
+ ],
+ "lis-041": [
+  {
+   "lxx": "Lam 3:27-31",
+   "lxxKey": {
+    "code": "LAM",
+    "c1": 3,
+    "v1": "27",
+    "c2": 3,
+    "v2": "31"
+   },
+   "web": {
+    "code": "LAM",
+    "c1": 3,
+    "v1": 27,
+    "c2": 3,
+    "v2": 30
+   },
+   "ref": "Lamentations 3:27–30",
+   "score": 0.65,
+   "method": "rule"
+  }
+ ],
+ "lis-042": [
+  {
+   "lxx": "Dan 3:34-35",
+   "lxxKey": {
+    "code": "DNG",
+    "c1": 3,
+    "v1": "34",
+    "c2": 3,
+    "v2": "35"
+   },
+   "web": {
+    "code": "DNG",
+    "c1": 3,
+    "v1": 34,
+    "c2": 3,
+    "v2": 35
+   },
+   "ref": "Daniel (Greek) 3:34–35",
+   "score": 0.73,
+   "method": "rule"
+  }
+ ],
+ "lis-043": [
+  {
+   "lxx": "Luke 9:60",
+   "lxxKey": null,
+   "web": {
+    "code": "LUK",
+    "c1": 9,
+    "v1": 60,
+    "c2": 9,
+    "v2": 60
+   },
+   "ref": "Luke 9:60",
+   "score": 0.71,
+   "method": "rule"
+  }
+ ],
+ "lis-044": [
+  {
+   "lxx": "Matt 19:29",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 19,
+    "v1": 29,
+    "c2": 19,
+    "v2": 29
+   },
+   "ref": "Matthew 19:29",
+   "score": 0.76,
+   "method": "rule"
+  }
+ ],
+ "lis-045": [
+  {
+   "lxx": "Luke 14:26",
+   "lxxKey": null,
+   "web": {
+    "code": "LUK",
+    "c1": 14,
+    "v1": 26,
+    "c2": 14,
+    "v2": 26
+   },
+   "ref": "Luke 14:26",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "lis-046": [
+  {
+   "lxx": "Acts 5:29",
+   "lxxKey": null,
+   "web": {
+    "code": "ACT",
+    "c1": 5,
+    "v1": 29,
+    "c2": 5,
+    "v2": 29
+   },
+   "ref": "Acts 5:29",
+   "score": 0.57,
+   "method": "rule"
+  }
+ ],
+ "lis-047": [
+  {
+   "lxx": "Rom 12:12",
+   "lxxKey": null,
+   "web": {
+    "code": "ROM",
+    "c1": 12,
+    "v1": 12,
+    "c2": 12,
+    "v2": 12
+   },
+   "ref": "Romans 12:12",
+   "score": 0.18,
+   "method": "rule"
+  }
+ ],
+ "lis-048": [
+  {
+   "lxx": "1 Cor 10:10",
+   "lxxKey": null,
+   "web": {
+    "code": "1CO",
+    "c1": 10,
+    "v1": 10,
+    "c2": 10,
+    "v2": 10
+   },
+   "ref": "1 Corinthians 10:10",
+   "score": 0.4,
+   "method": "rule"
+  }
+ ],
+ "lis-049": [
+  {
+   "lxx": "2 Cor 11:23-28",
+   "lxxKey": null,
+   "web": {
+    "code": "2CO",
+    "c1": 11,
+    "v1": 23,
+    "c2": 11,
+    "v2": 28
+   },
+   "ref": "2 Corinthians 11:23–28",
+   "score": 0.51,
+   "method": "rule"
+  }
+ ],
+ "lis-050": [
+  {
+   "lxx": "Eph 5:20-21",
+   "lxxKey": null,
+   "web": {
+    "code": "EPH",
+    "c1": 5,
+    "v1": 20,
+    "c2": 5,
+    "v2": 21
+   },
+   "ref": "Ephesians 5:20–21",
+   "score": 0.69,
+   "method": "rule"
+  }
+ ],
+ "lis-051": [
+  {
+   "lxx": "Phil 1:29-30",
+   "lxxKey": null,
+   "web": {
+    "code": "PHI",
+    "c1": 1,
+    "v1": 29,
+    "c2": 1,
+    "v2": 30
+   },
+   "ref": "Philippians 1:29–30",
+   "score": 0.48,
+   "method": "rule"
+  }
+ ],
+ "lis-052": [
+  {
+   "lxx": "Heb 10:36-38",
+   "lxxKey": null,
+   "web": {
+    "code": "HEB",
+    "c1": 10,
+    "v1": 36,
+    "c2": 10,
+    "v2": 38
+   },
+   "ref": "Hebrews 10:36–38",
+   "score": 0.74,
+   "method": "rule"
+  }
+ ],
+ "lis-053": [
+  {
+   "lxx": "Heb 13:14",
+   "lxxKey": null,
+   "web": {
+    "code": "HEB",
+    "c1": 13,
+    "v1": 14,
+    "c2": 13,
+    "v2": 14
+   },
+   "ref": "Hebrews 13:14",
+   "score": 0.55,
+   "method": "rule"
+  }
+ ],
+ "lis-054": [
+  {
+   "lxx": "Heb 11:36-38",
+   "lxxKey": null,
+   "web": {
+    "code": "HEB",
+    "c1": 11,
+    "v1": 36,
+    "c2": 11,
+    "v2": 38
+   },
+   "ref": "Hebrews 11:36–38",
+   "score": 0.6,
+   "method": "rule"
+  }
+ ],
+ "lis-055": [
+  {
+   "lxx": "Heb 13:17",
+   "lxxKey": null,
+   "web": {
+    "code": "HEB",
+    "c1": 13,
+    "v1": 17,
+    "c2": 13,
+    "v2": 17
+   },
+   "ref": "Hebrews 13:17",
+   "score": 0.7,
+   "method": "rule"
+  }
+ ],
+ "lis-056": [
+  {
+   "lxx": "Jas 1:2-4",
+   "lxxKey": null,
+   "web": {
+    "code": "JAM",
+    "c1": 1,
+    "v1": 2,
+    "c2": 1,
+    "v2": 4
+   },
+   "ref": "James 1:2–4",
+   "score": 0.56,
+   "method": "rule"
+  }
+ ],
+ "lis-057": [
+  {
+   "lxx": "Jas 1:12",
+   "lxxKey": null,
+   "web": {
+    "code": "JAM",
+    "c1": 1,
+    "v1": 12,
+    "c2": 1,
+    "v2": 12
+   },
+   "ref": "James 1:12",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "vai-001": [
+  {
+   "lxx": "Gen 19:17",
+   "lxxKey": {
+    "code": "GEN",
+    "c1": 19,
+    "v1": "17",
+    "c2": 19,
+    "v2": "17"
+   },
+   "web": {
+    "code": "GEN",
+    "c1": 19,
+    "v1": 17,
+    "c2": 19,
+    "v2": 17
+   },
+   "ref": "Genesis 19:17",
+   "score": 0.55,
+   "method": "rule"
+  }
+ ],
+ "vai-002": [
+  {
+   "lxx": "Num 11:29",
+   "lxxKey": {
+    "code": "NUM",
+    "c1": 11,
+    "v1": "29",
+    "c2": 11,
+    "v2": "29"
+   },
+   "web": {
+    "code": "NUM",
+    "c1": 11,
+    "v1": 29,
+    "c2": 11,
+    "v2": 29
+   },
+   "ref": "Numbers 11:29",
+   "score": 0.76,
+   "method": "rule"
+  }
+ ],
+ "vai-003": [
+  {
+   "lxx": "Num 17:4-5",
+   "lxxKey": {
+    "code": "NUM",
+    "c1": 17,
+    "v1": "4",
+    "c2": 17,
+    "v2": "5"
+   },
+   "web": {
+    "code": "NUM",
+    "c1": 16,
+    "v1": 39,
+    "c2": 16,
+    "v2": 40
+   },
+   "ref": "Numbers 16:39–40",
+   "score": 0.63,
+   "method": "scan"
+  }
+ ],
+ "vai-004": [
+  {
+   "lxx": "Deut 16:20",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 16,
+    "v1": "20",
+    "c2": 16,
+    "v2": "20"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 16,
+    "v1": 20,
+    "c2": 16,
+    "v2": 20
+   },
+   "ref": "Deuteronomy 16:20",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "vai-005": [
+  {
+   "lxx": "Deut 22:10",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 22,
+    "v1": "10",
+    "c2": 22,
+    "v2": "10"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 22,
+    "v1": 10,
+    "c2": 22,
+    "v2": 10
+   },
+   "ref": "Deuteronomy 22:10",
+   "score": 0.33,
+   "method": "rule"
+  }
+ ],
+ "vai-006": [
+  {
+   "lxx": "1 Kgdms 18:23",
+   "lxxKey": {
+    "code": "1SA",
+    "c1": 18,
+    "v1": "23",
+    "c2": 18,
+    "v2": "23"
+   },
+   "web": {
+    "code": "1SA",
+    "c1": 18,
+    "v1": 23,
+    "c2": 18,
+    "v2": 23
+   },
+   "ref": "1 Samuel 18:23",
+   "score": 0.65,
+   "method": "rule"
+  }
+ ],
+ "vai-007": [
+  {
+   "lxx": "4 Kgdms 6:1-2",
+   "lxxKey": {
+    "code": "2KI",
+    "c1": 6,
+    "v1": "1",
+    "c2": 6,
+    "v2": "2"
+   },
+   "web": {
+    "code": "2KI",
+    "c1": 6,
+    "v1": 1,
+    "c2": 6,
+    "v2": 2
+   },
+   "ref": "2 Kings 6:1–2",
+   "score": 0.65,
+   "method": "rule"
+  }
+ ],
+ "vai-008": [
+  {
+   "lxx": "Ps 5:10",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 5,
+    "v1": "10",
+    "c2": 5,
+    "v2": "10"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 5,
+    "v1": 9,
+    "c2": 5,
+    "v2": 9
+   },
+   "ref": "Psalm 5:9",
+   "score": 0.56,
+   "method": "rule"
+  }
+ ],
+ "vai-009": [
+  {
+   "lxx": "Ps 83:4",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 83,
+    "v1": "4",
+    "c2": 83,
+    "v2": "4"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 84,
+    "v1": 3,
+    "c2": 84,
+    "v2": 3
+   },
+   "ref": "Psalm 84:3",
+   "score": 0.7,
+   "method": "rule"
+  }
+ ],
+ "vai-010": [
+  {
+   "lxx": "Ps 118:115",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 118,
+    "v1": "115",
+    "c2": 118,
+    "v2": "115"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 119,
+    "v1": 115,
+    "c2": 119,
+    "v2": 115
+   },
+   "ref": "Psalm 119:115",
+   "score": 0.8,
+   "method": "rule"
+  }
+ ],
+ "vai-011": [
+  {
+   "lxx": "Ps 139:6",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 139,
+    "v1": "6",
+    "c2": 139,
+    "v2": "6"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 140,
+    "v1": 5,
+    "c2": 140,
+    "v2": 5
+   },
+   "ref": "Psalm 140:5",
+   "score": 0.46,
+   "method": "rule"
+  }
+ ],
+ "vai-012": [
+  {
+   "lxx": "Prov 10:19",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 10,
+    "v1": "19",
+    "c2": 10,
+    "v2": "19"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 10,
+    "v1": 19,
+    "c2": 10,
+    "v2": 19
+   },
+   "ref": "Proverbs 10:19",
+   "score": 0.38,
+   "method": "rule"
+  }
+ ],
+ "vai-013": [
+  {
+   "lxx": "Prov 14:12",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 14,
+    "v1": "12",
+    "c2": 14,
+    "v2": "12"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 14,
+    "v1": 12,
+    "c2": 14,
+    "v2": 12
+   },
+   "ref": "Proverbs 14:12",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "vai-014": [
+  {
+   "lxx": "Prov 18:13",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 18,
+    "v1": "13",
+    "c2": 18,
+    "v2": "13"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 18,
+    "v1": 13,
+    "c2": 18,
+    "v2": 13
+   },
+   "ref": "Proverbs 18:13",
+   "score": 0.62,
+   "method": "rule"
+  }
+ ],
+ "vai-015": [
+  {
+   "lxx": "Prov 20:11",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 20,
+    "v1": "11",
+    "c2": 20,
+    "v2": "11"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 20,
+    "v1": 14,
+    "c2": 20,
+    "v2": 14
+   },
+   "ref": "Proverbs 20:14",
+   "score": 0.15,
+   "method": "rule"
+  }
+ ],
+ "vai-016": [
+  {
+   "lxx": "Prov 22:26-27",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 22,
+    "v1": "26",
+    "c2": 22,
+    "v2": "27"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 22,
+    "v1": 26,
+    "c2": 22,
+    "v2": 27
+   },
+   "ref": "Proverbs 22:26–27",
+   "score": 0.42,
+   "method": "rule"
+  }
+ ],
+ "vai-017": [
+  {
+   "lxx": "Prov 23:9",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 23,
+    "v1": "9",
+    "c2": 23,
+    "v2": "9"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 23,
+    "v1": 9,
+    "c2": 23,
+    "v2": 9
+   },
+   "ref": "Proverbs 23:9",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "vai-018": [
+  {
+   "lxx": "Prov 26:22",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 26,
+    "v1": "22",
+    "c2": 26,
+    "v2": "22"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 26,
+    "v1": 22,
+    "c2": 26,
+    "v2": 22
+   },
+   "ref": "Proverbs 26:22",
+   "score": 0.25,
+   "method": "rule"
+  }
+ ],
+ "vai-019": [
+  {
+   "lxx": "Prov 26:24-25",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 26,
+    "v1": "24",
+    "c2": 26,
+    "v2": "25"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 26,
+    "v1": 24,
+    "c2": 26,
+    "v2": 25
+   },
+   "ref": "Proverbs 26:24–25",
+   "score": 0.28,
+   "method": "rule"
+  }
+ ],
+ "vai-020": [
+  {
+   "lxx": "Prov 27:2",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 27,
+    "v1": "2",
+    "c2": 27,
+    "v2": "2"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 27,
+    "v1": 2,
+    "c2": 27,
+    "v2": 2
+   },
+   "ref": "Proverbs 27:2",
+   "score": 0.77,
+   "method": "rule"
+  }
+ ],
+ "vai-021": [
+  {
+   "lxx": "Qo 3:7",
+   "lxxKey": {
+    "code": "ECC",
+    "c1": 3,
+    "v1": "7",
+    "c2": 3,
+    "v2": "7"
+   },
+   "web": {
+    "code": "ECC",
+    "c1": 3,
+    "v1": 7,
+    "c2": 3,
+    "v2": 7
+   },
+   "ref": "Ecclesiastes 3:7",
+   "score": 0.55,
+   "method": "rule"
+  }
+ ],
+ "vai-022": [
+  {
+   "lxx": "Job 1:9-10",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 1,
+    "v1": "9",
+    "c2": 1,
+    "v2": "10"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 1,
+    "v1": 9,
+    "c2": 1,
+    "v2": 10
+   },
+   "ref": "Job 1:9–10",
+   "score": 0.58,
+   "method": "rule"
+  }
+ ],
+ "vai-023": [
+  {
+   "lxx": "Isa 10:16",
+   "lxxKey": {
+    "code": "ISA",
+    "c1": 10,
+    "v1": "16",
+    "c2": 10,
+    "v2": "16"
+   },
+   "web": {
+    "code": "ISA",
+    "c1": 10,
+    "v1": 16,
+    "c2": 10,
+    "v2": 16
+   },
+   "ref": "Isaiah 10:16",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "vai-024": [
+  {
+   "lxx": "Isa 40:6-8",
+   "lxxKey": {
+    "code": "ISA",
+    "c1": 40,
+    "v1": "6",
+    "c2": 40,
+    "v2": "8"
+   },
+   "web": {
+    "code": "ISA",
+    "c1": 40,
+    "v1": 6,
+    "c2": 40,
+    "v2": 8
+   },
+   "ref": "Isaiah 40:6–8",
+   "score": 0.63,
+   "method": "rule"
+  }
+ ],
+ "vai-025": [
+  {
+   "lxx": "Jer 17:14",
+   "lxxKey": {
+    "code": "JER",
+    "c1": 17,
+    "v1": "14",
+    "c2": 17,
+    "v2": "14"
+   },
+   "web": {
+    "code": "JER",
+    "c1": 17,
+    "v1": 14,
+    "c2": 17,
+    "v2": 14
+   },
+   "ref": "Jeremiah 17:14",
+   "score": 0.8,
+   "method": "rule"
+  }
+ ],
+ "vai-026": [
+  {
+   "lxx": "Lam 3:53",
+   "lxxKey": {
+    "code": "LAM",
+    "c1": 3,
+    "v1": "53",
+    "c2": 3,
+    "v2": "53"
+   },
+   "web": {
+    "code": "LAM",
+    "c1": 3,
+    "v1": 53,
+    "c2": 3,
+    "v2": 53
+   },
+   "ref": "Lamentations 3:53",
+   "score": 0.36,
+   "method": "rule"
+  }
+ ],
+ "vai-027": [
+  {
+   "lxx": "Sus 55",
+   "lxxKey": {
+    "code": "SUS",
+    "c1": 1,
+    "v1": "55",
+    "c2": 1,
+    "v2": "55"
+   },
+   "web": {
+    "code": "DNG",
+    "c1": 13,
+    "v1": 55,
+    "c2": 13,
+    "v2": 55
+   },
+   "ref": "Daniel (Greek) 13:55",
+   "score": 0.84,
+   "method": "rule"
+  }
+ ],
+ "vai-028": [
+  {
+   "lxx": "Sus 59",
+   "lxxKey": {
+    "code": "SUS",
+    "c1": 1,
+    "v1": "59",
+    "c2": 1,
+    "v2": "59"
+   },
+   "web": {
+    "code": "DNG",
+    "c1": 13,
+    "v1": 59,
+    "c2": 13,
+    "v2": 59
+   },
+   "ref": "Daniel (Greek) 13:59",
+   "score": 0.89,
+   "method": "rule"
+  }
+ ],
+ "vai-029": [
+  {
+   "lxx": "Matt 5:19",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 5,
+    "v1": 19,
+    "c2": 5,
+    "v2": 19
+   },
+   "ref": "Matthew 5:19",
+   "score": 0.71,
+   "method": "rule"
+  }
+ ],
+ "vai-030": [
+  {
+   "lxx": "Matt 6:1",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 6,
+    "v1": 1,
+    "c2": 6,
+    "v2": 1
+   },
+   "ref": "Matthew 6:1",
+   "score": 0.48,
+   "method": "rule"
+  }
+ ],
+ "vai-031": [
+  {
+   "lxx": "Matt 6:5",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 6,
+    "v1": 5,
+    "c2": 6,
+    "v2": 5
+   },
+   "ref": "Matthew 6:5",
+   "score": 0.71,
+   "method": "rule"
+  }
+ ],
+ "vai-032": [
+  {
+   "lxx": "Matt 6:16",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 6,
+    "v1": 16,
+    "c2": 6,
+    "v2": 16
+   },
+   "ref": "Matthew 6:16",
+   "score": 0.55,
+   "method": "rule"
+  }
+ ],
+ "vai-033": [
+  {
+   "lxx": "Matt 12:36-37",
+   "lxxKey": null,
+   "web": {
+    "code": "MAT",
+    "c1": 12,
+    "v1": 36,
+    "c2": 12,
+    "v2": 37
+   },
+   "ref": "Matthew 12:36–37",
+   "score": 0.78,
+   "method": "rule"
+  }
+ ],
+ "vai-034": [
+  {
+   "lxx": "Luke 10:20",
+   "lxxKey": null,
+   "web": {
+    "code": "LUK",
+    "c1": 10,
+    "v1": 20,
+    "c2": 10,
+    "v2": 20
+   },
+   "ref": "Luke 10:20",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "vai-035": [
+  {
+   "lxx": "John 8:44",
+   "lxxKey": null,
+   "web": {
+    "code": "JOH",
+    "c1": 8,
+    "v1": 44,
+    "c2": 8,
+    "v2": 44
+   },
+   "ref": "John 8:44",
+   "score": 0.45,
+   "method": "rule"
+  }
+ ],
+ "vai-036": [
+  {
+   "lxx": "Acts 8:20",
+   "lxxKey": null,
+   "web": {
+    "code": "ACT",
+    "c1": 8,
+    "v1": 20,
+    "c2": 8,
+    "v2": 20
+   },
+   "ref": "Acts 8:20",
+   "score": 0.95,
+   "method": "rule"
+  }
+ ],
+ "vai-037": [
+  {
+   "lxx": "1 Cor 3:19",
+   "lxxKey": null,
+   "web": {
+    "code": "1CO",
+    "c1": 3,
+    "v1": 19,
+    "c2": 3,
+    "v2": 19
+   },
+   "ref": "1 Corinthians 3:19",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "vai-038": [
+  {
+   "lxx": "2 Cor 10:17-18",
+   "lxxKey": null,
+   "web": {
+    "code": "2CO",
+    "c1": 10,
+    "v1": 17,
+    "c2": 10,
+    "v2": 18
+   },
+   "ref": "2 Corinthians 10:17–18",
+   "score": 0.91,
+   "method": "rule"
+  }
+ ],
+ "vai-039": [
+  {
+   "lxx": "Gal 1:10",
+   "lxxKey": null,
+   "web": {
+    "code": "GAL",
+    "c1": 1,
+    "v1": 10,
+    "c2": 1,
+    "v2": 10
+   },
+   "ref": "Galatians 1:10",
+   "score": 0.56,
+   "method": "rule"
+  }
+ ],
+ "vai-040": [
+  {
+   "lxx": "Heb 5:4",
+   "lxxKey": null,
+   "web": {
+    "code": "HEB",
+    "c1": 5,
+    "v1": 4,
+    "c2": 5,
+    "v2": 4
+   },
+   "ref": "Hebrews 5:4",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "vai-041": [
+  {
+   "lxx": "Jas 3:1-2",
+   "lxxKey": null,
+   "web": {
+    "code": "JAM",
+    "c1": 3,
+    "v1": 1,
+    "c2": 3,
+    "v2": 2
+   },
+   "ref": "James 3:1–2",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "vai-042": [
+  {
+   "lxx": "Jas 4:3",
+   "lxxKey": null,
+   "web": {
+    "code": "JAM",
+    "c1": 4,
+    "v1": 3,
+    "c2": 4,
+    "v2": 3
+   },
+   "ref": "James 4:3",
+   "score": 0.63,
+   "method": "rule"
+  }
+ ],
+ "vai-043": [
+  {
+   "lxx": "1 John 2:15",
+   "lxxKey": null,
+   "web": {
+    "code": "1JO",
+    "c1": 2,
+    "v1": 15,
+    "c2": 2,
+    "v2": 15
+   },
+   "ref": "1 John 2:15",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "pri-001": [
+  {
+   "lxx": "Gen 3:14",
+   "lxxKey": {
+    "code": "GEN",
+    "c1": 3,
+    "v1": "14",
+    "c2": 3,
+    "v2": "14"
+   },
+   "web": {
+    "code": "GEN",
+    "c1": 3,
+    "v1": 14,
+    "c2": 3,
+    "v2": 14
+   },
+   "ref": "Genesis 3:14",
+   "score": 0.65,
+   "method": "rule"
+  }
+ ],
+ "pri-002": [
+  {
+   "lxx": "Gen 18:27",
+   "lxxKey": {
+    "code": "GEN",
+    "c1": 18,
+    "v1": "27",
+    "c2": 18,
+    "v2": "27"
+   },
+   "web": {
+    "code": "GEN",
+    "c1": 18,
+    "v1": 27,
+    "c2": 18,
+    "v2": 27
+   },
+   "ref": "Genesis 18:27",
+   "score": 0.53,
+   "method": "rule"
+  }
+ ],
+ "pri-003": [
+  {
+   "lxx": "Gen 48:15-16",
+   "lxxKey": {
+    "code": "GEN",
+    "c1": 48,
+    "v1": "15",
+    "c2": 48,
+    "v2": "16"
+   },
+   "web": {
+    "code": "GEN",
+    "c1": 48,
+    "v1": 15,
+    "c2": 48,
+    "v2": 16
+   },
+   "ref": "Genesis 48:15–16",
+   "score": 0.46,
+   "method": "rule"
+  }
+ ],
+ "pri-004": [
+  {
+   "lxx": "Exod 5:9",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 5,
+    "v1": "9",
+    "c2": 5,
+    "v2": "9"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 5,
+    "v1": 9,
+    "c2": 5,
+    "v2": 9
+   },
+   "ref": "Exodus 5:9",
+   "score": 0.32,
+   "method": "rule"
+  }
+ ],
+ "pri-005": [
+  {
+   "lxx": "Exod 15:1-2",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 15,
+    "v1": "1",
+    "c2": 15,
+    "v2": "2"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 15,
+    "v1": 1,
+    "c2": 15,
+    "v2": 2
+   },
+   "ref": "Exodus 15:1–2",
+   "score": 0.7,
+   "method": "rule"
+  }
+ ],
+ "pri-006": [
+  {
+   "lxx": "Exod 15:6-7",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 15,
+    "v1": "6",
+    "c2": 15,
+    "v2": "7"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 15,
+    "v1": 6,
+    "c2": 15,
+    "v2": 6
+   },
+   "ref": "Exodus 15:6",
+   "score": 0.35,
+   "method": "rule"
+  }
+ ],
+ "pri-007": [
+  {
+   "lxx": "Exod 23:20-21",
+   "lxxKey": {
+    "code": "EXO",
+    "c1": 23,
+    "v1": "20",
+    "c2": 23,
+    "v2": "21"
+   },
+   "web": {
+    "code": "EXO",
+    "c1": 23,
+    "v1": 20,
+    "c2": 23,
+    "v2": 21
+   },
+   "ref": "Exodus 23:20–21",
+   "score": 0.61,
+   "method": "rule"
+  }
+ ],
+ "pri-008": [
+  {
+   "lxx": "Lev 19:32",
+   "lxxKey": {
+    "code": "LEV",
+    "c1": 19,
+    "v1": "32",
+    "c2": 19,
+    "v2": "32"
+   },
+   "web": {
+    "code": "LEV",
+    "c1": 19,
+    "v1": 32,
+    "c2": 19,
+    "v2": 32
+   },
+   "ref": "Leviticus 19:32",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "pri-009": [
+  {
+   "lxx": "Lev 24:15-16",
+   "lxxKey": {
+    "code": "LEV",
+    "c1": 24,
+    "v1": "15",
+    "c2": 24,
+    "v2": "16"
+   },
+   "web": {
+    "code": "LEV",
+    "c1": 24,
+    "v1": 15,
+    "c2": 24,
+    "v2": 16
+   },
+   "ref": "Leviticus 24:15–16",
+   "score": 0.52,
+   "method": "rule"
+  }
+ ],
+ "pri-010": [
+  {
+   "lxx": "Num 10:35",
+   "lxxKey": {
+    "code": "NUM",
+    "c1": 10,
+    "v1": "35",
+    "c2": 10,
+    "v2": "35"
+   },
+   "web": {
+    "code": "NUM",
+    "c1": 10,
+    "v1": 36,
+    "c2": 10,
+    "v2": 36
+   },
+   "ref": "Numbers 10:36",
+   "score": 0.77,
+   "method": "rule"
+  }
+ ],
+ "pri-011": [
+  {
+   "lxx": "Num 14:6-9",
+   "lxxKey": {
+    "code": "NUM",
+    "c1": 14,
+    "v1": "6",
+    "c2": 14,
+    "v2": "9"
+   },
+   "web": {
+    "code": "NUM",
+    "c1": 14,
+    "v1": 6,
+    "c2": 14,
+    "v2": 8
+   },
+   "ref": "Numbers 14:6–8",
+   "score": 0.58,
+   "method": "rule"
+  }
+ ],
+ "pri-012": [
+  {
+   "lxx": "Deut 6:16",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 6,
+    "v1": "16",
+    "c2": 6,
+    "v2": "16"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 6,
+    "v1": 16,
+    "c2": 6,
+    "v2": 16
+   },
+   "ref": "Deuteronomy 6:16",
+   "score": 0.86,
+   "method": "rule"
+  }
+ ],
+ "pri-013": [
+  {
+   "lxx": "Deut 8:17-18",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 8,
+    "v1": "17",
+    "c2": 8,
+    "v2": "18"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 8,
+    "v1": 17,
+    "c2": 8,
+    "v2": 18
+   },
+   "ref": "Deuteronomy 8:17–18",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "pri-014": [
+  {
+   "lxx": "Deut 9:4-5",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 9,
+    "v1": "4",
+    "c2": 9,
+    "v2": "5"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 9,
+    "v1": 4,
+    "c2": 9,
+    "v2": 5
+   },
+   "ref": "Deuteronomy 9:4–5",
+   "score": 0.57,
+   "method": "rule"
+  }
+ ],
+ "pri-015": [
+  {
+   "lxx": "Deut 28:16-17",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 28,
+    "v1": "16",
+    "c2": 28,
+    "v2": "17"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 28,
+    "v1": 16,
+    "c2": 28,
+    "v2": 16
+   },
+   "ref": "Deuteronomy 28:16",
+   "score": 0.62,
+   "method": "rule"
+  }
+ ],
+ "pri-016": [
+  {
+   "lxx": "Deut 30:15",
+   "lxxKey": {
+    "code": "DEU",
+    "c1": 30,
+    "v1": "15",
+    "c2": 30,
+    "v2": "15"
+   },
+   "web": {
+    "code": "DEU",
+    "c1": 30,
+    "v1": 15,
+    "c2": 30,
+    "v2": 15
+   },
+   "ref": "Deuteronomy 30:15",
+   "score": 0.75,
+   "method": "rule"
+  }
+ ],
+ "pri-017": [
+  {
+   "lxx": "Josh 5:13-14",
+   "lxxKey": {
+    "code": "JOS",
+    "c1": 5,
+    "v1": "13",
+    "c2": 5,
+    "v2": "14"
+   },
+   "web": {
+    "code": "JOS",
+    "c1": 5,
+    "v1": 13,
+    "c2": 5,
+    "v2": 14
+   },
+   "ref": "Joshua 5:13–14",
+   "score": 0.64,
+   "method": "rule"
+  }
+ ],
+ "pri-018": [
+  {
+   "lxx": "1 Kgdms 2:25",
+   "lxxKey": {
+    "code": "1SA",
+    "c1": 2,
+    "v1": "25",
+    "c2": 2,
+    "v2": "25"
+   },
+   "web": {
+    "code": "1SA",
+    "c1": 2,
+    "v1": 25,
+    "c2": 2,
+    "v2": 25
+   },
+   "ref": "1 Samuel 2:25",
+   "score": 0.52,
+   "method": "rule"
+  }
+ ],
+ "pri-019": [
+  {
+   "lxx": "3 Kgdms 18:42",
+   "lxxKey": {
+    "code": "1KI",
+    "c1": 18,
+    "v1": "42",
+    "c2": 18,
+    "v2": "42"
+   },
+   "web": {
+    "code": "1KI",
+    "c1": 18,
+    "v1": 42,
+    "c2": 18,
+    "v2": 42
+   },
+   "ref": "1 Kings 18:42",
+   "score": 0.59,
+   "method": "rule"
+  }
+ ],
+ "pri-020": [
+  {
+   "lxx": "4 Kgdms 19:6-7",
+   "lxxKey": {
+    "code": "2KI",
+    "c1": 19,
+    "v1": "6",
+    "c2": 19,
+    "v2": "7"
+   },
+   "web": {
+    "code": "2KI",
+    "c1": 19,
+    "v1": 6,
+    "c2": 19,
+    "v2": 7
+   },
+   "ref": "2 Kings 19:6–7",
+   "score": 0.6,
+   "method": "rule"
+  }
+ ],
+ "pri-021": [
+  {
+   "lxx": "4 Kgdms 19:15-16",
+   "lxxKey": {
+    "code": "2KI",
+    "c1": 19,
+    "v1": "15",
+    "c2": 19,
+    "v2": "16"
+   },
+   "web": {
+    "code": "2KI",
+    "c1": 19,
+    "v1": 15,
+    "c2": 19,
+    "v2": 16
+   },
+   "ref": "2 Kings 19:15–16",
+   "score": 0.71,
+   "method": "rule"
+  }
+ ],
+ "pri-022": [
+  {
+   "lxx": "1 Esd 4:59-60",
+   "lxxKey": {
+    "code": "1ES",
+    "c1": 4,
+    "v1": "59",
+    "c2": 4,
+    "v2": "60"
+   },
+   "web": {
+    "code": "1ES",
+    "c1": 4,
+    "v1": 59,
+    "c2": 4,
+    "v2": 60
+   },
+   "ref": "1 Esdras 4:59–60",
+   "score": 0.92,
+   "method": "rule"
+  }
+ ],
+ "pri-023": [
+  {
+   "lxx": "Ps 7:2-3",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 7,
+    "v1": "2",
+    "c2": 7,
+    "v2": "3"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 7,
+    "v1": 2,
+    "c2": 7,
+    "v2": 3
+   },
+   "ref": "Psalm 7:2–3",
+   "score": 0.45,
+   "method": "rule"
+  }
+ ],
+ "pri-024": [
+  {
+   "lxx": "Ps 35:12",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 35,
+    "v1": "12",
+    "c2": 35,
+    "v2": "12"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 36,
+    "v1": 11,
+    "c2": 36,
+    "v2": 11
+   },
+   "ref": "Psalm 36:11",
+   "score": 0.63,
+   "method": "rule"
+  }
+ ],
+ "pri-025": [
+  {
+   "lxx": "Ps 43:7-8",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 43,
+    "v1": "7",
+    "c2": 43,
+    "v2": "8"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 44,
+    "v1": 6,
+    "c2": 44,
+    "v2": 7
+   },
+   "ref": "Psalm 44:6–7",
+   "score": 0.56,
+   "method": "rule"
+  }
+ ],
+ "pri-026": [
+  {
+   "lxx": "Ps 49:16-17",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 49,
+    "v1": "16",
+    "c2": 49,
+    "v2": "17"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 50,
+    "v1": 16,
+    "c2": 50,
+    "v2": 17
+   },
+   "ref": "Psalm 50:16–17",
+   "score": 0.43,
+   "method": "rule"
+  }
+ ],
+ "pri-027": [
+  {
+   "lxx": "Ps 61:4",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 61,
+    "v1": "4",
+    "c2": 61,
+    "v2": "4"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 62,
+    "v1": 3,
+    "c2": 62,
+    "v2": 3
+   },
+   "ref": "Psalm 62:3",
+   "score": 0.48,
+   "method": "rule"
+  }
+ ],
+ "pri-028": [
+  {
+   "lxx": "Ps 64:4",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 64,
+    "v1": "4",
+    "c2": 64,
+    "v2": "4"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 65,
+    "v1": 3,
+    "c2": 65,
+    "v2": 3
+   },
+   "ref": "Psalm 65:3",
+   "score": 0.22,
+   "method": "rule"
+  }
+ ],
+ "pri-029": [
+  {
+   "lxx": "Ps 74:6",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 74,
+    "v1": "6",
+    "c2": 74,
+    "v2": "6"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 75,
+    "v1": 5,
+    "c2": 75,
+    "v2": 5
+   },
+   "ref": "Psalm 75:5",
+   "score": 0.57,
+   "method": "rule"
+  }
+ ],
+ "pri-030": [
+  {
+   "lxx": "Ps 126:1",
+   "lxxKey": {
+    "code": "PSA",
+    "c1": 126,
+    "v1": "1",
+    "c2": 126,
+    "v2": "1"
+   },
+   "web": {
+    "code": "PSA",
+    "c1": 127,
+    "v1": 1,
+    "c2": 127,
+    "v2": 1
+   },
+   "ref": "Psalm 127:1",
+   "score": 0.72,
+   "method": "rule"
+  }
+ ],
+ "pri-031": [
+  {
+   "lxx": "Prov 3:34",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 3,
+    "v1": "34",
+    "c2": 3,
+    "v2": "34"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 3,
+    "v1": 34,
+    "c2": 3,
+    "v2": 34
+   },
+   "ref": "Proverbs 3:34",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "pri-032": [
+  {
+   "lxx": "Prov 4:17",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 4,
+    "v1": "17",
+    "c2": 4,
+    "v2": "17"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 4,
+    "v1": 17,
+    "c2": 4,
+    "v2": 17
+   },
+   "ref": "Proverbs 4:17",
+   "score": 0.33,
+   "method": "rule"
+  }
+ ],
+ "pri-033": [
+  {
+   "lxx": "Prov 13:20",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 13,
+    "v1": "20",
+    "c2": 13,
+    "v2": "20"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 13,
+    "v1": 20,
+    "c2": 13,
+    "v2": 20
+   },
+   "ref": "Proverbs 13:20",
+   "score": 0.57,
+   "method": "rule"
+  }
+ ],
+ "pri-034": [
+  {
+   "lxx": "Prov 18:19",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 18,
+    "v1": "19",
+    "c2": 18,
+    "v2": "19"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 18,
+    "v1": 19,
+    "c2": 18,
+    "v2": 19
+   },
+   "ref": "Proverbs 18:19",
+   "score": 0.37,
+   "method": "rule"
+  }
+ ],
+ "pri-035": [
+  {
+   "lxx": "Prov 20:9",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 20,
+    "v1": "9",
+    "c2": 20,
+    "v2": "9"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 20,
+    "v1": 9,
+    "c2": 20,
+    "v2": 9
+   },
+   "ref": "Proverbs 20:9",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "pri-036": [
+  {
+   "lxx": "Prov 28:14",
+   "lxxKey": {
+    "code": "PRO",
+    "c1": 28,
+    "v1": "14",
+    "c2": 28,
+    "v2": "14"
+   },
+   "web": {
+    "code": "PRO",
+    "c1": 28,
+    "v1": 14,
+    "c2": 28,
+    "v2": 14
+   },
+   "ref": "Proverbs 28:14",
+   "score": 0.71,
+   "method": "rule"
+  }
+ ],
+ "pri-037": [
+  {
+   "lxx": "Qo 3:20",
+   "lxxKey": {
+    "code": "ECC",
+    "c1": 3,
+    "v1": "20",
+    "c2": 3,
+    "v2": "20"
+   },
+   "web": {
+    "code": "ECC",
+    "c1": 3,
+    "v1": 20,
+    "c2": 3,
+    "v2": 20
+   },
+   "ref": "Ecclesiastes 3:20",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "pri-038": [
+  {
+   "lxx": "Qo 7:20",
+   "lxxKey": {
+    "code": "ECC",
+    "c1": 7,
+    "v1": "20",
+    "c2": 7,
+    "v2": "20"
+   },
+   "web": {
+    "code": "ECC",
+    "c1": 7,
+    "v1": 20,
+    "c2": 7,
+    "v2": 20
+   },
+   "ref": "Ecclesiastes 7:20",
+   "score": 0.83,
+   "method": "rule"
+  }
+ ],
+ "pri-039": [
+  {
+   "lxx": "Qo 9:4",
+   "lxxKey": {
+    "code": "ECC",
+    "c1": 9,
+    "v1": "4",
+    "c2": 9,
+    "v2": "4"
+   },
+   "web": {
+    "code": "ECC",
+    "c1": 9,
+    "v1": 4,
+    "c2": 9,
+    "v2": 4
+   },
+   "ref": "Ecclesiastes 9:4",
+   "score": 0.86,
+   "method": "rule"
+  }
+ ],
+ "pri-040": [
+  {
+   "lxx": "Job 13:4",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 13,
+    "v1": "4",
+    "c2": 13,
+    "v2": "4"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 13,
+    "v1": 4,
+    "c2": 13,
+    "v2": 4
+   },
+   "ref": "Job 13:4",
+   "score": 0.25,
+   "method": "rule"
+  }
+ ],
+ "pri-041": [
+  {
+   "lxx": "Job 13:7",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 13,
+    "v1": "7",
+    "c2": 13,
+    "v2": "7"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 13,
+    "v1": 7,
+    "c2": 13,
+    "v2": 7
+   },
+   "ref": "Job 13:7",
+   "score": 0.2,
+   "method": "rule"
+  }
+ ],
+ "pri-042": [
+  {
+   "lxx": "Job 14:4-5",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 14,
+    "v1": "4",
+    "c2": 14,
+    "v2": "5"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 14,
+    "v1": 4,
+    "c2": 14,
+    "v2": 5
+   },
+   "ref": "Job 14:4–5",
+   "score": 0.29,
+   "method": "rule"
+  }
+ ],
+ "pri-043": [
+  {
+   "lxx": "Job 22:3",
+   "lxxKey": {
+    "code": "JOB",
+    "c1": 22,
+    "v1": "3",
+    "c2": 22,
+    "v2": "3"
+   },
+   "web": {
+    "code": "JOB",
+    "c1": 22,
+    "v1": 3,
+    "c2": 22,
+    "v2": 3
+   },
+   "ref": "Job 22:3",
+   "score": 0.24,
+   "method": "rule"
+  }
+ ],
+ "pri-044": [
+  {
+   "lxx": "Zech 3:2",
+   "lxxKey": {
+    "code": "ZEC",
+    "c1": 3,
+    "v1": "2",
+    "c2": 3,
+    "v2": "2"
+   },
+   "web": {
+    "code": "ZEC",
+    "c1": 3,
+    "v1": 2,
+    "c2": 3,
+    "v2": 2
+   },
+   "ref": "Zechariah 3:2",
+   "score": 0.57,
+   "method": "rule"
+  }
+ ],
+ "pri-045": [
+  {
+   "lxx": "Isa 5:21",
+   "lxxKey": {
+    "code": "ISA",
+    "c1": 5,
+    "v1": "21",
+    "c2": 5,
+    "v2": "21"
+   },
+   "web": {
+    "code": "ISA",
+    "c1": 5,
+    "v1": 21,
+    "c2": 5,
+    "v2": 21
+   },
+   "ref": "Isaiah 5:21",
+   "score": 0.67,
+   "method": "rule"
+  }
+ ],
+ "pri-046": [
+  {
+   "lxx": "Isa 19:17",
+   "lxxKey": {
+    "code": "ISA",
+    "c1": 19,
+    "v1": "17",
+    "c2": 19,
+    "v2": "17"
+   },
+   "web": {
+    "code": "ISA",
+    "c1": 19,
+    "v1": 17,
+    "c2": 19,
+    "v2": 17
+   },
+   "ref": "Isaiah 19:17",
+   "score": 0.29,
+   "method": "rule"
+  }
+ ],
+ "pri-047": [
+  {
+   "lxx": "Jer 10:11",
+   "lxxKey": {
+    "code": "JER",
+    "c1": 10,
+    "v1": "11",
+    "c2": 10,
+    "v2": "11"
+   },
+   "web": {
+    "code": "JER",
+    "c1": 10,
+    "v1": 11,
+    "c2": 10,
+    "v2": 11
+   },
+   "ref": "Jeremiah 10:11",
+   "score": 0.8,
+   "method": "rule"
+  }
+ ],
+ "pri-048": [
+  {
+   "lxx": "Jer 10:23",
+   "lxxKey": {
+    "code": "JER",
+    "c1": 10,
+    "v1": "23",
+    "c2": 10,
+    "v2": "23"
+   },
+   "web": {
+    "code": "JER",
+    "c1": 10,
+    "v1": 23,
+    "c2": 10,
+    "v2": 23
+   },
+   "ref": "Jeremiah 10:23",
+   "score": 0.63,
+   "method": "rule"
+  }
+ ],
+ "pri-049a": [
+  {
+   "lxx": "Lam 3:31-33",
+   "lxxKey": {
+    "code": "LAM",
+    "c1": 3,
+    "v1": "31",
+    "c2": 3,
+    "v2": "33"
+   },
+   "web": {
+    "code": "LAM",
+    "c1": 3,
+    "v1": 31,
+    "c2": 3,
+    "v2": 33
+   },
+   "ref": "Lamentations 3:31–33",
+   "score": 0.23,
+   "method": "rule"
+  }
+ ],
+ "pri-049b": [
+  {
+   "lxx": "Lam 3:43-45",
+   "lxxKey": {
+    "code": "LAM",
+    "c1": 3,
+    "v1": "43",
+    "c2": 3,
+    "v2": "45"
+   },
+   "web": {
+    "code": "LAM",
+    "c1": 3,
+    "v1": 43,
+    "c2": 3,
+    "v2": 45
+   },
+   "ref": "Lamentations 3:43–45",
+   "score": 0.29,
+   "method": "rule"
+  }
+ ],
+ "pri-050": [
+  {
+   "lxx": "Mark 9:35",
+   "lxxKey": null,
+   "web": {
+    "code": "MAR",
+    "c1": 9,
+    "v1": 35,
+    "c2": 9,
+    "v2": 35
+   },
+   "ref": "Mark 9:35",
+   "score": 0.5,
+   "method": "rule"
+  }
+ ],
+ "pri-051": [
+  {
+   "lxx": "Luke 17:10",
+   "lxxKey": null,
+   "web": {
+    "code": "LUK",
+    "c1": 17,
+    "v1": 10,
+    "c2": 17,
+    "v2": 10
+   },
+   "ref": "Luke 17:10",
+   "score": 0.17,
+   "method": "rule"
+  }
+ ],
+ "pri-052": [
+  {
+   "lxx": "Luke 14:11",
+   "lxxKey": null,
+   "web": {
+    "code": "LUK",
+    "c1": 14,
+    "v1": 11,
+    "c2": 14,
+    "v2": 11
+   },
+   "ref": "Luke 14:11",
+   "score": 0.44,
+   "method": "rule"
+  }
+ ],
+ "pri-053": [
+  {
+   "lxx": "Rom 14:3a",
+   "lxxKey": null,
+   "web": {
+    "code": "ROM",
+    "c1": 14,
+    "v1": 3,
+    "c2": 14,
+    "v2": 3
+   },
+   "ref": "Romans 14:3",
+   "score": 0.36,
+   "method": "rule"
+  }
+ ],
+ "pri-054": [
+  {
+   "lxx": "Rom 14:3b",
+   "lxxKey": null,
+   "web": {
+    "code": "ROM",
+    "c1": 14,
+    "v1": 3,
+    "c2": 14,
+    "v2": 3
+   },
+   "ref": "Romans 14:3",
+   "score": 0.17,
+   "method": "rule"
+  }
+ ],
+ "pri-055": [
+  {
+   "lxx": "1 Cor 15:10",
+   "lxxKey": null,
+   "web": {
+    "code": "1CO",
+    "c1": 15,
+    "v1": 10,
+    "c2": 15,
+    "v2": 10
+   },
+   "ref": "1 Corinthians 15:10",
+   "score": 0.44,
+   "method": "rule"
+  }
+ ],
+ "pri-056": [
+  {
+   "lxx": "2 Cor 11:14-15",
+   "lxxKey": null,
+   "web": {
+    "code": "2CO",
+    "c1": 11,
+    "v1": 14,
+    "c2": 11,
+    "v2": 15
+   },
+   "ref": "2 Corinthians 11:14–15",
+   "score": 0.4,
+   "method": "rule"
+  }
+ ],
+ "pri-057": [
+  {
+   "lxx": "Gal 6:1",
+   "lxxKey": null,
+   "web": {
+    "code": "GAL",
+    "c1": 6,
+    "v1": 1,
+    "c2": 6,
+    "v2": 1
+   },
+   "ref": "Galatians 6:1",
+   "score": 0.34,
+   "method": "rule"
+  }
+ ],
+ "pri-058": [
+  {
+   "lxx": "Phil 3:12",
+   "lxxKey": null,
+   "web": {
+    "code": "PHI",
+    "c1": 3,
+    "v1": 12,
+    "c2": 3,
+    "v2": 12
+   },
+   "ref": "Philippians 3:12",
+   "score": 0.6,
+   "method": "rule"
+  }
+ ],
+ "pri-059": [
+  {
+   "lxx": "1 John 1:8-9",
+   "lxxKey": null,
+   "web": {
+    "code": "1JO",
+    "c1": 1,
+    "v1": 8,
+    "c2": 1,
+    "v2": 9
+   },
+   "ref": "1 John 1:8–9",
+   "score": 0.76,
+   "method": "rule"
+  }
+ ],
+ "pri-060": [
+  {
+   "lxx": "Jude 24-25",
+   "lxxKey": null,
+   "web": {
+    "code": "JUD",
+    "c1": 1,
+    "v1": 24,
+    "c2": 1,
+    "v2": 25
+   },
+   "ref": "Jude 1:24–25",
+   "score": 0.52,
+   "method": "rule"
+  }
+ ]
+}

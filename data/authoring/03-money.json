@@ -1,0 +1,690 @@
+{
+  "thought": "money",
+  "entries": {
+    "mon-001": {
+      "cluster": "wanting-more",
+      "voice": "Someone rich will send you money. Just wait for it.",
+      "situation": "Daydreaming that a wealthy relative or patron will bail you out.",
+      "tags": [
+        "windfall",
+        "rich",
+        "gift",
+        "daydream",
+        "dependence"
+      ]
+    },
+    "mon-002": {
+      "cluster": "losing",
+      "voice": "When real poverty hits, no one will help you.",
+      "situation": "Fear of being poor and alone, with no one to turn to.",
+      "tags": [
+        "poverty",
+        "fear",
+        "alone",
+        "help",
+        "provision"
+      ],
+      "excerpt": {
+        "to": "the LORD will be my God,"
+      }
+    },
+    "mon-003": {
+      "cluster": "family",
+      "voice": "Your parents gave you nothing. They deserve your contempt.",
+      "situation": "Resentment toward parents over money or an inheritance.",
+      "tags": [
+        "parents",
+        "inheritance",
+        "resentment",
+        "family",
+        "honor"
+      ],
+      "web": "EXO 21:17"
+    },
+    "mon-004": {
+      "cluster": "using-people",
+      "voice": "Put the new person to work. Make them earn their place.",
+      "situation": "Loading a newcomer with burdens for your own gain.",
+      "tags": [
+        "newcomer",
+        "exploitation",
+        "burden",
+        "stranger",
+        "workplace"
+      ]
+    },
+    "mon-005": {
+      "cluster": "holding-back",
+      "voice": "Keep it for yourself. Their need isn’t your problem.",
+      "situation": "Withholding compassion from someone who asks for help.",
+      "tags": [
+        "compassion",
+        "neighbor",
+        "refusing",
+        "selfishness"
+      ]
+    },
+    "mon-006": {
+      "cluster": "using-people",
+      "voice": "Keep them busy earning. Study and prayer can wait.",
+      "situation": "Pushing others toward profit at the cost of their spiritual growth.",
+      "tags": [
+        "exploitation",
+        "work",
+        "profit",
+        "study",
+        "others"
+      ]
+    },
+    "mon-007": {
+      "cluster": "holding-back",
+      "voice": "They’ve been sick for so long. They’re a drain.",
+      "situation": "Neglecting someone who is chronically ill and poor.",
+      "tags": [
+        "illness",
+        "poor",
+        "neglect",
+        "care",
+        "burden"
+      ]
+    },
+    "mon-008": {
+      "cluster": "using-people",
+      "voice": "They can work harder than that. Push them.",
+      "situation": "Demanding more of someone than they can give.",
+      "tags": [
+        "overwork",
+        "harshness",
+        "demands",
+        "employees"
+      ],
+      "excerpt": {
+        "from": "but over your brothers"
+      }
+    },
+    "mon-009": {
+      "cluster": "holding-back",
+      "voice": "Say no. You can’t afford to lend.",
+      "situation": "Refusing a loan to someone in real need.",
+      "tags": [
+        "lending",
+        "borrowing",
+        "needy",
+        "refusing"
+      ]
+    },
+    "mon-010": {
+      "cluster": "holding-back",
+      "voice": "Store it up. Don’t let anyone else dip into it.",
+      "situation": "Keeping your resources locked away from others.",
+      "tags": [
+        "storing",
+        "hoarding",
+        "sharing",
+        "curse"
+      ]
+    },
+    "mon-011": {
+      "cluster": "wanting-more",
+      "voice": "Grow your wealth. Who wants a simple life?",
+      "situation": "Choosing to build wealth over a life of simplicity.",
+      "tags": [
+        "wealth",
+        "simplicity",
+        "ambition",
+        "enough"
+      ],
+      "note": "Gideon’s answer: a little, gleaned humbly, can be better than the whole harvest."
+    },
+    "mon-012": {
+      "cluster": "regret",
+      "voice": "Why did I give that money away? That was a mistake.",
+      "situation": "Regretting your generosity right after giving.",
+      "tags": [
+        "regret",
+        "giving",
+        "second thoughts",
+        "wholehearted"
+      ]
+    },
+    "mon-013": {
+      "cluster": "good-reasons",
+      "voice": "I can follow Jesus and keep a safety net.",
+      "situation": "Wanting to follow Christ fully while holding on to some wealth.",
+      "tags": [
+        "discipleship",
+        "safety net",
+        "letting go",
+        "Elisha"
+      ],
+      "excerpt": {
+        "from": "He returned from following him"
+      },
+      "note": "When Elisha left everything to follow Elijah, he slaughtered his oxen, cooked them over his plowing gear and fed the people."
+    },
+    "mon-014": {
+      "cluster": "holding-back",
+      "voice": "Guests again? I can’t keep spending on them.",
+      "situation": "Being stingy with what you have when people come to you.",
+      "tags": [
+        "hospitality",
+        "stingy",
+        "guests",
+        "sharing"
+      ]
+    },
+    "mon-015": {
+      "cluster": "wanting-more",
+      "voice": "This money was given for others, but I could use some of it.",
+      "situation": "Tempted to spend money entrusted to you on yourself.",
+      "tags": [
+        "embezzlement",
+        "trust",
+        "entrusted",
+        "honesty",
+        "Gehazi"
+      ],
+      "excerpt": {
+        "from": "Is it a time to receive money"
+      },
+      "note": "Gehazi took silver and clothing from Naaman behind Elisha’s back. Evagrius sees love of money as the first link in a long chain of sins."
+    },
+    "mon-016": {
+      "cluster": "family",
+      "voice": "You gave up your inheritance. Look what you’ve lost.",
+      "situation": "Grieving the money or inheritance you gave up for God.",
+      "tags": [
+        "inheritance",
+        "sacrifice",
+        "loss",
+        "portion"
+      ]
+    },
+    "mon-017": {
+      "cluster": "family",
+      "voice": "Your family has abandoned you. They won’t help.",
+      "situation": "Feeling abandoned by family when money is tight.",
+      "tags": [
+        "family",
+        "abandoned",
+        "parents",
+        "provision",
+        "alone"
+      ]
+    },
+    "mon-018": {
+      "cluster": "family",
+      "voice": "Your siblings are rich and admired. Look at you.",
+      "situation": "Envy of relatives or peers who are wealthy and respected.",
+      "tags": [
+        "envy",
+        "comparison",
+        "wealth",
+        "status",
+        "family"
+      ]
+    },
+    "mon-019": {
+      "cluster": "good-reasons",
+      "voice": "My money is mine to use however I like.",
+      "situation": "Forgetting you will answer for how you use what God has given.",
+      "tags": [
+        "stewardship",
+        "accountability",
+        "possessions",
+        "judgment"
+      ]
+    },
+    "mon-020": {
+      "cluster": "family",
+      "voice": "I want my parents’ house and property.",
+      "situation": "Clinging to family property and the life of this world.",
+      "tags": [
+        "inheritance",
+        "property",
+        "family",
+        "attachment"
+      ]
+    },
+    "mon-021": {
+      "cluster": "wanting-more",
+      "voice": "Think about getting rich. Imagine it.",
+      "situation": "Daydreaming about wealth without seeing what it costs you.",
+      "tags": [
+        "daydreaming",
+        "wealth",
+        "riches",
+        "heart"
+      ]
+    },
+    "mon-022": {
+      "cluster": "family",
+      "voice": "Your parents’ home was so much nicer than this.",
+      "situation": "Comparing your modest place with the comfort you left behind.",
+      "tags": [
+        "home",
+        "comparison",
+        "comfort",
+        "contentment",
+        "simple life"
+      ]
+    },
+    "mon-023": {
+      "cluster": "losing",
+      "voice": "You need money for the things you have to have.",
+      "situation": "Relying on money instead of God’s grace for your needs.",
+      "tags": [
+        "needs",
+        "trust",
+        "grace",
+        "provision"
+      ]
+    },
+    "mon-024": {
+      "cluster": "wanting-more",
+      "voice": "I keep thinking about money: what I had, could get, must protect.",
+      "situation": "Persistent thoughts about money, past, future and present.",
+      "tags": [
+        "preoccupied",
+        "money",
+        "persistent",
+        "heart",
+        "prayer"
+      ]
+    },
+    "mon-025": {
+      "cluster": "using-people",
+      "voice": "Be generous to them now. You can use them later.",
+      "situation": "Using hospitality as a hook for gain or influence.",
+      "tags": [
+        "manipulation",
+        "hospitality",
+        "advantage",
+        "judgment"
+      ]
+    },
+    "mon-026": {
+      "cluster": "losing",
+      "voice": "You’ll be poor for years and years.",
+      "situation": "Predictions of long poverty ahead.",
+      "tags": [
+        "poverty",
+        "future",
+        "fear",
+        "long time"
+      ]
+    },
+    "mon-027": {
+      "cluster": "holding-back",
+      "voice": "I’ll give something. Just barely enough.",
+      "situation": "Giving as little mercy as you can get away with.",
+      "tags": [
+        "stingy",
+        "mercy",
+        "kindness",
+        "giving"
+      ]
+    },
+    "mon-028": {
+      "cluster": "holding-back",
+      "voice": "You’re poor and unwell yourself. Help them tomorrow.",
+      "situation": "Putting off doing good with excuses of poverty or weakness.",
+      "tags": [
+        "procrastination",
+        "excuses",
+        "doing good",
+        "tomorrow"
+      ]
+    },
+    "mon-029": {
+      "cluster": "wanting-more",
+      "voice": "Work day and night. Scripture and the sick can wait.",
+      "situation": "Working for money so much that prayer and caring for others drop away.",
+      "tags": [
+        "overwork",
+        "workaholic",
+        "priorities",
+        "neglect",
+        "money"
+      ],
+      "greekRef": null
+    },
+    "mon-030": {
+      "cluster": "regret",
+      "voice": "You’re spending far too freely.",
+      "situation": "Anxiety that you’ve been too generous with your money.",
+      "tags": [
+        "anxiety",
+        "spending",
+        "generosity",
+        "worry"
+      ]
+    },
+    "mon-031": {
+      "cluster": "wanting-more",
+      "voice": "Money is worth more than wisdom. Hold on to it.",
+      "situation": "Choosing money over the wisdom of compassion.",
+      "tags": [
+        "wisdom",
+        "money",
+        "compassion",
+        "values"
+      ]
+    },
+    "mon-032": {
+      "cluster": "wanting-more",
+      "voice": "Get rich, and people will finally respect you.",
+      "situation": "Seeking comfort and status through wealth.",
+      "tags": [
+        "status",
+        "respect",
+        "reputation",
+        "comfort",
+        "riches"
+      ]
+    },
+    "mon-033": {
+      "cluster": "regret",
+      "voice": "I gave, but I resent it.",
+      "situation": "Generosity spoiled by grumbling and regret.",
+      "tags": [
+        "grumbling",
+        "regret",
+        "cheerful giving",
+        "resentment"
+      ],
+      "note": "This line appears only in the Greek version of Proverbs."
+    },
+    "mon-034": {
+      "cluster": "family",
+      "voice": "Remember your old home, your things, your old life?",
+      "situation": "Memories of home and possessions pulling at your heart.",
+      "tags": [
+        "memories",
+        "home",
+        "possessions",
+        "vanity",
+        "past"
+      ]
+    },
+    "mon-035": {
+      "cluster": "good-reasons",
+      "voice": "Keep what you have and get more. It’s for good causes.",
+      "situation": "Accumulating under pious pretexts like hospitality or buying books.",
+      "tags": [
+        "accumulating",
+        "pretexts",
+        "good cause",
+        "never enough"
+      ]
+    },
+    "mon-036": {
+      "cluster": "losing",
+      "voice": "Imagine losing everything you own.",
+      "situation": "Picturing the loss of your money or property.",
+      "tags": [
+        "loss",
+        "fear",
+        "possessions",
+        "Job"
+      ]
+    },
+    "mon-037": {
+      "cluster": "holding-back",
+      "voice": "Stock up. Don’t hand it out to people who need it.",
+      "situation": "Stockpiling food and clothing instead of sharing.",
+      "tags": [
+        "stockpiling",
+        "hoarding",
+        "hungry",
+        "sharing"
+      ]
+    },
+    "mon-038": {
+      "cluster": "holding-back",
+      "voice": "I see their need, but I don’t feel moved.",
+      "situation": "Unmoved by the poverty of people around you.",
+      "tags": [
+        "mercy",
+        "compassion",
+        "hardness",
+        "poor"
+      ]
+    },
+    "mon-039": {
+      "cluster": "losing",
+      "voice": "They took what’s mine. I’ll sue.",
+      "situation": "Wanting to fight in court over what was taken from you.",
+      "tags": [
+        "lawsuit",
+        "taken",
+        "justice",
+        "letting go",
+        "cloak"
+      ],
+      "note": "Evagrius warns that the mind stays chained to what was taken until, in love, it lets go of the cloak too."
+    },
+    "mon-040": {
+      "cluster": "holding-back",
+      "voice": "Don’t lend it. They’ll never pay you back.",
+      "situation": "Refusing to lend because the person might not repay.",
+      "tags": [
+        "lending",
+        "repay",
+        "refusing",
+        "generosity"
+      ]
+    },
+    "mon-041": {
+      "cluster": "wanting-more",
+      "voice": "Build up your savings. Then you’ll be secure.",
+      "situation": "Wanting to amass wealth, and the anxiety that comes with it.",
+      "tags": [
+        "savings",
+        "security",
+        "treasure",
+        "anxiety"
+      ]
+    },
+    "mon-042": {
+      "cluster": "good-reasons",
+      "voice": "Get rich. You can serve God with the money.",
+      "situation": "Telling yourself wealth will make you a better servant of God.",
+      "tags": [
+        "wealth",
+        "serving God",
+        "mammon",
+        "rationalizing"
+      ]
+    },
+    "mon-043": {
+      "cluster": "holding-back",
+      "voice": "I want others to help me, but I won’t help them.",
+      "situation": "Expecting help in hard times while ignoring other people’s needs.",
+      "tags": [
+        "double standard",
+        "golden rule",
+        "help",
+        "needs"
+      ]
+    },
+    "mon-044": {
+      "cluster": "holding-back",
+      "voice": "Not this time. Keep your money.",
+      "situation": "Holding back when a good opportunity to share comes along.",
+      "tags": [
+        "sharing",
+        "opportunity",
+        "riches",
+        "generosity"
+      ]
+    },
+    "mon-045": {
+      "cluster": "regret",
+      "voice": "I did the good thing, but I resent everyone involved.",
+      "situation": "Doing good while caught up in grudges, complaints and sour looks.",
+      "tags": [
+        "resentment",
+        "cheerfulness",
+        "sincerity",
+        "generosity"
+      ],
+      "excerpt": {
+        "from": "he who gives",
+        "to": "without hypocrisy."
+      }
+    },
+    "mon-046": {
+      "cluster": "family",
+      "voice": "Your relatives have it made. They’re the lucky ones.",
+      "situation": "Envying others for their visible wealth.",
+      "tags": [
+        "envy",
+        "wealth",
+        "comparison",
+        "family",
+        "seen"
+      ]
+    },
+    "mon-047": {
+      "cluster": "regret",
+      "voice": "Give less. Keep a little back.",
+      "situation": "Being sparing when you give to the poor.",
+      "tags": [
+        "giving",
+        "sparing",
+        "generosity",
+        "sowing"
+      ],
+      "note": "Evagrius observes that giving frees the mind, while regretting a gift binds it."
+    },
+    "mon-048": {
+      "cluster": "using-people",
+      "voice": "Money first. Kindness can wait.",
+      "situation": "Money souring your kindness toward others.",
+      "tags": [
+        "kindness",
+        "money",
+        "relationships",
+        "forgiving"
+      ]
+    },
+    "mon-049": {
+      "cluster": "holding-back",
+      "voice": "Look out for yourself. Nobody else will.",
+      "situation": "Storing up possessions for yourself alone.",
+      "tags": [
+        "selfishness",
+        "others",
+        "interests",
+        "possessions"
+      ]
+    },
+    "mon-050": {
+      "cluster": "good-reasons",
+      "voice": "Think how much good you could do with the money you used to have.",
+      "situation": "Missing past wealth by imagining the good it could do.",
+      "tags": [
+        "past wealth",
+        "regret",
+        "loss",
+        "Christ",
+        "rationalizing"
+      ]
+    },
+    "mon-051": {
+      "cluster": "wanting-more",
+      "voice": "A little greed is normal. It’s not like it’s idolatry.",
+      "situation": "Making peace with greed and not seeing it as idolatry.",
+      "tags": [
+        "greed",
+        "idolatry",
+        "covetousness",
+        "compromise"
+      ]
+    },
+    "mon-052": {
+      "cluster": "wanting-more",
+      "voice": "Get a bit more than you need. Just in case.",
+      "situation": "Collecting more than you need, and wanting wealth.",
+      "tags": [
+        "more",
+        "just in case",
+        "contentment",
+        "enough"
+      ]
+    },
+    "mon-053": {
+      "cluster": "wanting-more",
+      "voice": "Food and clothing aren’t enough. I need more.",
+      "situation": "Wanting more than the basics, forgetting you leave with nothing.",
+      "tags": [
+        "contentment",
+        "basics",
+        "mortality",
+        "more"
+      ]
+    },
+    "mon-054": {
+      "cluster": "good-reasons",
+      "voice": "There’s nothing wrong with loving money. Think of the good it does.",
+      "situation": "Defending the love of money as harmless or even helpful.",
+      "tags": [
+        "love of money",
+        "rationalizing",
+        "evil",
+        "harmless"
+      ]
+    },
+    "mon-055": {
+      "cluster": "wanting-more",
+      "voice": "Get into business. The profit will cover your needs.",
+      "situation": "Getting tangled in worldly affairs for the sake of profit.",
+      "tags": [
+        "business",
+        "entanglement",
+        "profit",
+        "distraction",
+        "focus"
+      ]
+    },
+    "mon-056": {
+      "cluster": "losing",
+      "voice": "The money’s gone and it won’t come back. Scramble!",
+      "situation": "Anxious busyness after money runs out.",
+      "tags": [
+        "anxiety",
+        "money gone",
+        "busyness",
+        "strength",
+        "provision"
+      ],
+      "excerpt": {
+        "from": "If anyone serves",
+        "to": "through Jesus Christ"
+      }
+    },
+    "mon-057": {
+      "cluster": "holding-back",
+      "voice": "They’re not really in need. Don’t give.",
+      "situation": "Dismissing someone’s need so you don’t have to give.",
+      "tags": [
+        "dismissing",
+        "need",
+        "compassion",
+        "excuse"
+      ]
+    },
+    "mon-058": {
+      "cluster": "using-people",
+      "voice": "Say you love them. You don’t have to pay for it.",
+      "situation": "Loving others in words while money keeps you from loving in deeds.",
+      "tags": [
+        "words",
+        "deeds",
+        "love",
+        "hypocrisy"
+      ]
+    }
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "thought": "anger",
+  "entries": {
+    "ang-001": {
+      "cluster": "grudge",
+      "voice": "There’s bad blood between us. Nothing can fix it now.",
+      "situation": "Not realizing that a gift can soften a long-standing grudge.",
+      "tags": ["grudge", "reconciliation", "gift", "family", "brother"],
+      "note": "Jacob met his estranged brother Esau with gifts, and the old enmity melted."
+    },
+    "ang-002": {
+      "cluster": "quick-temper",
+      "voice": "You’re doing the right thing. You’re allowed to be angry about it.",
+      "situation": "Irritation that flares up even while you’re trying to live rightly.",
+      "tags": ["irritation", "righteousness", "journey", "quarrel"]
+    },
+    "ang-003": {
+      "cluster": "suspicion",
+      "voice": "Twist the story a little. They deserve it.",
+      "situation": "Anger tempting you to misrepresent someone.",
+      "tags": ["lying", "false witness", "misrepresent", "anger"]
+    },
+    "ang-004": {
+      "cluster": "suspicion",
+      "voice": "Did you hear what they said about you?",
+      "situation": "Rage stirred up by gossip or a secondhand report.",
+      "tags": ["gossip", "rumor", "report", "rage", "hearsay"]
+    },
+    "ang-005": {
+      "cluster": "suspicion",
+      "voice": "Tell them exactly what you think of them.",
+      "situation": "Wanting to lash out at someone with insults.",
+      "tags": ["insults", "lashing out", "reviling", "words"]
+    },
+    "ang-006": {
+      "cluster": "suspicion",
+      "voice": "Remember the hateful thing they said?",
+      "situation": "Replaying the scene of someone speaking against you.",
+      "tags": ["replaying", "hurt", "hatred", "rebuke"],
+      "note": "Evagrius quotes John of Thebes: hatred over money or food can fade, but hatred over honor and reputation is hard to uproot."
+    },
+    "ang-007": {
+      "cluster": "gentleness",
+      "voice": "No one can really be that humble. It’s not human.",
+      "situation": "Believing true gentleness and humility are impossible.",
+      "tags": ["humility", "meekness", "impossible", "Moses"]
+    },
+    "ang-008": {
+      "cluster": "insulted",
+      "voice": "How dare they insult me like that?",
+      "situation": "Not seeing that insults can be a test God permits.",
+      "tags": ["insult", "cursing", "test", "David", "patience"],
+      "note": "When Shimei cursed King David, David refused to strike back: perhaps the LORD would see his distress and repay him with good."
+    },
+    "ang-009": {
+      "cluster": "gentleness",
+      "voice": "I want to know God’s ways, but I won’t be humbled.",
+      "situation": "Wanting to grow in faith while skipping humility.",
+      "tags": ["humility", "learning", "guidance", "pride"]
+    },
+    "ang-010": {
+      "cluster": "suspicion",
+      "voice": "They’re up to something. Add it to the list.",
+      "situation": "Collecting suspicions and pretexts against people.",
+      "tags": ["suspicion", "pretexts", "list", "distrust", "fretting"]
+    },
+    "ang-011": {
+      "cluster": "suspicion",
+      "voice": "Listen to what everyone is saying about them.",
+      "situation": "Slander about someone clouding your mind with rage.",
+      "tags": ["slander", "gossip", "rage", "family"]
+    },
+    "ang-012": {
+      "cluster": "quick-temper",
+      "voice": "My nights are troubled, and I think my anger is the cause.",
+      "situation": "Discovering that rage feeds bad nights, and mercy and patience calm them.",
+      "tags": ["nightmares", "rage", "mercy", "patience", "insight"],
+      "note": "Evagrius noticed that frightening dreams often come from the turmoil of anger, and fade through mercy and patience."
+    },
+    "ang-013": {
+      "cluster": "love-cold",
+      "voice": "Sing about patience. You’re furious, but sing it anyway.",
+      "situation": "Feeling like a hypocrite praying words you aren’t living.",
+      "tags": ["hypocrisy", "worship", "patience", "mockery", "singing"]
+    },
+    "ang-014": {
+      "cluster": "suspicion",
+      "voice": "They’re lazy, rude, and never do what they should.",
+      "situation": "Building a case against someone in your head.",
+      "tags": ["judging", "building a case", "criticism", "neighbor"]
+    },
+    "ang-015": {
+      "cluster": "quarrels",
+      "voice": "Fight them on this. It matters.",
+      "situation": "Wanting to quarrel over things that won’t last.",
+      "tags": ["quarrel", "trivial", "strife", "love covers"]
+    },
+    "ang-016": {
+      "cluster": "revenge",
+      "voice": "Curse them. They’ve earned it.",
+      "situation": "Wanting to call down harm on someone.",
+      "tags": ["cursing", "slander", "harm", "words"],
+      "web": "PRO 10:18"
+    },
+    "ang-017": {
+      "cluster": "quick-temper",
+      "voice": "I can’t pray. I’m still furious with them.",
+      "situation": "Anger at someone spoiling your prayer.",
+      "tags": ["prayer", "anger", "distraction", "sincerity"],
+      "lead": "greek"
+    },
+    "ang-018": {
+      "cluster": "quick-temper",
+      "voice": "This stupid animal won’t do what I want!",
+      "situation": "Losing your temper with an animal, or anything that won’t cooperate.",
+      "tags": ["animals", "frustration", "temper", "cruelty", "pets"]
+    },
+    "ang-019": {
+      "cluster": "quick-temper",
+      "voice": "That’s it. That tiny thing was the last straw.",
+      "situation": "Flaring up over something trivial.",
+      "tags": ["trivial", "temper", "annoyance", "insult", "overlook"]
+    },
+    "ang-020": {
+      "cluster": "suspicion",
+      "voice": "Set a trap for them. They’ll never see it coming.",
+      "situation": "Plotting something underhanded against someone.",
+      "tags": ["scheming", "treachery", "deceit", "plotting"],
+      "lead": "greek"
+    },
+    "ang-021": {
+      "cluster": "grudge",
+      "voice": "Replay it again. Remember exactly what they said.",
+      "situation": "Resentment that keeps an old word alive long after the anger cools.",
+      "tags": ["resentment", "replaying", "remembering wrongs", "rumination"],
+      "lead": "greek"
+    },
+    "ang-022": {
+      "cluster": "quick-temper",
+      "voice": "Forget patience. React now.",
+      "situation": "Anger uprooting your patience and pushing you to foolish acts.",
+      "tags": ["patience", "folly", "reaction", "possessions"]
+    },
+    "ang-023": {
+      "cluster": "insulted",
+      "voice": "Who are they to correct me?",
+      "situation": "Anger at being rightly corrected.",
+      "tags": ["correction", "criticism", "defensive", "gentle answer"]
+    },
+    "ang-024": {
+      "cluster": "quarrels",
+      "voice": "Don’t let it go. Win the argument.",
+      "situation": "Being drawn into strife and unable to drop an argument.",
+      "tags": ["argument", "strife", "winning", "slow to anger"]
+    },
+    "ang-025": {
+      "cluster": "suspicion",
+      "voice": "It’s only a thought. As long as I don’t act on it, it’s fine.",
+      "situation": "Believing angry thoughts don’t matter, only actions.",
+      "tags": ["thoughts", "heart", "anger", "pure"]
+    },
+    "ang-026": {
+      "cluster": "quarrels",
+      "voice": "Hang around with the angry ones. They tell it like it is.",
+      "situation": "Drawn to angry people and heated talk.",
+      "tags": ["friends", "influence", "angry people", "company"]
+    },
+    "ang-027": {
+      "cluster": "revenge",
+      "voice": "They did it to me. I’ll do it right back.",
+      "situation": "Wanting to hurt someone the way they hurt you.",
+      "tags": ["revenge", "payback", "wronged", "retaliation"]
+    },
+    "ang-028": {
+      "cluster": "revenge",
+      "voice": "Let my enemy go hungry. Serves them right.",
+      "situation": "Refusing kindness to someone who is against you, even in their need.",
+      "tags": ["enemy", "kindness", "mercy", "hunger", "coals of fire"]
+    },
+    "ang-029": {
+      "cluster": "quick-temper",
+      "voice": "I’m boiling. Everyone is getting on my nerves.",
+      "situation": "Quick to flare up and grow bitter with people.",
+      "tags": ["temper", "hasty", "bitterness", "fools"]
+    },
+    "ang-030": {
+      "cluster": "grudge",
+      "voice": "I have every reason to be angry, and I’m keeping them.",
+      "situation": "Clinging to reasons for anger rooted in comfort, wealth or status.",
+      "tags": ["reasons", "clinging", "status", "possessions", "letting go"]
+    },
+    "ang-031": {
+      "cluster": "love-cold",
+      "voice": "After all this, how can you still love them?",
+      "situation": "Trials wearing down your love for others.",
+      "tags": ["love", "trials", "endurance", "waters"]
+    },
+    "ang-032": {
+      "cluster": "revenge",
+      "voice": "Write them a message that will really sting.",
+      "situation": "Wanting to send hurtful words to someone who troubled you.",
+      "tags": ["message", "email", "text", "hurtful words", "writing"]
+    },
+    "ang-033": {
+      "cluster": "gentleness",
+      "voice": "The anger that used to grip me has let go.",
+      "situation": "Thanking God that old anger no longer provokes you.",
+      "tags": ["thanksgiving", "peace", "freedom", "healing"]
+    },
+    "ang-034": {
+      "cluster": "insulted",
+      "voice": "My own family attacks my faith, and I’m furious.",
+      "situation": "Anger at family who oppose you for following Christ.",
+      "tags": ["family", "persecution", "faith", "opposition", "blessed"]
+    },
+    "ang-035": {
+      "cluster": "quick-temper",
+      "voice": "I’m restless and bored, and they’re irritating me.",
+      "situation": "Restlessness turning into irritation with someone.",
+      "tags": ["restless", "irritation", "boredom", "contempt"]
+    },
+    "ang-036": {
+      "cluster": "grudge",
+      "voice": "They hurt me again. Now I’ll never let it go.",
+      "situation": "A second offense locking in resentment from the first.",
+      "tags": ["repeated offense", "resentment", "other cheek", "letting go"]
+    },
+    "ang-037": {
+      "cluster": "revenge",
+      "voice": "Hate them. Curse them. They’re your enemy.",
+      "situation": "Thoughts pushing you to hate and curse your enemies.",
+      "tags": ["enemies", "hatred", "curse", "love your enemies", "pray"]
+    },
+    "ang-038": {
+      "cluster": "grudge",
+      "voice": "They apologized? Not good enough.",
+      "situation": "Refusing to accept someone’s repentance.",
+      "tags": ["apology", "forgiveness", "repentance", "bitterness"]
+    },
+    "ang-039": {
+      "cluster": "love-cold",
+      "voice": "Love one another? Not them.",
+      "situation": "Anger bending the command to love into something smaller.",
+      "tags": ["love", "commandment", "exceptions", "anger"]
+    },
+    "ang-040": {
+      "cluster": "love-cold",
+      "voice": "I’m too bitter to love anyone right now.",
+      "situation": "Anger hardening into bitterness against love itself.",
+      "tags": ["bitterness", "love", "separation", "Christ"]
+    },
+    "ang-041": {
+      "cluster": "revenge",
+      "voice": "Good. They’re suffering. They deserve it.",
+      "situation": "Secret pleasure at an enemy’s misfortune.",
+      "tags": ["schadenfreude", "envy", "misfortune", "rejoice"],
+      "web": "ROM 12:15-16"
+    },
+    "ang-042": {
+      "cluster": "grudge",
+      "voice": "I won’t forget this. One day I’ll pay them back.",
+      "situation": "Holding a grudge and waiting to repay evil.",
+      "tags": ["grudge", "payback", "revenge", "waiting"]
+    },
+    "ang-043": {
+      "cluster": "revenge",
+      "voice": "Take what you’re owed. Cheat them back if you have to.",
+      "situation": "Anger pushing you to take advantage of someone.",
+      "tags": ["cheating", "fraud", "lawsuit", "wronged"],
+      "web": "1CO 6:7-8",
+      "excerpt": { "from": "Why not rather be wronged?" }
+    },
+    "ang-044": {
+      "cluster": "insulted",
+      "voice": "They mocked my station in life. I won’t stand for it.",
+      "situation": "Enraged when someone mocks your job, class or circumstances.",
+      "tags": ["status", "mockery", "class", "job", "freedom"]
+    },
+    "ang-045": {
+      "cluster": "love-cold",
+      "voice": "I can’t speak openly with them anymore.",
+      "situation": "Anger shutting down the honest, loving speech you once had.",
+      "tags": ["love", "honesty", "speech", "relationship"],
+      "excerpt": { "from": "Love is patient", "to": "endures all things." }
+    },
+    "ang-046": {
+      "cluster": "quick-temper",
+      "voice": "I want deep spiritual insight, though I lose my temper easily.",
+      "situation": "Seeking spiritual depth while staying quick-tempered.",
+      "tags": ["insight", "knowledge", "temper", "fruit of the Spirit"]
+    },
+    "ang-047": {
+      "cluster": "insulted",
+      "voice": "Their failures drive me crazy.",
+      "situation": "Grieved and annoyed by other people’s failings.",
+      "tags": ["failures", "burdens", "patience", "others"]
+    },
+    "ang-048": {
+      "cluster": "insulted",
+      "voice": "After all I did for them, they complain?",
+      "situation": "Anger at someone who is ungrateful for your kindness.",
+      "tags": ["ungrateful", "kindness", "complaining", "weary"]
+    },
+    "ang-049": {
+      "cluster": "grudge",
+      "voice": "Don’t make peace. They’ll only do it again.",
+      "situation": "Shame, fear and pride disguised as reasons not to reconcile.",
+      "tags": ["reconciliation", "pride", "fear", "sunset", "excuses"],
+      "note": "Evagrius calls this the demon’s craftiness: it dresses up shame, fear and pride as sensible reasons."
+    },
+    "ang-050": {
+      "cluster": "love-cold",
+      "voice": "So many things make me angry.",
+      "situation": "Anger spilling over into every kind of thought.",
+      "tags": ["anger", "bitterness", "malice", "put away"]
+    },
+    "ang-051": {
+      "cluster": "quarrels",
+      "voice": "Why am I always the one serving everyone?",
+      "situation": "Grumbling about serving others.",
+      "tags": ["grumbling", "service", "complaining", "chores"]
+    },
+    "ang-052": {
+      "cluster": "suspicion",
+      "voice": "I’m so angry I could say anything, even about God.",
+      "situation": "Heated anger giving birth to blasphemy or deceit.",
+      "tags": ["blasphemy", "lying", "heated", "speech"]
+    },
+    "ang-053": {
+      "cluster": "revenge",
+      "voice": "Evil for evil. That’s only fair.",
+      "situation": "Wanting to repay harm with harm.",
+      "tags": ["payback", "fairness", "revenge", "good"]
+    },
+    "ang-054": {
+      "cluster": "gentleness",
+      "voice": "God’s commands are about being right, not about love.",
+      "situation": "Anger twisting faith away from its goal of love.",
+      "tags": ["commandment", "love", "pure heart", "goal"]
+    },
+    "ang-055": {
+      "cluster": "quarrels",
+      "voice": "I keep arguing with them in my head.",
+      "situation": "Imaginary arguments stirring up conflict in your mind.",
+      "tags": ["imaginary arguments", "rumination", "conflict", "gentle"]
+    },
+    "ang-056": {
+      "cluster": "insulted",
+      "voice": "My relatives turned on me because I follow Christ.",
+      "situation": "Anger at being persecuted by family for your faith.",
+      "tags": ["persecution", "family", "faith", "godly life"]
+    },
+    "ang-057": {
+      "cluster": "grudge",
+      "voice": "They owe me, and they aren’t even trying to repay.",
+      "situation": "Anger at someone who hasn’t paid you back.",
+      "tags": ["debt", "owed", "repay", "money", "forgive"]
+    },
+    "ang-058": {
+      "cluster": "quick-temper",
+      "voice": "I want to be righteous, but I snap at people.",
+      "situation": "Seeking God’s righteousness while angering quickly.",
+      "tags": ["temper", "righteousness", "slow to anger", "listen"]
+    },
+    "ang-059": {
+      "cluster": "gentleness",
+      "voice": "I’m full of anger, but I want God’s wisdom.",
+      "situation": "Wanting wisdom while your mind is full of anger.",
+      "tags": ["wisdom", "peace", "gentle", "mercy"]
+    },
+    "ang-060": {
+      "cluster": "suspicion",
+      "voice": "That rule against speaking ill of others isn’t fair.",
+      "situation": "Defending slander by questioning God’s law.",
+      "tags": ["slander", "judging", "law", "speaking against"]
+    },
+    "ang-061": {
+      "cluster": "revenge",
+      "voice": "Insult for insult. Don’t bless them.",
+      "situation": "Refusing to answer abuse with blessing.",
+      "tags": ["insult", "blessing", "abuse", "retaliation"]
+    },
+    "ang-062": {
+      "cluster": "love-cold",
+      "voice": "I fear God. I just can’t stand that person.",
+      "situation": "Claiming devotion while hating someone.",
+      "tags": ["hatred", "light", "darkness", "hypocrisy"]
+    },
+    "ang-063": {
+      "cluster": "love-cold",
+      "voice": "I wish they were gone.",
+      "situation": "Hatred that turns murderous in the mind.",
+      "tags": ["hatred", "murder", "wish harm", "eternal life"]
+    },
+    "ang-064": {
+      "cluster": "love-cold",
+      "voice": "I love God. I just don’t love them anymore.",
+      "situation": "Saying you love God while hatred has replaced your love for someone.",
+      "tags": ["love", "hatred", "liar", "unseen God"]
+    }
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "thought": "vainglory",
+  "entries": {
+    "vai-001": {
+      "cluster": "good-reasons",
+      "voice": "Go back out there and teach your family. They need you.",
+      "situation": "Leaving your calling too soon with the excuse of helping others.",
+      "tags": ["family", "teaching", "mission", "premature", "looking back"]
+    },
+    "vai-002": {
+      "cluster": "seen",
+      "voice": "Why do they get that gift and not me?",
+      "situation": "Jealousy of someone else’s spiritual gifts or insight.",
+      "tags": ["jealousy", "gifts", "envy", "comparison", "talent"]
+    },
+    "vai-003": {
+      "cluster": "position",
+      "voice": "I should be ordained, or put in charge.",
+      "situation": "Wanting a sacred role out of vanity, blind to its dangers.",
+      "tags": ["ordination", "ministry", "position", "ambition", "danger"],
+      "note": "The bronze censers of Korah’s followers, who seized the priesthood for themselves, were hammered into a warning for Israel."
+    },
+    "vai-004": {
+      "cluster": "seen",
+      "voice": "Do the right thing where people can see it.",
+      "situation": "Doing good mainly to be noticed.",
+      "tags": ["motives", "good deeds", "noticed", "justice"]
+    },
+    "vai-005": {
+      "cluster": "seen",
+      "voice": "Mention your fasting. Casually.",
+      "situation": "Mixing talk of your spiritual efforts with a desire for admiration.",
+      "tags": ["humblebrag", "boasting", "mixed motives", "spiritual talk"],
+      "note": "Evagrius pictures vanity yoked to talk of one’s disciplines, like an ox and a donkey pulling one plow."
+    },
+    "vai-006": {
+      "cluster": "seen",
+      "voice": "Look how respected you are here.",
+      "situation": "Savoring your standing in other people’s eyes.",
+      "tags": ["respect", "honor", "status", "humble"]
+    },
+    "vai-007": {
+      "cluster": "seen",
+      "voice": "I can’t leave. What would people think?",
+      "situation": "Staying in an unhealthy place because leaving would hurt your image.",
+      "tags": ["image", "pride", "staying", "move", "reputation"]
+    },
+    "vai-008": {
+      "cluster": "position",
+      "voice": "Those voices promised me a high position. Maybe they’re right.",
+      "situation": "Believing flattering promises of status.",
+      "tags": ["flattery", "promises", "ordination", "lies"]
+    },
+    "vai-009": {
+      "cluster": "teach-too-soon",
+      "voice": "Start teaching everyone. You’re ready.",
+      "situation": "Rushing to teach before your own soul is healthy.",
+      "tags": ["teaching", "ready", "maturity", "nest"],
+      "note": "Evagrius reads the sparrow’s nest beside God’s altar as staying put until you are grown."
+    },
+    "vai-010": {
+      "cluster": "position",
+      "voice": "Imagine yourself in charge, managing everything.",
+      "situation": "Daydreams of being in charge that scatter your mind.",
+      "tags": ["daydreams", "leadership", "control", "distraction"]
+    },
+    "vai-011": {
+      "cluster": "good-reasons",
+      "voice": "Cut yourself off from them. They’re only leading you astray.",
+      "situation": "Withdrawing from your community out of a sense of superiority.",
+      "tags": ["isolation", "superiority", "community", "snare"]
+    },
+    "vai-012": {
+      "cluster": "words",
+      "voice": "Weigh in on everything. People want your opinion.",
+      "situation": "Talking too much and getting involved in other people’s disputes.",
+      "tags": ["talking", "opinions", "disputes", "restraint"]
+    },
+    "vai-013": {
+      "cluster": "position",
+      "voice": "Lead them now. You don’t need to wait.",
+      "situation": "Taking charge of others before you are grounded.",
+      "tags": ["leadership", "premature", "ambition", "maturity"]
+    },
+    "vai-014": {
+      "cluster": "teach-too-soon",
+      "voice": "You haven’t mastered Scripture, so why keep at it?",
+      "situation": "Giving up on Scripture because you can’t master it quickly.",
+      "tags": ["Bible", "mastery", "impatience", "quitting"]
+    },
+    "vai-015": {
+      "cluster": "good-reasons",
+      "voice": "You’re young, but you don’t need a mentor.",
+      "situation": "Young and eager to go it alone without guidance.",
+      "tags": ["youth", "mentor", "independence", "guidance"],
+      "web": "PRO 20:11",
+      "lead": "greek"
+    },
+    "vai-016": {
+      "cluster": "good-reasons",
+      "voice": "Cosign the loan. They’ll love you for it.",
+      "situation": "Taking on other people’s debts to be liked or admired.",
+      "tags": ["debt", "cosign", "surety", "approval", "people-pleasing"]
+    },
+    "vai-017": {
+      "cluster": "teach-too-soon",
+      "voice": "Tell them the deep things. They’ll be impressed.",
+      "situation": "Sharing sacred or personal things to impress people who won’t value them.",
+      "tags": ["oversharing", "impress", "sacred", "pearls"]
+    },
+    "vai-018": {
+      "cluster": "good-reasons",
+      "voice": "Go out where people can see you. It’ll inspire them.",
+      "situation": "Seeking visibility under the guise of being an example.",
+      "tags": ["visibility", "example", "influence", "platform"]
+    },
+    "vai-019": {
+      "cluster": "fame-dreams",
+      "voice": "Bring on the big battles. Imagine the glory of winning.",
+      "situation": "Inviting great trials so you can be admired for surviving them.",
+      "tags": ["glory", "trials", "heroics", "deceit"],
+      "note": "Evagrius learned from John of Thebes that the demon does this out of vainglory."
+    },
+    "vai-020": {
+      "cluster": "seen",
+      "voice": "Let them know how disciplined you are.",
+      "situation": "Making sure others hear about your good habits.",
+      "tags": ["self-promotion", "praise", "boasting", "discipline"]
+    },
+    "vai-021": {
+      "cluster": "words",
+      "voice": "Speak up now. Stay quiet then. Whatever looks best.",
+      "situation": "Letting vanity decide when you speak and when you stay silent.",
+      "tags": ["speech", "silence", "timing", "image"]
+    },
+    "vai-022": {
+      "cluster": "seen",
+      "voice": "Surely no one is watching how I serve God.",
+      "situation": "Forgetting that the enemy notices your service and will test your motives.",
+      "tags": ["motives", "testing", "service", "Job"]
+    },
+    "vai-023": {
+      "cluster": "fame-dreams",
+      "voice": "I’ll make you famous everywhere.",
+      "situation": "Promises of fame that pose as help.",
+      "tags": ["fame", "famous", "promises", "glory", "dishonor"],
+      "lead": "greek"
+    },
+    "vai-024": {
+      "cluster": "fame-dreams",
+      "voice": "People’s praise matters more to me than knowing Christ.",
+      "situation": "Loving human glory more than the knowledge of Christ.",
+      "tags": ["praise", "glory", "fading", "word of God"]
+    },
+    "vai-025": {
+      "cluster": "seen",
+      "voice": "I can’t stop wanting recognition, and I’m already hurting.",
+      "situation": "A persistent longing for glory, on top of anger and sadness.",
+      "tags": ["recognition", "healing", "prayer", "wounded"]
+    },
+    "vai-026": {
+      "cluster": "position",
+      "voice": "That dream means you’ll be a leader. People will come.",
+      "situation": "Reading dreams as signs of your coming importance.",
+      "tags": ["dreams", "signs", "leadership", "destiny"]
+    },
+    "vai-027": {
+      "cluster": "fame-dreams",
+      "voice": "You’re so spiritual you’ll be taken up to heaven.",
+      "situation": "Inflated spiritual experiences that lead to a fall.",
+      "tags": ["spiritual experiences", "delusion", "inflated", "lies"],
+      "note": "Evagrius says some who believed this were shipwrecked."
+    },
+    "vai-028": {
+      "cluster": "fame-dreams",
+      "voice": "Your wisdom will make you famous among the powerful.",
+      "situation": "Dreaming of influence with important people.",
+      "tags": ["influence", "powerful", "wisdom", "fame"]
+    },
+    "vai-029": {
+      "cluster": "teach-too-soon",
+      "voice": "Teach it first. You can practice it later.",
+      "situation": "Wanting to teach what you don’t yet do.",
+      "tags": ["hypocrisy", "teaching", "practice", "doing"]
+    },
+    "vai-030": {
+      "cluster": "seen",
+      "voice": "Make sure they see you giving.",
+      "situation": "Piety performed for an audience.",
+      "tags": ["giving", "charity", "audience", "reward"]
+    },
+    "vai-031": {
+      "cluster": "seen",
+      "voice": "Picture yourself praying. Don’t you look holy?",
+      "situation": "Imagining how you look while you pray.",
+      "tags": ["prayer", "image", "self-image", "hypocrisy"],
+      "note": "Evagrius notes that the mind at prayer has no shape. Picturing yourself praying is vainglory at work."
+    },
+    "vai-032": {
+      "cluster": "seen",
+      "voice": "Look a little tired. Let them guess you’re fasting.",
+      "situation": "Letting people know about your fasting or sacrifices.",
+      "tags": ["fasting", "show", "sacrifice", "hypocrites"]
+    },
+    "vai-033": {
+      "cluster": "words",
+      "voice": "Keep chatting. Words don’t matter.",
+      "situation": "Empty talk that pulls your mind into distraction.",
+      "tags": ["idle words", "chatter", "distraction", "account"]
+    },
+    "vai-034": {
+      "cluster": "fame-dreams",
+      "voice": "Look how spiritually powerful you’ve become!",
+      "situation": "Pride in spiritual victories instead of joy in God’s grace.",
+      "tags": ["victory", "success", "pride", "joy", "heaven"]
+    },
+    "vai-035": {
+      "cluster": "fame-dreams",
+      "voice": "You have a real gift for healing.",
+      "situation": "Flattering thoughts about your spiritual gifts.",
+      "tags": ["gifts", "flattery", "healing", "lies"],
+      "excerpt": { "from": "When he speaks a lie" }
+    },
+    "vai-036": {
+      "cluster": "position",
+      "voice": "Pay your way into the position.",
+      "situation": "Trying to buy influence or a role.",
+      "tags": ["buying influence", "money", "position", "gift of God"]
+    },
+    "vai-037": {
+      "cluster": "words",
+      "voice": "Master the world’s learning. Then they’ll respect you.",
+      "situation": "Craving intellectual prestige.",
+      "tags": ["learning", "intellect", "prestige", "wisdom of the world"]
+    },
+    "vai-038": {
+      "cluster": "seen",
+      "voice": "Brag a little about how steady you’ve been.",
+      "situation": "Boasting about your faithfulness and hard work.",
+      "tags": ["boasting", "commend", "faithful", "work"]
+    },
+    "vai-039": {
+      "cluster": "good-reasons",
+      "voice": "Convince your relatives you’re on the right path.",
+      "situation": "Needing your family’s approval for your spiritual life.",
+      "tags": ["approval", "family", "pleasing people", "validation"]
+    },
+    "vai-040": {
+      "cluster": "position",
+      "voice": "Do something impressive so they’ll choose you.",
+      "situation": "Maneuvering to be chosen for an honored role.",
+      "tags": ["maneuvering", "honor", "calling", "role"]
+    },
+    "vai-041": {
+      "cluster": "teach-too-soon",
+      "voice": "You should be teaching others by now.",
+      "situation": "Wanting to teach before you’re grounded in the truth.",
+      "tags": ["teaching", "maturity", "judgment", "tongue"]
+    },
+    "vai-042": {
+      "cluster": "fame-dreams",
+      "voice": "Ask God for impressive gifts.",
+      "situation": "Asking for spiritual gifts so others will admire you.",
+      "tags": ["gifts", "motives", "asking", "prayer"]
+    },
+    "vai-043": {
+      "cluster": "fame-dreams",
+      "voice": "Look at the glory the world offers.",
+      "situation": "Dazzled by worldly glory.",
+      "tags": ["worldly glory", "fame", "love of the world"]
+    }
+  }
+}

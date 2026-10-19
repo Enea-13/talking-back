@@ -1,0 +1,420 @@
+{
+  "thought": "fornication",
+  "entries": {
+    "for-001": {
+      "cluster": "images",
+      "voice": "Picture her. She’s married, but it’s only a thought.",
+      "situation": "Fantasizing about someone who belongs to another.",
+      "tags": ["lust", "fantasy", "married", "coveting", "adultery"]
+    },
+    "for-002": {
+      "cluster": "never-free",
+      "voice": "After all this struggle, what good is waiting for you?",
+      "situation": "Discouraged that years of resisting temptation seem to have earned nothing.",
+      "tags": ["discouragement", "hope", "struggle", "reward", "temptation"]
+    },
+    "for-003": {
+      "cluster": "never-free",
+      "voice": "This should be gone in an instant. If it isn’t, something’s wrong.",
+      "situation": "Expecting instant freedom, and losing heart when progress is slow.",
+      "tags": ["patience", "progress", "slow", "healing", "expectations"]
+    },
+    "for-004": {
+      "cluster": "never-free",
+      "voice": "You’re young. You can’t possibly keep your mind pure.",
+      "situation": "Believing purity is impossible at your age.",
+      "tags": ["youth", "young", "purity", "impossible", "age"],
+      "note": "Evagrius reads this verse as proof that the young, too, can bring God a clean offering."
+    },
+    "for-005": {
+      "cluster": "excuses",
+      "voice": "You’re young. It doesn’t count yet.",
+      "situation": "Excusing sexual sin or impure thoughts because of your age.",
+      "tags": ["youth", "excuse", "guilt", "impurity"]
+    },
+    "for-006": {
+      "cluster": "images",
+      "voice": "It’s only in my head. I can play it out there.",
+      "situation": "Entertaining a fantasy instead of guarding your mind.",
+      "tags": ["fantasy", "mind", "guarding", "thoughts", "imagination"]
+    },
+    "for-007": {
+      "cluster": "excuses",
+      "voice": "Go toward it. Just see where the desire leads.",
+      "situation": "Drifting toward lust as if it were something worth serving.",
+      "tags": ["desire", "idolatry", "devotion", "serving", "lust"]
+    },
+    "for-008": {
+      "cluster": "never-free",
+      "voice": "It’s day and night. I’ll never beat this.",
+      "situation": "Constant temptation wearing away your hope of victory.",
+      "tags": ["hopeless", "constant", "overwhelmed", "victory", "addiction"]
+    },
+    "for-009": {
+      "cluster": "images",
+      "voice": "One picture after another, until one finally sticks.",
+      "situation": "A mind cycling through images until one takes hold.",
+      "tags": ["images", "fantasy", "cycling", "obsessive", "mind"]
+    },
+    "for-010": {
+      "cluster": "guard-down",
+      "voice": "The temptation is gone. You’ve made it. Relax.",
+      "situation": "Easing your guard during a lull, as if the battle were over.",
+      "tags": ["complacency", "relapse", "guard", "lull", "overconfidence"]
+    },
+    "for-011": {
+      "cluster": "night-and-body",
+      "voice": "I feel it in my body, and it frightens me.",
+      "situation": "Fear when temptation is felt physically.",
+      "tags": ["fear", "body", "physical", "arousal", "frightened"]
+    },
+    "for-012": {
+      "cluster": "never-free",
+      "voice": "I’m too low to keep fighting these thoughts.",
+      "situation": "Sadness draining the strength to resist impure thoughts during prayer.",
+      "tags": ["sadness", "weak", "prayer", "discouraged", "listless"]
+    },
+    "for-013": {
+      "cluster": "excuses",
+      "voice": "I’ll fight it, but not all the way. I can shake free anytime.",
+      "situation": "Keeping a little of the temptation around, sure you can walk away whenever you like.",
+      "tags": ["half-hearted", "control", "overconfidence", "Samson", "addiction"]
+    },
+    "for-014": {
+      "cluster": "standing-firm",
+      "kind": "prayer",
+      "voice": "The temptation suddenly lifted. Thank God.",
+      "situation": "Relief when help comes and the storm of thoughts goes quiet.",
+      "tags": ["thanksgiving", "relief", "help", "gratitude", "victory"],
+      "note": "Evagrius addresses this thanksgiving to the angel God sent to help."
+    },
+    "for-015": {
+      "cluster": "night-and-body",
+      "voice": "It came at night, all allure, and I didn’t give in.",
+      "situation": "Standing firm against a seductive dream, and naming the enemy’s weakness.",
+      "tags": ["dreams", "night", "victory", "strength", "weakness"]
+    },
+    "for-016": {
+      "cluster": "excuses",
+      "voice": "I don’t want to let go of this desire. I’ll make terms with it.",
+      "situation": "Bargaining with a temptation instead of escaping it.",
+      "tags": ["bargaining", "compromise", "desire", "snake"],
+      "note": "Evagrius notes that the name Nahash means “snake.” His terms were peace in exchange for an eye."
+    },
+    "for-017": {
+      "cluster": "standing-firm",
+      "voice": "Give me your purity. Just a little of it.",
+      "situation": "Being asked to trade away the integrity you have been given.",
+      "tags": ["purity", "chastity", "integrity", "inheritance", "refuse"]
+    },
+    "for-018": {
+      "cluster": "never-free",
+      "voice": "This is more than I can bear.",
+      "situation": "Feeling tempted beyond your strength.",
+      "tags": ["overwhelmed", "too strong", "beyond strength", "temptation"],
+      "greekExcerpt": { "from": "At that time" },
+      "note": "This line appears only in the Greek Bible. Evagrius reads “every one as he could” as a sign that no one is tested beyond their strength."
+    },
+    "for-019": {
+      "cluster": "night-and-body",
+      "voice": "Those night images leave me ashamed to face God.",
+      "situation": "Shame after impure dreams, brought honestly to God.",
+      "tags": ["shame", "dreams", "night", "confession", "prayer"],
+      "excerpt": { "to": "grown up to the heavens." },
+      "greekExcerpt": { "to": "even to heaven." }
+    },
+    "for-020": {
+      "cluster": "guard-down",
+      "voice": "I’ve beaten it. I’m clean now, for good.",
+      "situation": "After hard-won purity, forgetting how defiling the old life was.",
+      "tags": ["victory", "complacency", "purity", "vigilance"]
+    },
+    "for-021": {
+      "cluster": "standing-firm",
+      "voice": "So many thoughts, pulling my mind toward so many faces.",
+      "situation": "Overwhelmed by a crowd of impure thoughts.",
+      "tags": ["overwhelmed", "many thoughts", "faces", "prayer", "help"],
+      "web": "PSA 3:1-3"
+    },
+    "for-022": {
+      "cluster": "guard-down",
+      "voice": "I have nothing to fight these thoughts with.",
+      "situation": "Forgetting that holy anger is a weapon against lust.",
+      "tags": ["anger", "weapon", "resist", "lust", "fight back"],
+      "lead": "greek",
+      "note": "Evagrius taught that the soul’s power of anger, rightly aimed, drives off lustful thoughts: “be angry, and do not sin.”"
+    },
+    "for-023": {
+      "cluster": "images",
+      "voice": "These images keep coming back, and my body follows.",
+      "situation": "Persistent impure images stirring up desire.",
+      "tags": ["images", "persistent", "arousal", "desire", "depart"]
+    },
+    "for-024": {
+      "cluster": "excuses",
+      "kind": "prayer",
+      "voice": "Look, even holy people do it.",
+      "situation": "Picturing someone respected falling, as if that makes it acceptable.",
+      "tags": ["scandal", "hypocrisy", "others falling", "excuse"]
+    },
+    "for-025": {
+      "cluster": "night-and-body",
+      "voice": "It hit suddenly, and my whole mind is swept along.",
+      "situation": "A sudden, overwhelming surge of desire.",
+      "tags": ["sudden", "arousal", "overwhelming", "prayer", "help"],
+      "note": "Evagrius’s practical advice for this moment: get up at once, walk, and pray."
+    },
+    "for-026": {
+      "cluster": "never-free",
+      "voice": "These urges are stronger than God’s commands.",
+      "situation": "Believing temptation is more powerful than God’s word.",
+      "tags": ["powerless", "stronger", "commands", "victory", "addiction"]
+    },
+    "for-027": {
+      "cluster": "standing-firm",
+      "voice": "It struck my body, but my mind held firm.",
+      "situation": "Thanksgiving after a physical temptation failed to conquer you.",
+      "tags": ["thanksgiving", "victory", "body", "joy"]
+    },
+    "for-028": {
+      "cluster": "dread",
+      "voice": "If you fight this, you’ll only embarrass yourself.",
+      "situation": "Fear that resisting will end in humiliating failure.",
+      "tags": ["fear", "shame", "failure", "resist"]
+    },
+    "for-029": {
+      "cluster": "dread",
+      "voice": "A worse temptation is coming. You won’t survive that one.",
+      "situation": "Dread that a stronger temptation is on its way.",
+      "tags": ["dread", "fear", "stronger", "future", "anxiety"]
+    },
+    "for-030": {
+      "cluster": "guard-down",
+      "voice": "Fasting and humbling myself won’t help with this.",
+      "situation": "Refusing the humble disciplines that help in temptation.",
+      "tags": ["fasting", "humility", "discipline", "refuse"]
+    },
+    "for-031": {
+      "cluster": "never-free",
+      "voice": "This one image is burned into my mind. It will never leave.",
+      "situation": "Despair that one fixed image will always haunt you.",
+      "tags": ["image", "stuck", "intrusive", "hopeless"]
+    },
+    "for-032": {
+      "cluster": "images",
+      "voice": "Look at her. Forget everything else.",
+      "situation": "An alluring image that makes you forget better things.",
+      "tags": ["beauty", "allure", "image", "distraction"]
+    },
+    "for-033": {
+      "cluster": "dread",
+      "voice": "You’ll fall, and everyone will know.",
+      "situation": "Fearful predictions of failure and public shame.",
+      "tags": ["fear", "shame", "prediction", "reputation"]
+    },
+    "for-034": {
+      "cluster": "night-and-body",
+      "voice": "Remember what you dreamed? You’re a joke.",
+      "situation": "Mocking thoughts the day after an impure dream.",
+      "tags": ["dreams", "mockery", "shame", "night"]
+    },
+    "for-035": {
+      "cluster": "excuses",
+      "voice": "Stay and talk with her. She needs your spiritual help.",
+      "situation": "Lingering with someone you’re drawn to, under a spiritual pretext.",
+      "tags": ["pretext", "attraction", "married", "boundaries", "ministry"]
+    },
+    "for-036": {
+      "cluster": "images",
+      "voice": "Just talk with her in your mind. What’s the harm?",
+      "situation": "Wanting to linger over a beautiful image in your imagination.",
+      "tags": ["beauty", "imagination", "fantasy", "lust"]
+    },
+    "for-037": {
+      "cluster": "excuses",
+      "voice": "Looking won’t hurt you.",
+      "situation": "Telling yourself that looking at sexual images is harmless.",
+      "tags": ["looking", "pornography", "harmless", "eyes", "fire"]
+    },
+    "for-038": {
+      "cluster": "why",
+      "voice": "Why do these temptations keep coming?",
+      "situation": "Not understanding that trials refine the heart.",
+      "tags": ["why", "testing", "refining", "purpose"]
+    },
+    "for-039": {
+      "cluster": "excuses",
+      "voice": "Go back to it. You’ve repented before; you can again.",
+      "situation": "Being pulled back to a sin you’ve confessed many times.",
+      "tags": ["relapse", "repentance", "going back", "habit"]
+    },
+    "for-040": {
+      "cluster": "excuses",
+      "voice": "Remember that place, and what you did there?",
+      "situation": "Fond memories of places where you used to sin.",
+      "tags": ["memories", "nostalgia", "past", "places"]
+    },
+    "for-041": {
+      "cluster": "guard-down",
+      "voice": "I’ll just let the thoughts be. Fighting them is too much work.",
+      "situation": "Not wanting to hold your ground with prayer and discipline.",
+      "tags": ["resist", "discipline", "vigil", "prayer", "hold ground"]
+    },
+    "for-042": {
+      "cluster": "standing-firm",
+      "kind": "prayer",
+      "voice": "These thoughts have darkened me. Don’t look at me.",
+      "situation": "Shame over impure thoughts that linger.",
+      "tags": ["shame", "darkness", "lingering", "angels"],
+      "note": "Evagrius addresses this one to the holy angels."
+    },
+    "for-043": {
+      "cluster": "excuses",
+      "voice": "It’s only natural to fantasize. Nobody keeps their mind clean.",
+      "situation": "Believing a pure mind is unnatural.",
+      "tags": ["natural", "thoughts", "heart", "purity"]
+    },
+    "for-044": {
+      "cluster": "why",
+      "voice": "This temptation is so huge I can’t even believe it.",
+      "situation": "Shaken by the sheer size of a temptation.",
+      "tags": ["overwhelmed", "shock", "trial", "life"],
+      "lead": "greek"
+    },
+    "for-045": {
+      "cluster": "dread",
+      "voice": "It’s coming tonight, and your body will burn.",
+      "situation": "Dread of being physically overwhelmed by desire.",
+      "tags": ["dread", "body", "fear", "night"]
+    },
+    "for-046": {
+      "cluster": "why",
+      "voice": "God set you up for this slavery.",
+      "situation": "Blaming God for the bondage that desire has brought.",
+      "tags": ["blame", "God", "unfair", "slavery"],
+      "note": "Evagrius pictures lust as the taskmaster that made Israel gather straw instead of grain."
+    },
+    "for-047": {
+      "cluster": "why",
+      "kind": "self",
+      "voice": "Where are these burning thoughts even coming from?",
+      "situation": "Confused about the source of fiery temptations.",
+      "tags": ["source", "burning", "confusion", "enemy"],
+      "note": "Evagrius traces such thoughts to the fire-breathing beast of Job 41."
+    },
+    "for-048": {
+      "cluster": "guard-down",
+      "voice": "Fasting won’t weaken me. I’m stronger than your hunger.",
+      "situation": "Lust claiming that self-denial can’t touch it.",
+      "tags": ["fasting", "hunger", "resist", "discipline"],
+      "excerpt": { "from": "and I will kill your root" },
+      "greekExcerpt": { "from": "but he shall destroy" }
+    },
+    "for-049": {
+      "cluster": "excuses",
+      "voice": "Forget the fasting. Settle down and marry, and the struggle ends.",
+      "situation": "Using a different life as the excuse to stop resisting now.",
+      "tags": ["excuse", "marriage", "giving up", "vows"],
+      "note": "Evagrius wrote for monks who had vowed celibacy. The thought tempts by making the present struggle look pointless."
+    },
+    "for-050": {
+      "cluster": "excuses",
+      "voice": "Scripture says it’s fine, if you read it the right way.",
+      "situation": "Lust twisting Bible passages into permission.",
+      "tags": ["scripture", "twisting", "rationalizing", "deceit"]
+    },
+    "for-051": {
+      "cluster": "standing-firm",
+      "voice": "These thoughts just won’t go away.",
+      "situation": "Asking God to see your struggle with thoughts that persist.",
+      "tags": ["persistent", "prayer", "affliction", "help"]
+    },
+    "for-052": {
+      "cluster": "night-and-body",
+      "voice": "It came at night and twisted everything.",
+      "situation": "A disturbing temptation in the night, brought to God.",
+      "tags": ["night", "disturbing", "prayer", "dishonored"]
+    },
+    "for-053": {
+      "cluster": "night-and-body",
+      "voice": "I gave in to it in a dream. I’m unclean.",
+      "situation": "After falling in a dream, wanting to hide from God.",
+      "tags": ["dreams", "night", "shame", "prayer", "arise"]
+    },
+    "for-054": {
+      "cluster": "images",
+      "voice": "An obscene image is stamped on my mind.",
+      "situation": "A vivid image imprinted by desire, brought to God.",
+      "tags": ["image", "imprinted", "prayer", "fear not"]
+    },
+    "for-055": {
+      "cluster": "night-and-body",
+      "voice": "It’s in my body now, even when the thoughts stop.",
+      "situation": "Physical arousal that lingers after the thoughts have gone.",
+      "tags": ["body", "physical", "arousal", "persistence"],
+      "note": "Evagrius’s advice for these attacks: keep moving and praying, sleep little and eat lightly. Winning this fight brings lasting chastity."
+    },
+    "for-056": {
+      "cluster": "images",
+      "voice": "It’s just looking and imagining. I haven’t done anything.",
+      "situation": "Images in the mind pushing you toward sin.",
+      "tags": ["looking", "heart", "adultery", "lust", "imagination"]
+    },
+    "for-057": {
+      "cluster": "guard-down",
+      "voice": "I’m too tired to watch and pray tonight.",
+      "situation": "Tempted, and not wanting to stay alert in prayer.",
+      "tags": ["prayer", "watch", "tired", "weak flesh"]
+    },
+    "for-058": {
+      "cluster": "excuses",
+      "voice": "Go out and wander around. Just see what’s there.",
+      "situation": "Restless urges to hang around places of temptation.",
+      "tags": ["wandering", "places", "temptation", "browsing", "scrolling"],
+      "excerpt": { "to": "Don’t be deceived." }
+    },
+    "for-059": {
+      "cluster": "images",
+      "voice": "It’s only in your heart. It’s not real sin.",
+      "situation": "Treating inward lust as if God doesn’t see it.",
+      "tags": ["heart", "inward", "sin", "God sees"]
+    },
+    "for-060": {
+      "cluster": "images",
+      "voice": "Dreams by night, daydreams by day.",
+      "situation": "Impure images filling both your nights and your days.",
+      "tags": ["images", "dreams", "daydreams", "night", "day"]
+    },
+    "for-061": {
+      "cluster": "why",
+      "voice": "God is the one tempting you.",
+      "situation": "Blaming God for your temptations.",
+      "tags": ["blame", "God", "temptation", "source"],
+      "web": "JAM 1:13-14"
+    },
+    "for-062": {
+      "cluster": "why",
+      "voice": "I don’t know why I’m always under attack.",
+      "situation": "Not seeing how your own desires open the door to temptation.",
+      "tags": ["desires", "source", "conflict", "why"]
+    },
+    "for-063": {
+      "cluster": "night-and-body",
+      "voice": "This sudden fire in my body is unbearable.",
+      "situation": "Struggling to endure intense physical temptation.",
+      "tags": ["body", "fiery trial", "endurance", "suffering"]
+    },
+    "for-064": {
+      "cluster": "never-free",
+      "voice": "No one else struggles like I do.",
+      "situation": "Feeling alone in how hard you are tempted.",
+      "tags": ["alone", "isolation", "shame", "others", "struggle"]
+    },
+    "for-065": {
+      "cluster": "dread",
+      "voice": "You’re going to suffer horrors you can’t imagine.",
+      "situation": "Threats of terrible things to come if you keep resisting.",
+      "tags": ["threats", "fear", "dread", "deliver"]
+    }
+  }
+}

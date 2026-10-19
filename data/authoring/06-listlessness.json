@@ -1,0 +1,678 @@
+{
+  "thought": "listlessness",
+  "entries": {
+    "lis-001": {
+      "cluster": "somewhere-else",
+      "voice": "This work is so tedious. Find an easier job that pays better.",
+      "situation": "Restless dislike of your daily work, and the urge to switch to something easier.",
+      "tags": [
+        "work",
+        "job",
+        "boredom",
+        "career change",
+        "toil"
+      ]
+    },
+    "lis-002": {
+      "cluster": "complaining",
+      "voice": "Your leader is harsh and never shows anyone mercy.",
+      "situation": "Restlessness turning into criticism of the people in charge.",
+      "tags": [
+        "leaders",
+        "criticism",
+        "pastor",
+        "boss",
+        "slander"
+      ]
+    },
+    "lis-003": {
+      "cluster": "too-hard",
+      "voice": "Where’s the payoff? I should be seeing results by now.",
+      "situation": "Impatience for spiritual fruit that hasn’t come yet.",
+      "tags": [
+        "impatience",
+        "results",
+        "fruit",
+        "growth",
+        "persevere"
+      ],
+      "web": "NUM 13:20",
+      "greekRef": "NUM 13:20",
+      "excerpt": {
+        "from": "Be courageous",
+        "to": "fruit of the land."
+      },
+      "greekExcerpt": {
+        "from": "and ye shall persevere",
+        "to": "fruits of the land"
+      },
+      "showGreek": true
+    },
+    "lis-004": {
+      "cluster": "family-pull",
+      "voice": "The world looks more appealing than this.",
+      "situation": "Restlessness turning your heart back toward the world.",
+      "tags": [
+        "worldliness",
+        "distraction",
+        "wholehearted",
+        "love God"
+      ]
+    },
+    "lis-005": {
+      "cluster": "cant-focus",
+      "voice": "You don’t need to read Scripture. Some saints barely knew any.",
+      "situation": "Excusing yourself from reading and learning God’s word.",
+      "tags": [
+        "Bible reading",
+        "excuses",
+        "study",
+        "laziness"
+      ]
+    },
+    "lis-006": {
+      "cluster": "too-hard",
+      "voice": "I feel a little unwell, so nothing’s worth doing.",
+      "situation": "A minor ailment draining all your motivation.",
+      "tags": [
+        "illness",
+        "minor ailment",
+        "motivation",
+        "apathy"
+      ]
+    },
+    "lis-007": {
+      "cluster": "family-pull",
+      "voice": "I miss my family. This restlessness is stronger than me.",
+      "situation": "Homesick and convinced you can’t beat the restlessness.",
+      "tags": [
+        "homesick",
+        "family",
+        "defeat",
+        "restlessness"
+      ]
+    },
+    "lis-008": {
+      "cluster": "cant-focus",
+      "voice": "Skip the reading. Just ask God to teach you directly.",
+      "situation": "Avoiding Scripture with a spiritual-sounding excuse.",
+      "tags": [
+        "Bible reading",
+        "meditation",
+        "excuses",
+        "shortcut"
+      ]
+    },
+    "lis-009": {
+      "cluster": "complaining",
+      "voice": "Why does God let me be tested like this, irritated by everyone?",
+      "situation": "Asking why God allows the trials that make you irritable and sad.",
+      "tags": [
+        "why",
+        "testing",
+        "irritable",
+        "others"
+      ],
+      "excerpt": {
+        "from": "that by them I may test Israel",
+        "to": "to teach them war"
+      }
+    },
+    "lis-010": {
+      "cluster": "heavy",
+      "voice": "I won’t cry. Tears won’t help.",
+      "situation": "A hardened heart that refuses the relief of tears.",
+      "tags": [
+        "tears",
+        "crying",
+        "night",
+        "hardened",
+        "grief"
+      ],
+      "note": "Evagrius calls tears a great remedy for restless, troubled nights."
+    },
+    "lis-011": {
+      "cluster": "heavy",
+      "voice": "This restlessness won’t leave me.",
+      "situation": "Persistent listlessness, brought to God.",
+      "tags": [
+        "persistent",
+        "restless",
+        "affliction",
+        "forgiveness"
+      ]
+    },
+    "lis-012": {
+      "cluster": "too-hard",
+      "voice": "There’s nothing left to hope for.",
+      "situation": "Restlessness draining your hope.",
+      "tags": [
+        "hope",
+        "hopeless",
+        "goodness",
+        "future"
+      ]
+    },
+    "lis-013": {
+      "cluster": "cant-focus",
+      "voice": "Why praise God? Nothing’s happening.",
+      "situation": "Grumbling that silences your praise.",
+      "tags": [
+        "praise",
+        "grumbling",
+        "worship",
+        "silence"
+      ]
+    },
+    "lis-014": {
+      "cluster": "too-hard",
+      "voice": "This way of life is too hard. No one could keep it up.",
+      "situation": "Hope fading as the life of faith looks unbearably hard.",
+      "tags": [
+        "too hard",
+        "endurance",
+        "faithful",
+        "hope"
+      ]
+    },
+    "lis-015": {
+      "cluster": "somewhere-else",
+      "voice": "Move somewhere else. Anywhere would be better.",
+      "situation": "The restless urge to move to a new place.",
+      "tags": [
+        "move",
+        "relocate",
+        "restless",
+        "wait"
+      ]
+    },
+    "lis-016": {
+      "cluster": "cant-focus",
+      "voice": "When I pray, everything feels dim and unsteady.",
+      "situation": "Restlessness clouding your mind’s clarity in prayer.",
+      "tags": [
+        "prayer",
+        "clarity",
+        "dim",
+        "unsettled",
+        "light"
+      ],
+      "note": "Evagrius once asked John of Thebes where the light seen in prayer comes from. Only God’s grace can illumine the mind, John answered."
+    },
+    "lis-017": {
+      "cluster": "endure",
+      "voice": "Even the angels have stepped away from me.",
+      "situation": "Feeling left alone and exposed to temptation.",
+      "tags": [
+        "alone",
+        "abandoned",
+        "exposed",
+        "friends"
+      ]
+    },
+    "lis-018": {
+      "cluster": "too-hard",
+      "voice": "You’ve waited long enough. God isn’t going to answer.",
+      "situation": "Losing patience while waiting for God’s mercy.",
+      "tags": [
+        "waiting",
+        "patience",
+        "prayer",
+        "unanswered"
+      ]
+    },
+    "lis-019": {
+      "cluster": "heavy",
+      "voice": "Crying won’t do any good.",
+      "situation": "Doubting the value of tears in a time of struggle.",
+      "tags": [
+        "tears",
+        "crying",
+        "struggle",
+        "where is God"
+      ]
+    },
+    "lis-020": {
+      "cluster": "heavy",
+      "voice": "Everything feels gray and sad.",
+      "situation": "Restlessness sliding into sadness.",
+      "tags": [
+        "sadness",
+        "despair",
+        "hope in God",
+        "soul"
+      ],
+      "note": "Elsewhere Evagrius advises dividing the soul in two, one part comforting the other, using exactly this verse."
+    },
+    "lis-021": {
+      "cluster": "heavy",
+      "voice": "It’s fighting me all day long.",
+      "situation": "All-day restlessness and struggle, brought to God.",
+      "tags": [
+        "all day",
+        "struggle",
+        "mercy",
+        "oppression"
+      ]
+    },
+    "lis-022": {
+      "cluster": "endure",
+      "voice": "The anger and the cravings have finally gone quiet.",
+      "situation": "Thanksgiving when anger and desire let go of you.",
+      "tags": [
+        "thanksgiving",
+        "freedom",
+        "relief",
+        "fire and water"
+      ]
+    },
+    "lis-023": {
+      "cluster": "family-pull",
+      "voice": "They got promoted and became powerful. And me?",
+      "situation": "Restless envy when a peer or relative gets ahead.",
+      "tags": [
+        "envy",
+        "promotion",
+        "success",
+        "comparison",
+        "status"
+      ]
+    },
+    "lis-024": {
+      "cluster": "somewhere-else",
+      "voice": "Go visit someone. You need cheering up.",
+      "situation": "Escaping restlessness by looking for distraction in company.",
+      "tags": [
+        "distraction",
+        "visiting",
+        "comfort",
+        "escape",
+        "social"
+      ],
+      "lead": "greek"
+    },
+    "lis-025": {
+      "cluster": "too-hard",
+      "voice": "Years and years of this miserable life stretch ahead.",
+      "situation": "Dreading a long, dreary future.",
+      "tags": [
+        "future",
+        "long life",
+        "dread",
+        "grass",
+        "short"
+      ]
+    },
+    "lis-026": {
+      "cluster": "somewhere-else",
+      "voice": "This place is unhealthy. You need a new one.",
+      "situation": "Finding fault with where you live as an excuse to move.",
+      "tags": [
+        "home",
+        "move",
+        "excuses",
+        "dwelling",
+        "rest"
+      ],
+      "web": "PSA 132:14"
+    },
+    "lis-027": {
+      "cluster": "heavy",
+      "voice": "My thoughts hound me and frighten me.",
+      "situation": "Persecuting, frightening thoughts, brought to God.",
+      "tags": [
+        "anxiety",
+        "thoughts",
+        "darkness",
+        "overwhelmed"
+      ]
+    },
+    "lis-028": {
+      "cluster": "cant-focus",
+      "voice": "Lean back and nap. The work can wait.",
+      "situation": "Dodging work and drifting into sleep.",
+      "tags": [
+        "sleep",
+        "nap",
+        "laziness",
+        "procrastination",
+        "work"
+      ]
+    },
+    "lis-029": {
+      "cluster": "cant-focus",
+      "voice": "Skip the hard parts of obeying God.",
+      "situation": "Neglecting the effort that faithfulness takes.",
+      "tags": [
+        "effort",
+        "obedience",
+        "commandments",
+        "neglect"
+      ]
+    },
+    "lis-030": {
+      "cluster": "complaining",
+      "voice": "There’s no love in this community. Nobody comforts anyone.",
+      "situation": "Complaining about others as an excuse to pull away.",
+      "tags": [
+        "community",
+        "church",
+        "complaining",
+        "isolation",
+        "excuses"
+      ],
+      "lead": "greek"
+    },
+    "lis-031": {
+      "cluster": "heavy",
+      "voice": "This restlessness makes me so sad.",
+      "situation": "Saddened by a season of listlessness.",
+      "tags": [
+        "sad",
+        "discipline",
+        "healing",
+        "deliverance"
+      ]
+    },
+    "lis-032": {
+      "cluster": "too-hard",
+      "voice": "Old age, poverty and disease are all waiting for you.",
+      "situation": "Picturing a long, lonely, sick old age.",
+      "tags": [
+        "old age",
+        "poverty",
+        "disease",
+        "future",
+        "fear"
+      ]
+    },
+    "lis-033": {
+      "cluster": "somewhere-else",
+      "voice": "Somewhere else, life would be easier and you could help more people.",
+      "situation": "Imagining an easier, more fruitful life in another place.",
+      "tags": [
+        "elsewhere",
+        "easier",
+        "greener grass",
+        "move"
+      ],
+      "excerpt": {
+        "to": "shadow of death;"
+      }
+    },
+    "lis-034": {
+      "cluster": "heavy",
+      "voice": "Nobody sees what I’m going through.",
+      "situation": "Feeling that your struggle is invisible.",
+      "tags": [
+        "unseen",
+        "alone",
+        "struggle",
+        "God sees"
+      ],
+      "lead": "greek"
+    },
+    "lis-035": {
+      "cluster": "family-pull",
+      "voice": "People in the world have it good. Lucky them.",
+      "situation": "Envying people whose lives revolve around the world.",
+      "tags": [
+        "envy",
+        "worldly",
+        "comparison",
+        "lucky"
+      ]
+    },
+    "lis-036": {
+      "cluster": "too-hard",
+      "voice": "I’m sick, and I’ve lost all will to keep going.",
+      "situation": "Illness bringing on listlessness.",
+      "tags": [
+        "illness",
+        "sickness",
+        "apathy",
+        "endurance"
+      ]
+    },
+    "lis-037": {
+      "cluster": "cant-focus",
+      "voice": "I’m so sluggish I can barely move.",
+      "situation": "Crushed under sloth and listlessness, crying out.",
+      "tags": [
+        "sloth",
+        "sluggish",
+        "crushed",
+        "enemies"
+      ]
+    },
+    "lis-038": {
+      "cluster": "heavy",
+      "voice": "I’m worn out, weepy, and out of hope.",
+      "situation": "Exhausted and tearful after a long season of listlessness.",
+      "tags": [
+        "exhausted",
+        "tears",
+        "hopeless",
+        "reward",
+        "hope"
+      ]
+    },
+    "lis-039": {
+      "cluster": "family-pull",
+      "voice": "Take a break. Go home for a while.",
+      "situation": "Restlessness pushing you to take a long break from your commitments.",
+      "tags": [
+        "break",
+        "home",
+        "visit",
+        "endurance"
+      ]
+    },
+    "lis-040": {
+      "cluster": "too-hard",
+      "voice": "This life is all hardship and labor.",
+      "situation": "Focusing only on how hard the life of faith is.",
+      "tags": [
+        "hardship",
+        "waiting",
+        "hope",
+        "quietly wait"
+      ]
+    },
+    "lis-041": {
+      "cluster": "too-hard",
+      "voice": "You could be just as holy without all this commitment.",
+      "situation": "Thinking you can grow without the yoke of commitment.",
+      "tags": [
+        "commitment",
+        "yoke",
+        "discipline",
+        "shortcuts"
+      ],
+      "web": "LAM 3:27-31"
+    },
+    "lis-042": {
+      "cluster": "heavy",
+      "voice": "This restlessness has grown too strong for me.",
+      "situation": "Overpowered by listlessness and crying out for mercy.",
+      "tags": [
+        "overpowered",
+        "mercy",
+        "covenant",
+        "prayer"
+      ]
+    },
+    "lis-043": {
+      "cluster": "family-pull",
+      "voice": "Go visit your father. It’s your duty.",
+      "situation": "Using family duty as an exit from your calling.",
+      "tags": [
+        "family",
+        "duty",
+        "calling",
+        "excuse"
+      ],
+      "note": "Evagrius wrote for monks who had left home. The thought uses a real duty as a way out of a calling."
+    },
+    "lis-044": {
+      "cluster": "family-pull",
+      "voice": "I want to go back to my family.",
+      "situation": "Longing to return to the relatives you left.",
+      "tags": [
+        "family",
+        "homesick",
+        "leaving",
+        "reward"
+      ]
+    },
+    "lis-045": {
+      "cluster": "family-pull",
+      "voice": "Surely Jesus doesn’t ask me to put him above my family.",
+      "situation": "Struggling with Christ’s call to love him above family.",
+      "tags": [
+        "family",
+        "discipleship",
+        "cost",
+        "priority"
+      ]
+    },
+    "lis-046": {
+      "cluster": "family-pull",
+      "voice": "Your family says you only turned to God because you failed.",
+      "situation": "Stung by relatives who question your motives for faith.",
+      "tags": [
+        "family",
+        "judgment",
+        "motives",
+        "failure",
+        "obey God"
+      ]
+    },
+    "lis-047": {
+      "cluster": "endure",
+      "voice": "With all these troubles, why bother?",
+      "situation": "Hardship breeding listlessness.",
+      "tags": [
+        "troubles",
+        "hardship",
+        "endurance",
+        "prayer"
+      ]
+    },
+    "lis-048": {
+      "cluster": "complaining",
+      "voice": "Complain. Things are terrible here.",
+      "situation": "Restlessness turning into grumbling.",
+      "tags": [
+        "grumbling",
+        "complaining",
+        "discontent"
+      ]
+    },
+    "lis-049": {
+      "cluster": "endure",
+      "voice": "No one has suffered the way I’m suffering.",
+      "situation": "Sad, and forgetting what others like Paul endured.",
+      "tags": [
+        "suffering",
+        "perspective",
+        "Paul",
+        "endurance"
+      ],
+      "excerpt": {
+        "from": "in labors more abundantly",
+        "to": "cold and nakedness."
+      }
+    },
+    "lis-050": {
+      "cluster": "complaining",
+      "voice": "Why be grateful for these people?",
+      "situation": "Unthankful for the community and mentors around you.",
+      "tags": [
+        "gratitude",
+        "community",
+        "thankless",
+        "others"
+      ]
+    },
+    "lis-051": {
+      "cluster": "endure",
+      "voice": "Suffering for Christ is just a burden.",
+      "situation": "Not seeing that suffering for Christ is a gift.",
+      "tags": [
+        "suffering",
+        "gift",
+        "Christ",
+        "meaning"
+      ]
+    },
+    "lis-052": {
+      "cluster": "somewhere-else",
+      "voice": "Give it up. Walk away from this path.",
+      "situation": "Wanting to abandon your path and your place.",
+      "tags": [
+        "quit",
+        "give up",
+        "endurance",
+        "walk away",
+        "shrink back"
+      ]
+    },
+    "lis-053": {
+      "cluster": "family-pull",
+      "voice": "Go back to the city and see everyone you love.",
+      "situation": "Longing for the city and your old life.",
+      "tags": [
+        "city",
+        "home",
+        "nostalgia",
+        "lasting city"
+      ]
+    },
+    "lis-054": {
+      "cluster": "heavy",
+      "voice": "I’m being punished. That’s why I feel like this.",
+      "situation": "Believing your heaviness is a punishment.",
+      "tags": [
+        "punishment",
+        "suffering",
+        "faithful",
+        "trials"
+      ]
+    },
+    "lis-055": {
+      "cluster": "complaining",
+      "voice": "The leaders here are cold. Why listen to them?",
+      "situation": "Fed up with your leaders and unwilling to follow them.",
+      "tags": [
+        "leaders",
+        "authority",
+        "submission",
+        "criticism"
+      ]
+    },
+    "lis-056": {
+      "cluster": "heavy",
+      "voice": "This heaviness has changed me for the worse.",
+      "situation": "Saddened by how long listlessness has lingered.",
+      "tags": [
+        "endurance",
+        "trials",
+        "joy",
+        "perseverance"
+      ]
+    },
+    "lis-057": {
+      "cluster": "somewhere-else",
+      "voice": "I keep bouncing from place to place and person to person.",
+      "situation": "Restlessly driven from place to place, worn out and humiliated.",
+      "tags": [
+        "restless",
+        "unsettled",
+        "wandering",
+        "endure",
+        "crown"
+      ]
+    }
+  }
+}

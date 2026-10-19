@@ -1,0 +1,4448 @@
+[
+ {
+  "id": "glu-001",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "1",
+  "kind": "rebuke",
+  "lxxRef": "Gen 49:14-15",
+  "section": "Book of Genesis"
+ },
+ {
+  "id": "glu-002",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "2",
+  "kind": "rebuke",
+  "lxxRef": "Exod 38:26",
+  "section": "Exodus"
+ },
+ {
+  "id": "glu-003",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "3",
+  "kind": "rebuke",
+  "lxxRef": "Num 11:18-20",
+  "section": "Numbers"
+ },
+ {
+  "id": "glu-004",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "4",
+  "kind": "rebuke",
+  "lxxRef": "Deut 6:11-12",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "glu-005",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "5",
+  "kind": "rebuke",
+  "lxxRef": "Deut 30:11",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "glu-006",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "6",
+  "kind": "rebuke",
+  "lxxRef": "Deut 32:15",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "glu-007",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "7",
+  "kind": "rebuke",
+  "lxxRef": "2 Kgdms 3:35",
+  "section": "Samuel"
+ },
+ {
+  "id": "glu-008",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "8",
+  "kind": "rebuke",
+  "lxxRef": "3 Kgdms 17:14",
+  "section": "Book of Kings"
+ },
+ {
+  "id": "glu-009",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "9",
+  "kind": "self",
+  "lxxRef": "3 Kgdms 22:26-27",
+  "section": "Book of Kings"
+ },
+ {
+  "id": "glu-010",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "10",
+  "kind": "rebuke",
+  "lxxRef": "4 Kgdms 4:43-44",
+  "section": "Book of Kings"
+ },
+ {
+  "id": "glu-011",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "11",
+  "kind": "rebuke",
+  "lxxRef": "Ps 22:1",
+  "section": "David"
+ },
+ {
+  "id": "glu-012",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "12",
+  "kind": "rebuke",
+  "lxxRef": "Ps 36:25",
+  "section": "David"
+ },
+ {
+  "id": "glu-013",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "13",
+  "kind": "rebuke",
+  "lxxRef": "Ps 37:19",
+  "section": "David"
+ },
+ {
+  "id": "glu-014",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "14",
+  "kind": "rebuke",
+  "lxxRef": "Ps 48:10",
+  "section": "David"
+ },
+ {
+  "id": "glu-015",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "15",
+  "kind": "rebuke",
+  "lxxRef": "Ps 50:19",
+  "section": "David"
+ },
+ {
+  "id": "glu-016",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "16",
+  "kind": "rebuke",
+  "lxxRef": "Ps 54:23",
+  "section": "David"
+ },
+ {
+  "id": "glu-017",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "17",
+  "kind": "rebuke",
+  "lxxRef": "Ps 101:8",
+  "section": "David"
+ },
+ {
+  "id": "glu-018",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "18",
+  "kind": "rebuke",
+  "lxxRef": "Ps 108:24",
+  "section": "David"
+ },
+ {
+  "id": "glu-019",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "19",
+  "kind": "rebuke",
+  "lxxRef": "Ps 117:17",
+  "section": "David"
+ },
+ {
+  "id": "glu-020",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "20",
+  "kind": "rebuke",
+  "lxxRef": "Ps 131:3-5",
+  "section": "David"
+ },
+ {
+  "id": "glu-021",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "21",
+  "kind": "rebuke",
+  "lxxRef": "Prov 10:3",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "glu-022",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "22",
+  "kind": "rebuke",
+  "lxxRef": "Prov 12:11a",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "glu-023",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "23",
+  "kind": "rebuke",
+  "lxxRef": "Prov 14:23",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "glu-024",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "24",
+  "kind": "rebuke",
+  "lxxRef": "Prov 17:1",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "glu-025",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "25",
+  "kind": "rebuke",
+  "lxxRef": "Prov 19:10",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "glu-026",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "26",
+  "kind": "rebuke",
+  "lxxRef": "Prov 20:1",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "glu-027",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "27",
+  "kind": "rebuke",
+  "lxxRef": "Prov 20:25",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "glu-028",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "28",
+  "kind": "rebuke",
+  "lxxRef": "Prov 22:9",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "glu-029",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "29",
+  "kind": "rebuke",
+  "lxxRef": "Prov 23:20-21",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "glu-030",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "30",
+  "kind": "rebuke",
+  "lxxRef": "Prov 23:31-32",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "glu-031",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "31",
+  "kind": "rebuke",
+  "lxxRef": null,
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "glu-032",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "32",
+  "kind": "rebuke",
+  "lxxRef": "Sir 4:21",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "glu-033",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "33",
+  "kind": "rebuke",
+  "lxxRef": "Prov 26:24",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "glu-034",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "34",
+  "kind": "rebuke",
+  "lxxRef": "Prov 27:6",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "glu-035",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "35",
+  "kind": "rebuke",
+  "lxxRef": "Qo 3:11",
+  "section": "Qoheleth"
+ },
+ {
+  "id": "glu-036",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "36",
+  "kind": "rebuke",
+  "lxxRef": "Qo 7:2",
+  "section": "Qoheleth"
+ },
+ {
+  "id": "glu-037",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "37",
+  "kind": "rebuke",
+  "lxxRef": "Qo 7:16",
+  "section": "Qoheleth"
+ },
+ {
+  "id": "glu-038",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "38",
+  "kind": "rebuke",
+  "lxxRef": "Job 2:10",
+  "section": "Job"
+ },
+ {
+  "id": "glu-039",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "39",
+  "kind": "self",
+  "lxxRef": "Mic 2:10",
+  "section": "Micah"
+ },
+ {
+  "id": "glu-040",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "40",
+  "kind": "rebuke",
+  "lxxRef": "Hab 3:18",
+  "section": "Habakkuk"
+ },
+ {
+  "id": "glu-041",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "41",
+  "kind": "rebuke",
+  "lxxRef": "Isa 5:20",
+  "section": "Isaiah"
+ },
+ {
+  "id": "glu-042",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "42",
+  "kind": "self",
+  "lxxRef": "Isa 30:20-21",
+  "section": "Isaiah"
+ },
+ {
+  "id": "glu-043",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "43",
+  "kind": "prayer",
+  "lxxRef": "Jer 15:15",
+  "section": "Jeremiah"
+ },
+ {
+  "id": "glu-044",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "44",
+  "kind": "prayer",
+  "lxxRef": "Lam 1:20",
+  "section": "Jeremiah"
+ },
+ {
+  "id": "glu-045",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "45",
+  "kind": "self",
+  "lxxRef": "Dan 1:11-16",
+  "section": "Daniel"
+ },
+ {
+  "id": "glu-046",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "46",
+  "kind": "self",
+  "lxxRef": "Matt 4:1-2",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "glu-047",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "47",
+  "kind": "rebuke",
+  "lxxRef": "Matt 6:25",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "glu-048",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "48",
+  "kind": "self",
+  "lxxRef": "Matt 7:14",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "glu-049",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "49",
+  "kind": "rebuke",
+  "lxxRef": "Luke 3:11",
+  "section": "Gospel of Luke"
+ },
+ {
+  "id": "glu-050",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "50",
+  "kind": "self",
+  "lxxRef": "Acts 2:44-45",
+  "section": "Acts"
+ },
+ {
+  "id": "glu-051",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "51",
+  "kind": "self",
+  "lxxRef": "Acts 14:22",
+  "section": "Acts"
+ },
+ {
+  "id": "glu-052",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "52",
+  "kind": "rebuke",
+  "lxxRef": "Rom 13:14",
+  "section": "Acts"
+ },
+ {
+  "id": "glu-053",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "53",
+  "kind": "rebuke",
+  "lxxRef": "Rom 14:2",
+  "section": "Acts"
+ },
+ {
+  "id": "glu-054",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "54",
+  "kind": "rebuke",
+  "lxxRef": "1 Cor 9:25",
+  "section": "First Letter to the Corinthians"
+ },
+ {
+  "id": "glu-055",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "55",
+  "kind": "rebuke",
+  "lxxRef": "2 Cor 4:8-10",
+  "section": "Second Letter to the Corinthians"
+ },
+ {
+  "id": "glu-056",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "56",
+  "kind": "rebuke",
+  "lxxRef": "2 Cor 4:16",
+  "section": "Second Letter to the Corinthians"
+ },
+ {
+  "id": "glu-057",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "57",
+  "kind": "rebuke",
+  "lxxRef": "2 Cor 5:1",
+  "section": "Second Letter to the Corinthians"
+ },
+ {
+  "id": "glu-058",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "58",
+  "kind": "rebuke",
+  "lxxRef": "2 Cor 9:7; Prov 22:8-9",
+  "section": "Second Letter to the Corinthians"
+ },
+ {
+  "id": "glu-059",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "59",
+  "kind": "rebuke",
+  "lxxRef": "2 Cor 12:10",
+  "section": "Second Letter to the Corinthians"
+ },
+ {
+  "id": "glu-060",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "60",
+  "kind": "rebuke",
+  "lxxRef": "Eph 5:18-19",
+  "section": "Letter to the Ephesians"
+ },
+ {
+  "id": "glu-061",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "61",
+  "kind": "rebuke",
+  "lxxRef": "Phil 4:5-6",
+  "section": "Letter to the Philippians"
+ },
+ {
+  "id": "glu-062",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "62",
+  "kind": "rebuke",
+  "lxxRef": "Phil 4:12-13",
+  "section": "Letter to the Philippians"
+ },
+ {
+  "id": "glu-063",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "63",
+  "kind": "rebuke",
+  "lxxRef": "1 Thess 4:10-12",
+  "section": "First Letter to the Thessalonians"
+ },
+ {
+  "id": "glu-064",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "64",
+  "kind": "rebuke",
+  "lxxRef": "2 Thess 3:10",
+  "section": "Second Letter to the Thessalonians"
+ },
+ {
+  "id": "glu-065",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "65",
+  "kind": "rebuke",
+  "lxxRef": "Heb 12:11",
+  "section": "Letter to the Hebrews"
+ },
+ {
+  "id": "glu-066",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "66",
+  "kind": "rebuke",
+  "lxxRef": "Heb 13:16",
+  "section": "Letter to the Hebrews"
+ },
+ {
+  "id": "glu-067",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "67",
+  "kind": "rebuke",
+  "lxxRef": "1 Tim 5:22-23",
+  "section": "First Letter to Timothy"
+ },
+ {
+  "id": "glu-068",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "68",
+  "kind": "rebuke",
+  "lxxRef": "Jas 4:4",
+  "section": "Letter of James"
+ },
+ {
+  "id": "glu-069",
+  "thought": "gluttony",
+  "book": 1,
+  "n": "69",
+  "kind": "rebuke",
+  "lxxRef": "1 John 5:3-4",
+  "section": "Letter of John"
+ },
+ {
+  "id": "for-001",
+  "thought": "fornication",
+  "book": 2,
+  "n": "1",
+  "kind": "rebuke",
+  "lxxRef": "Exod 20:17",
+  "section": "Exodus"
+ },
+ {
+  "id": "for-002",
+  "thought": "fornication",
+  "book": 2,
+  "n": "2",
+  "kind": "rebuke",
+  "lxxRef": "Exod 23:22-23",
+  "section": "Exodus"
+ },
+ {
+  "id": "for-003",
+  "thought": "fornication",
+  "book": 2,
+  "n": "3",
+  "kind": "rebuke",
+  "lxxRef": "Exod 23:29-30",
+  "section": "Exodus"
+ },
+ {
+  "id": "for-004",
+  "thought": "fornication",
+  "book": 2,
+  "n": "4",
+  "kind": "rebuke",
+  "lxxRef": "Exod 30:14",
+  "section": "Exodus"
+ },
+ {
+  "id": "for-005",
+  "thought": "fornication",
+  "book": 2,
+  "n": "5",
+  "kind": "rebuke",
+  "lxxRef": "Exod 32:33",
+  "section": "Exodus"
+ },
+ {
+  "id": "for-006",
+  "thought": "fornication",
+  "book": 2,
+  "n": "6",
+  "kind": "self",
+  "lxxRef": "Deut 6:3",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "for-007",
+  "thought": "fornication",
+  "book": 2,
+  "n": "7",
+  "kind": "rebuke",
+  "lxxRef": "Deut 6:13",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "for-008",
+  "thought": "fornication",
+  "book": 2,
+  "n": "8",
+  "kind": "self",
+  "lxxRef": "Deut 7:17-18",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "for-009",
+  "thought": "fornication",
+  "book": 2,
+  "n": "9",
+  "kind": "rebuke",
+  "lxxRef": "Deut 9:3",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "for-010",
+  "thought": "fornication",
+  "book": 2,
+  "n": "10",
+  "kind": "rebuke",
+  "lxxRef": "Deut 12:8-9",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "for-011",
+  "thought": "fornication",
+  "book": 2,
+  "n": "11",
+  "kind": "self",
+  "lxxRef": "Deut 33:29",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "for-012",
+  "thought": "fornication",
+  "book": 2,
+  "n": "12",
+  "kind": "self",
+  "lxxRef": "Judg 4:14",
+  "section": "Judges"
+ },
+ {
+  "id": "for-013",
+  "thought": "fornication",
+  "book": 2,
+  "n": "13",
+  "kind": "self",
+  "lxxRef": "Judg 16:20-21",
+  "section": "Judges"
+ },
+ {
+  "id": "for-014",
+  "thought": "fornication",
+  "book": 2,
+  "n": "14",
+  "kind": "rebuke",
+  "lxxRef": "1 Kgdms 2:1",
+  "section": "Samuel"
+ },
+ {
+  "id": "for-015",
+  "thought": "fornication",
+  "book": 2,
+  "n": "15",
+  "kind": "rebuke",
+  "lxxRef": "1 Kgdms 2:4-5",
+  "section": "Samuel"
+ },
+ {
+  "id": "for-016",
+  "thought": "fornication",
+  "book": 2,
+  "n": "16",
+  "kind": "self",
+  "lxxRef": "1 Kgdms 11:1-2",
+  "section": "Samuel"
+ },
+ {
+  "id": "for-017",
+  "thought": "fornication",
+  "book": 2,
+  "n": "17",
+  "kind": "rebuke",
+  "lxxRef": "3 Kgdms 20:3",
+  "section": "Book of Kings"
+ },
+ {
+  "id": "for-018",
+  "thought": "fornication",
+  "book": 2,
+  "n": "18",
+  "kind": "self",
+  "lxxRef": "2 Chr 36:4a",
+  "section": "Book of Chronicles"
+ },
+ {
+  "id": "for-019",
+  "thought": "fornication",
+  "book": 2,
+  "n": "19",
+  "kind": "prayer",
+  "lxxRef": "2 Esd 9:6-7",
+  "section": "Ezra"
+ },
+ {
+  "id": "for-020",
+  "thought": "fornication",
+  "book": 2,
+  "n": "20",
+  "kind": "self",
+  "lxxRef": "2 Esd 9:11",
+  "section": "Ezra"
+ },
+ {
+  "id": "for-021",
+  "thought": "fornication",
+  "book": 2,
+  "n": "21",
+  "kind": "prayer",
+  "lxxRef": "Ps 3:2-4",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "for-022",
+  "thought": "fornication",
+  "book": 2,
+  "n": "22",
+  "kind": "self",
+  "lxxRef": "Ps 4:5; cf. Eph 4:26",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "for-023",
+  "thought": "fornication",
+  "book": 2,
+  "n": "23",
+  "kind": "rebuke",
+  "lxxRef": "Ps 6:9-10",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "for-024",
+  "thought": "fornication",
+  "book": 2,
+  "n": "24",
+  "kind": "prayer",
+  "lxxRef": "Ps 9:7-8",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "for-025",
+  "thought": "fornication",
+  "book": 2,
+  "n": "25",
+  "kind": "prayer",
+  "lxxRef": "Ps 12:4-5",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "for-026",
+  "thought": "fornication",
+  "book": 2,
+  "n": "26",
+  "kind": "self",
+  "lxxRef": "Ps 17:43",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "for-027",
+  "thought": "fornication",
+  "book": 2,
+  "n": "27",
+  "kind": "prayer",
+  "lxxRef": "Ps 29:12-13",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "for-028",
+  "thought": "fornication",
+  "book": 2,
+  "n": "28",
+  "kind": "rebuke",
+  "lxxRef": "Ps 34:4",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "for-029",
+  "thought": "fornication",
+  "book": 2,
+  "n": "29",
+  "kind": "rebuke",
+  "lxxRef": "Ps 34:5-6",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "for-030",
+  "thought": "fornication",
+  "book": 2,
+  "n": "30",
+  "kind": "self",
+  "lxxRef": "Ps 34:13",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "for-031",
+  "thought": "fornication",
+  "book": 2,
+  "n": "31",
+  "kind": "self",
+  "lxxRef": "Ps 36:10",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "for-032",
+  "thought": "fornication",
+  "book": 2,
+  "n": "32",
+  "kind": "rebuke",
+  "lxxRef": "Ps 51:7",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "for-033",
+  "thought": "fornication",
+  "book": 2,
+  "n": "33",
+  "kind": "rebuke",
+  "lxxRef": "Ps 128:5-6",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "for-034",
+  "thought": "fornication",
+  "book": 2,
+  "n": "34",
+  "kind": "rebuke",
+  "lxxRef": "Prov 1:26-27",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "for-035",
+  "thought": "fornication",
+  "book": 2,
+  "n": "35",
+  "kind": "rebuke",
+  "lxxRef": "Prov 5:20",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "for-036",
+  "thought": "fornication",
+  "book": 2,
+  "n": "36",
+  "kind": "self",
+  "lxxRef": "Prov 6:25-26",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "for-037",
+  "thought": "fornication",
+  "book": 2,
+  "n": "37",
+  "kind": "rebuke",
+  "lxxRef": "Prov 6:27-29",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "for-038",
+  "thought": "fornication",
+  "book": 2,
+  "n": "38",
+  "kind": "self",
+  "lxxRef": "Prov 17:3",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "for-039",
+  "thought": "fornication",
+  "book": 2,
+  "n": "39",
+  "kind": "rebuke",
+  "lxxRef": "Prov 26:11",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "for-040",
+  "thought": "fornication",
+  "book": 2,
+  "n": "40",
+  "kind": "rebuke",
+  "lxxRef": "Qo 7:4",
+  "section": "Qoheleth"
+ },
+ {
+  "id": "for-041",
+  "thought": "fornication",
+  "book": 2,
+  "n": "41",
+  "kind": "self",
+  "lxxRef": "Qo 10:4",
+  "section": "Qoheleth"
+ },
+ {
+  "id": "for-042",
+  "thought": "fornication",
+  "book": 2,
+  "n": "42",
+  "kind": "rebuke",
+  "lxxRef": "Song 1:6",
+  "section": "Song of Songs"
+ },
+ {
+  "id": "for-043",
+  "thought": "fornication",
+  "book": 2,
+  "n": "43",
+  "kind": "self",
+  "lxxRef": "Job 1:5",
+  "section": "Job"
+ },
+ {
+  "id": "for-044",
+  "thought": "fornication",
+  "book": 2,
+  "n": "44",
+  "kind": "self",
+  "lxxRef": "Job 7:1",
+  "section": "Job"
+ },
+ {
+  "id": "for-045",
+  "thought": "fornication",
+  "book": 2,
+  "n": "45",
+  "kind": "rebuke",
+  "lxxRef": "Job 5:14",
+  "section": "Job"
+ },
+ {
+  "id": "for-046",
+  "thought": "fornication",
+  "book": 2,
+  "n": "46",
+  "kind": "rebuke",
+  "lxxRef": "Job 34:10-11",
+  "section": "Job"
+ },
+ {
+  "id": "for-047",
+  "thought": "fornication",
+  "book": 2,
+  "n": "47",
+  "kind": "rebuke",
+  "lxxRef": "Job 41:11",
+  "section": "Job"
+ },
+ {
+  "id": "for-048",
+  "thought": "fornication",
+  "book": 2,
+  "n": "48",
+  "kind": "rebuke",
+  "lxxRef": "Isa 14:30",
+  "section": "Isaiah"
+ },
+ {
+  "id": "for-049",
+  "thought": "fornication",
+  "book": 2,
+  "n": "49",
+  "kind": "rebuke",
+  "lxxRef": "Isa 32:6",
+  "section": "Isaiah"
+ },
+ {
+  "id": "for-050",
+  "thought": "fornication",
+  "book": 2,
+  "n": "50",
+  "kind": "prayer",
+  "lxxRef": "Jer 20:12",
+  "section": "Jeremiah"
+ },
+ {
+  "id": "for-051",
+  "thought": "fornication",
+  "book": 2,
+  "n": "51",
+  "kind": "prayer",
+  "lxxRef": "Lam 1:9",
+  "section": "Lamentations of Jeremiah"
+ },
+ {
+  "id": "for-052",
+  "thought": "fornication",
+  "book": 2,
+  "n": "52",
+  "kind": "prayer",
+  "lxxRef": "Lam 1:11",
+  "section": "Lamentations of Jeremiah"
+ },
+ {
+  "id": "for-053",
+  "thought": "fornication",
+  "book": 2,
+  "n": "53",
+  "kind": "self",
+  "lxxRef": "Lam 2:19",
+  "section": "Lamentations of Jeremiah"
+ },
+ {
+  "id": "for-054",
+  "thought": "fornication",
+  "book": 2,
+  "n": "54",
+  "kind": "prayer",
+  "lxxRef": "Lam 3:55-57",
+  "section": "Lamentations of Jeremiah"
+ },
+ {
+  "id": "for-055",
+  "thought": "fornication",
+  "book": 2,
+  "n": "55",
+  "kind": "rebuke",
+  "lxxRef": null,
+  "section": "Daniel"
+ },
+ {
+  "id": "for-056",
+  "thought": "fornication",
+  "book": 2,
+  "n": "56",
+  "kind": "self",
+  "lxxRef": "Matt 5:28",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "for-057",
+  "thought": "fornication",
+  "book": 2,
+  "n": "57",
+  "kind": "self",
+  "lxxRef": "Matt 26:41",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "for-058",
+  "thought": "fornication",
+  "book": 2,
+  "n": "58",
+  "kind": "rebuke",
+  "lxxRef": "1 Cor 6:9-10",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "for-059",
+  "thought": "fornication",
+  "book": 2,
+  "n": "59",
+  "kind": "rebuke",
+  "lxxRef": "1 Cor 10:8",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "for-060",
+  "thought": "fornication",
+  "book": 2,
+  "n": "60",
+  "kind": "rebuke",
+  "lxxRef": "Eph 5:5",
+  "section": "Letter to the Ephesians"
+ },
+ {
+  "id": "for-061",
+  "thought": "fornication",
+  "book": 2,
+  "n": "61",
+  "kind": "rebuke",
+  "lxxRef": "Jas 1:13-14",
+  "section": "Letter of James"
+ },
+ {
+  "id": "for-062",
+  "thought": "fornication",
+  "book": 2,
+  "n": "62",
+  "kind": "self",
+  "lxxRef": "Jas 4:1",
+  "section": "Letter of James"
+ },
+ {
+  "id": "for-063",
+  "thought": "fornication",
+  "book": 2,
+  "n": "63",
+  "kind": "self",
+  "lxxRef": "1 Pet 4:12-13",
+  "section": "Letter of Peter"
+ },
+ {
+  "id": "for-064",
+  "thought": "fornication",
+  "book": 2,
+  "n": "64",
+  "kind": "self",
+  "lxxRef": "1 Pet 5:8-9",
+  "section": "Letter of Peter"
+ },
+ {
+  "id": "for-065",
+  "thought": "fornication",
+  "book": 2,
+  "n": "65",
+  "kind": "rebuke",
+  "lxxRef": "2 Pet 2:9",
+  "section": "Letter of Peter"
+ },
+ {
+  "id": "mon-001",
+  "thought": "money",
+  "book": 3,
+  "n": "1",
+  "kind": "rebuke",
+  "lxxRef": "Gen 14:22-23",
+  "section": "Genesis"
+ },
+ {
+  "id": "mon-002",
+  "thought": "money",
+  "book": 3,
+  "n": "2",
+  "kind": "rebuke",
+  "lxxRef": "Gen 28:20-22",
+  "section": "Genesis"
+ },
+ {
+  "id": "mon-003",
+  "thought": "money",
+  "book": 3,
+  "n": "3",
+  "kind": "rebuke",
+  "lxxRef": "Exod 21:16",
+  "section": "Exodus"
+ },
+ {
+  "id": "mon-004",
+  "thought": "money",
+  "book": 3,
+  "n": "4",
+  "kind": "rebuke",
+  "lxxRef": "Exod 23:9",
+  "section": "Exodus"
+ },
+ {
+  "id": "mon-005",
+  "thought": "money",
+  "book": 3,
+  "n": "5",
+  "kind": "rebuke",
+  "lxxRef": "Lev 19:18",
+  "section": "Book of Leviticus"
+ },
+ {
+  "id": "mon-006",
+  "thought": "money",
+  "book": 3,
+  "n": "6",
+  "kind": "rebuke",
+  "lxxRef": "Lev 25:17",
+  "section": "Book of Leviticus"
+ },
+ {
+  "id": "mon-007",
+  "thought": "money",
+  "book": 3,
+  "n": "7",
+  "kind": "rebuke",
+  "lxxRef": "Lev 25:35",
+  "section": "Book of Leviticus"
+ },
+ {
+  "id": "mon-008",
+  "thought": "money",
+  "book": 3,
+  "n": "8",
+  "kind": "rebuke",
+  "lxxRef": "Lev 25:46",
+  "section": "Book of Leviticus"
+ },
+ {
+  "id": "mon-009",
+  "thought": "money",
+  "book": 3,
+  "n": "9",
+  "kind": "rebuke",
+  "lxxRef": "Deut 15:7-8",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "mon-010",
+  "thought": "money",
+  "book": 3,
+  "n": "10",
+  "kind": "rebuke",
+  "lxxRef": "Deut 28:17-18",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "mon-011",
+  "thought": "money",
+  "book": 3,
+  "n": "11",
+  "kind": "rebuke",
+  "lxxRef": "Judg 8:2",
+  "section": "Judges"
+ },
+ {
+  "id": "mon-012",
+  "thought": "money",
+  "book": 3,
+  "n": "12",
+  "kind": "self",
+  "lxxRef": "3 Kgdms 8:61",
+  "section": "Book of Kings"
+ },
+ {
+  "id": "mon-013",
+  "thought": "money",
+  "book": 3,
+  "n": "13",
+  "kind": "self",
+  "lxxRef": "3 Kgdms 19:19-21",
+  "section": "Book of Kings"
+ },
+ {
+  "id": "mon-014",
+  "thought": "money",
+  "book": 3,
+  "n": "14",
+  "kind": "self",
+  "lxxRef": "4 Kgdms 4:38",
+  "section": "Book of Kings"
+ },
+ {
+  "id": "mon-015",
+  "thought": "money",
+  "book": 3,
+  "n": "15",
+  "kind": "self",
+  "lxxRef": "4 Kgdms 5:25-27",
+  "section": "Book of Kings"
+ },
+ {
+  "id": "mon-016",
+  "thought": "money",
+  "book": 3,
+  "n": "16",
+  "kind": "prayer",
+  "lxxRef": "Ps 15:5",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "mon-017",
+  "thought": "money",
+  "book": 3,
+  "n": "17",
+  "kind": "rebuke",
+  "lxxRef": "Ps 26:10",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "mon-018",
+  "thought": "money",
+  "book": 3,
+  "n": "18",
+  "kind": "rebuke",
+  "lxxRef": "Ps 33:3",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "mon-019",
+  "thought": "money",
+  "book": 3,
+  "n": "19",
+  "kind": "self",
+  "lxxRef": "Ps 36:32-33",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "mon-020",
+  "thought": "money",
+  "book": 3,
+  "n": "20",
+  "kind": "self",
+  "lxxRef": "Ps 44:11-12",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "mon-021",
+  "thought": "money",
+  "book": 3,
+  "n": "21",
+  "kind": "rebuke",
+  "lxxRef": "Ps 61:11",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "mon-022",
+  "thought": "money",
+  "book": 3,
+  "n": "22",
+  "kind": "rebuke",
+  "lxxRef": "Ps 83:11",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "mon-023",
+  "thought": "money",
+  "book": 3,
+  "n": "23",
+  "kind": "rebuke",
+  "lxxRef": "Ps 83:12",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "mon-024",
+  "thought": "money",
+  "book": 3,
+  "n": "24",
+  "kind": "prayer",
+  "lxxRef": "Ps 118:36",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "mon-025",
+  "thought": "money",
+  "book": 3,
+  "n": "25",
+  "kind": "rebuke",
+  "lxxRef": "Ps 139:6",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "mon-026",
+  "thought": "money",
+  "book": 3,
+  "n": "26",
+  "kind": "rebuke",
+  "lxxRef": "Ps 143:4",
+  "section": "David the Prophet"
+ },
+ {
+  "id": "mon-027",
+  "thought": "money",
+  "book": 3,
+  "n": "27",
+  "kind": "self",
+  "lxxRef": "Prov 3:3-4",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "mon-028",
+  "thought": "money",
+  "book": 3,
+  "n": "28",
+  "kind": "rebuke",
+  "lxxRef": "Prov 3:27-28",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "mon-029",
+  "thought": "money",
+  "book": 3,
+  "n": "29",
+  "kind": "rebuke",
+  "lxxRef": "Prov 11:4",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "mon-030",
+  "thought": "money",
+  "book": 3,
+  "n": "30",
+  "kind": "rebuke",
+  "lxxRef": "Prov 13:8",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "mon-031",
+  "thought": "money",
+  "book": 3,
+  "n": "31",
+  "kind": "rebuke",
+  "lxxRef": "Prov 16:16",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "mon-032",
+  "thought": "money",
+  "book": 3,
+  "n": "32",
+  "kind": "rebuke",
+  "lxxRef": "Prov 22:1",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "mon-033",
+  "thought": "money",
+  "book": 3,
+  "n": "33",
+  "kind": "self",
+  "lxxRef": "Prov 22:8a",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "mon-034",
+  "thought": "money",
+  "book": 3,
+  "n": "34",
+  "kind": "rebuke",
+  "lxxRef": "Qo 1:2",
+  "section": "Qoheleth"
+ },
+ {
+  "id": "mon-035",
+  "thought": "money",
+  "book": 3,
+  "n": "35",
+  "kind": "rebuke",
+  "lxxRef": "Qo 5:9",
+  "section": "Qoheleth"
+ },
+ {
+  "id": "mon-036",
+  "thought": "money",
+  "book": 3,
+  "n": "36",
+  "kind": "rebuke",
+  "lxxRef": "Job 1:21",
+  "section": "Job"
+ },
+ {
+  "id": "mon-037",
+  "thought": "money",
+  "book": 3,
+  "n": "37",
+  "kind": "rebuke",
+  "lxxRef": "Isa 58:7",
+  "section": "Isaiah"
+ },
+ {
+  "id": "mon-038",
+  "thought": "money",
+  "book": 3,
+  "n": "38",
+  "kind": "self",
+  "lxxRef": "Matt 5:7",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "mon-039",
+  "thought": "money",
+  "book": 3,
+  "n": "39",
+  "kind": "self",
+  "lxxRef": "Matt 5:40",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "mon-040",
+  "thought": "money",
+  "book": 3,
+  "n": "40",
+  "kind": "rebuke",
+  "lxxRef": "Matt 5:42",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "mon-041",
+  "thought": "money",
+  "book": 3,
+  "n": "41",
+  "kind": "rebuke",
+  "lxxRef": "Matt 6:19",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "mon-042",
+  "thought": "money",
+  "book": 3,
+  "n": "42",
+  "kind": "rebuke",
+  "lxxRef": "Matt 6:24",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "mon-043",
+  "thought": "money",
+  "book": 3,
+  "n": "43",
+  "kind": "self",
+  "lxxRef": "Matt 7:12",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "mon-044",
+  "thought": "money",
+  "book": 3,
+  "n": "44",
+  "kind": "rebuke",
+  "lxxRef": "Mark 10:23",
+  "section": "Gospel of Mark"
+ },
+ {
+  "id": "mon-045",
+  "thought": "money",
+  "book": 3,
+  "n": "45",
+  "kind": "self",
+  "lxxRef": "Rom 12:8-9",
+  "section": "Gospel of Mark"
+ },
+ {
+  "id": "mon-046",
+  "thought": "money",
+  "book": 3,
+  "n": "46",
+  "kind": "rebuke",
+  "lxxRef": "2 Cor 4:18",
+  "section": "From> the Second Letter to the Corinthians"
+ },
+ {
+  "id": "mon-047",
+  "thought": "money",
+  "book": 3,
+  "n": "47",
+  "kind": "rebuke",
+  "lxxRef": "2 Cor 9:6",
+  "section": "From> the Second Letter to the Corinthians"
+ },
+ {
+  "id": "mon-048",
+  "thought": "money",
+  "book": 3,
+  "n": "48",
+  "kind": "rebuke",
+  "lxxRef": "Eph 4:32",
+  "section": "Letter to the Ephesians"
+ },
+ {
+  "id": "mon-049",
+  "thought": "money",
+  "book": 3,
+  "n": "49",
+  "kind": "rebuke",
+  "lxxRef": "Phil 2:4",
+  "section": "Letter to the Philippians"
+ },
+ {
+  "id": "mon-050",
+  "thought": "money",
+  "book": 3,
+  "n": "50",
+  "kind": "rebuke",
+  "lxxRef": "Phil 3:7-8",
+  "section": "Letter to the Philippians"
+ },
+ {
+  "id": "mon-051",
+  "thought": "money",
+  "book": 3,
+  "n": "51",
+  "kind": "rebuke",
+  "lxxRef": "Col 3:5-6",
+  "section": "Letter to the Colossians"
+ },
+ {
+  "id": "mon-052",
+  "thought": "money",
+  "book": 3,
+  "n": "52",
+  "kind": "rebuke",
+  "lxxRef": "Heb 13:5",
+  "section": "Letter to the Hebrews"
+ },
+ {
+  "id": "mon-053",
+  "thought": "money",
+  "book": 3,
+  "n": "53",
+  "kind": "self",
+  "lxxRef": "1 Tim 6:7-8",
+  "section": "First Letter to Timothy"
+ },
+ {
+  "id": "mon-054",
+  "thought": "money",
+  "book": 3,
+  "n": "54",
+  "kind": "rebuke",
+  "lxxRef": "1 Tim 6:10",
+  "section": "First Letter to Timothy"
+ },
+ {
+  "id": "mon-055",
+  "thought": "money",
+  "book": 3,
+  "n": "55",
+  "kind": "rebuke",
+  "lxxRef": "2 Tim 2:4-5",
+  "section": "Second Letter to Timothy"
+ },
+ {
+  "id": "mon-056",
+  "thought": "money",
+  "book": 3,
+  "n": "56",
+  "kind": "rebuke",
+  "lxxRef": "1 Pet 4:11",
+  "section": "Letter of Peter"
+ },
+ {
+  "id": "mon-057",
+  "thought": "money",
+  "book": 3,
+  "n": "57",
+  "kind": "rebuke",
+  "lxxRef": "1 John 3:17",
+  "section": "Letter of John"
+ },
+ {
+  "id": "mon-058",
+  "thought": "money",
+  "book": 3,
+  "n": "58",
+  "kind": "rebuke",
+  "lxxRef": "1 John 3:18",
+  "section": "Letter of John"
+ },
+ {
+  "id": "sad-001",
+  "thought": "sadness",
+  "book": 4,
+  "n": "1",
+  "kind": "self",
+  "lxxRef": "Exod 2:23-24",
+  "section": "Exodus"
+ },
+ {
+  "id": "sad-002",
+  "thought": "sadness",
+  "book": 4,
+  "n": "2",
+  "kind": "rebuke",
+  "lxxRef": "Exod 3:7-8",
+  "section": "Exodus"
+ },
+ {
+  "id": "sad-003",
+  "thought": "sadness",
+  "book": 4,
+  "n": "3",
+  "kind": "self",
+  "lxxRef": "Exod 5:22-23",
+  "section": "Exodus"
+ },
+ {
+  "id": "sad-004",
+  "thought": "sadness",
+  "book": 4,
+  "n": "4",
+  "kind": "rebuke",
+  "lxxRef": "Exod 6:6-7",
+  "section": "Exodus"
+ },
+ {
+  "id": "sad-005",
+  "thought": "sadness",
+  "book": 4,
+  "n": "5",
+  "kind": "self",
+  "lxxRef": "Exod 13:17",
+  "section": "Exodus"
+ },
+ {
+  "id": "sad-006",
+  "thought": "sadness",
+  "book": 4,
+  "n": "6",
+  "kind": "rebuke",
+  "lxxRef": "Exod 14:25",
+  "section": "Exodus"
+ },
+ {
+  "id": "sad-007",
+  "thought": "sadness",
+  "book": 4,
+  "n": "7",
+  "kind": "self",
+  "lxxRef": "Exod 15:9",
+  "section": "Exodus"
+ },
+ {
+  "id": "sad-008",
+  "thought": "sadness",
+  "book": 4,
+  "n": "8",
+  "kind": "prayer",
+  "lxxRef": "Exod 15:16",
+  "section": "Exodus"
+ },
+ {
+  "id": "sad-009",
+  "thought": "sadness",
+  "book": 4,
+  "n": "9",
+  "kind": "rebuke",
+  "lxxRef": "Exod 17:16",
+  "section": "Exodus"
+ },
+ {
+  "id": "sad-010",
+  "thought": "sadness",
+  "book": 4,
+  "n": "10",
+  "kind": "self",
+  "lxxRef": "Exod 23:20",
+  "section": "Exodus"
+ },
+ {
+  "id": "sad-011",
+  "thought": "sadness",
+  "book": 4,
+  "n": "11",
+  "kind": "self",
+  "lxxRef": "Lev 26:6-7",
+  "section": "Leviticus"
+ },
+ {
+  "id": "sad-012",
+  "thought": "sadness",
+  "book": 4,
+  "n": "12",
+  "kind": "self",
+  "lxxRef": "Deut 1:29-30",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "sad-013",
+  "thought": "sadness",
+  "book": 4,
+  "n": "13",
+  "kind": "self",
+  "lxxRef": "Deut 2:24-25",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "sad-014",
+  "thought": "sadness",
+  "book": 4,
+  "n": "14",
+  "kind": "self",
+  "lxxRef": "Deut 1:29-30",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "sad-015",
+  "thought": "sadness",
+  "book": 4,
+  "n": "15",
+  "kind": "prayer",
+  "lxxRef": "Deut 3:24",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "sad-016",
+  "thought": "sadness",
+  "book": 4,
+  "n": "16",
+  "kind": "self",
+  "lxxRef": "Deut 4:31",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "sad-017",
+  "thought": "sadness",
+  "book": 4,
+  "n": "17",
+  "kind": "self",
+  "lxxRef": "Deut 8:16",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "sad-018",
+  "thought": "sadness",
+  "book": 4,
+  "n": "18",
+  "kind": "self",
+  "lxxRef": "Deut 20:3-4",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "sad-019a",
+  "thought": "sadness",
+  "book": 4,
+  "n": "19a",
+  "kind": "self",
+  "lxxRef": "Deut 31:6",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "sad-019b",
+  "thought": "sadness",
+  "book": 4,
+  "n": "19b",
+  "kind": "self",
+  "lxxRef": "Josh 1:9",
+  "section": "Joshua, Son of Nun"
+ },
+ {
+  "id": "sad-020",
+  "thought": "sadness",
+  "book": 4,
+  "n": "20",
+  "kind": "rebuke",
+  "lxxRef": "Josh 10:25",
+  "section": "Joshua, Son of Nun"
+ },
+ {
+  "id": "sad-021",
+  "thought": "sadness",
+  "book": 4,
+  "n": "21",
+  "kind": "self",
+  "lxxRef": "Judg 5:12",
+  "section": "Judges"
+ },
+ {
+  "id": "sad-022",
+  "thought": "sadness",
+  "book": 4,
+  "n": "22",
+  "kind": "self",
+  "lxxRef": "1 Kgdms 16:23",
+  "section": "Samuel"
+ },
+ {
+  "id": "sad-023",
+  "thought": "sadness",
+  "book": 4,
+  "n": "23",
+  "kind": "rebuke",
+  "lxxRef": "1 Kgdms 17:45",
+  "section": "Samuel"
+ },
+ {
+  "id": "sad-024",
+  "thought": "sadness",
+  "book": 4,
+  "n": "24",
+  "kind": "rebuke",
+  "lxxRef": "1 Kgdms 17:47",
+  "section": "Samuel"
+ },
+ {
+  "id": "sad-025",
+  "thought": "sadness",
+  "book": 4,
+  "n": "25",
+  "kind": "rebuke",
+  "lxxRef": "3 Kgdms 21:11",
+  "section": "Samuel"
+ },
+ {
+  "id": "sad-026",
+  "thought": "sadness",
+  "book": 4,
+  "n": "26",
+  "kind": "self",
+  "lxxRef": "4 Kgdms 6:16",
+  "section": "Book of Kings"
+ },
+ {
+  "id": "sad-027",
+  "thought": "sadness",
+  "book": 4,
+  "n": "27",
+  "kind": "self",
+  "lxxRef": "4 Kgdms 6:17",
+  "section": "Book of Kings"
+ },
+ {
+  "id": "sad-028",
+  "thought": "sadness",
+  "book": 4,
+  "n": "28",
+  "kind": "rebuke",
+  "lxxRef": "Ps 2:4-5",
+  "section": "David"
+ },
+ {
+  "id": "sad-029",
+  "thought": "sadness",
+  "book": 4,
+  "n": "29",
+  "kind": "prayer",
+  "lxxRef": "Ps 6:3-5",
+  "section": "David"
+ },
+ {
+  "id": "sad-030",
+  "thought": "sadness",
+  "book": 4,
+  "n": "30",
+  "kind": "rebuke",
+  "lxxRef": "Ps 10:1",
+  "section": "David"
+ },
+ {
+  "id": "sad-031",
+  "thought": "sadness",
+  "book": 4,
+  "n": "31",
+  "kind": "prayer",
+  "lxxRef": "Ps 16:13",
+  "section": "David"
+ },
+ {
+  "id": "sad-032",
+  "thought": "sadness",
+  "book": 4,
+  "n": "32",
+  "kind": "self",
+  "lxxRef": "Ps 19:8-9",
+  "section": "David"
+ },
+ {
+  "id": "sad-033",
+  "thought": "sadness",
+  "book": 4,
+  "n": "33",
+  "kind": "rebuke",
+  "lxxRef": "Ps 26:1",
+  "section": "David"
+ },
+ {
+  "id": "sad-034",
+  "thought": "sadness",
+  "book": 4,
+  "n": "34",
+  "kind": "rebuke",
+  "lxxRef": "Ps 26:3",
+  "section": "David"
+ },
+ {
+  "id": "sad-035",
+  "thought": "sadness",
+  "book": 4,
+  "n": "35",
+  "kind": "prayer",
+  "lxxRef": "Ps 31:7",
+  "section": "David"
+ },
+ {
+  "id": "sad-036",
+  "thought": "sadness",
+  "book": 4,
+  "n": "36",
+  "kind": "prayer",
+  "lxxRef": "Ps 34:1-3",
+  "section": "David"
+ },
+ {
+  "id": "sad-037",
+  "thought": "sadness",
+  "book": 4,
+  "n": "37",
+  "kind": "prayer",
+  "lxxRef": "Ps 34:17",
+  "section": "David"
+ },
+ {
+  "id": "sad-038",
+  "thought": "sadness",
+  "book": 4,
+  "n": "38",
+  "kind": "rebuke",
+  "lxxRef": "Ps 36:15",
+  "section": "David"
+ },
+ {
+  "id": "sad-039",
+  "thought": "sadness",
+  "book": 4,
+  "n": "39",
+  "kind": "rebuke",
+  "lxxRef": "Ps 37:18",
+  "section": "David"
+ },
+ {
+  "id": "sad-040",
+  "thought": "sadness",
+  "book": 4,
+  "n": "40",
+  "kind": "self",
+  "lxxRef": "Ps 37:22-23",
+  "section": "David"
+ },
+ {
+  "id": "sad-041",
+  "thought": "sadness",
+  "book": 4,
+  "n": "41",
+  "kind": "prayer",
+  "lxxRef": "Ps 38:11",
+  "section": "David"
+ },
+ {
+  "id": "sad-042",
+  "thought": "sadness",
+  "book": 4,
+  "n": "42",
+  "kind": "self",
+  "lxxRef": "Ps 54:22",
+  "section": "David"
+ },
+ {
+  "id": "sad-043",
+  "thought": "sadness",
+  "book": 4,
+  "n": "43",
+  "kind": "prayer",
+  "lxxRef": "Ps 68:7",
+  "section": "David"
+ },
+ {
+  "id": "sad-044",
+  "thought": "sadness",
+  "book": 4,
+  "n": "44",
+  "kind": "self",
+  "lxxRef": "Ps 70:10-11",
+  "section": "David"
+ },
+ {
+  "id": "sad-045",
+  "thought": "sadness",
+  "book": 4,
+  "n": "45",
+  "kind": "prayer",
+  "lxxRef": "Ps 73:19",
+  "section": "David"
+ },
+ {
+  "id": "sad-046",
+  "thought": "sadness",
+  "book": 4,
+  "n": "46",
+  "kind": "self",
+  "lxxRef": "Ps 82:5",
+  "section": "David"
+ },
+ {
+  "id": "sad-047",
+  "thought": "sadness",
+  "book": 4,
+  "n": "47",
+  "kind": "rebuke",
+  "lxxRef": "Ps 117:7",
+  "section": "David"
+ },
+ {
+  "id": "sad-048",
+  "thought": "sadness",
+  "book": 4,
+  "n": "48",
+  "kind": "rebuke",
+  "lxxRef": "Ps 123:7-8",
+  "section": "David"
+ },
+ {
+  "id": "sad-049",
+  "thought": "sadness",
+  "book": 4,
+  "n": "49",
+  "kind": "prayer",
+  "lxxRef": "Ps 139:11",
+  "section": "David"
+ },
+ {
+  "id": "sad-050",
+  "thought": "sadness",
+  "book": 4,
+  "n": "50",
+  "kind": "rebuke",
+  "lxxRef": "Prov 22:13",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "sad-051",
+  "thought": "sadness",
+  "book": 4,
+  "n": "51",
+  "kind": "self",
+  "lxxRef": "Job 1:10-11",
+  "section": "Job"
+ },
+ {
+  "id": "sad-052",
+  "thought": "sadness",
+  "book": 4,
+  "n": "52",
+  "kind": "self",
+  "lxxRef": "Job 2:4-5",
+  "section": "Job"
+ },
+ {
+  "id": "sad-053",
+  "thought": "sadness",
+  "book": 4,
+  "n": "53",
+  "kind": "rebuke",
+  "lxxRef": "Job 3:9",
+  "section": "Job"
+ },
+ {
+  "id": "sad-054",
+  "thought": "sadness",
+  "book": 4,
+  "n": "54",
+  "kind": "rebuke",
+  "lxxRef": "Job 14:14",
+  "section": "Job"
+ },
+ {
+  "id": "sad-055",
+  "thought": "sadness",
+  "book": 4,
+  "n": "55",
+  "kind": "rebuke",
+  "lxxRef": "Mic 7:8",
+  "section": "Micah"
+ },
+ {
+  "id": "sad-056",
+  "thought": "sadness",
+  "book": 4,
+  "n": "56",
+  "kind": "self",
+  "lxxRef": "Nah 1:7",
+  "section": "Nahum"
+ },
+ {
+  "id": "sad-057",
+  "thought": "sadness",
+  "book": 4,
+  "n": "57",
+  "kind": "self",
+  "lxxRef": "Zech 14:12",
+  "section": "Zechariah"
+ },
+ {
+  "id": "sad-058",
+  "thought": "sadness",
+  "book": 4,
+  "n": "58",
+  "kind": "rebuke",
+  "lxxRef": "Isa 8:9-10",
+  "section": "Isaiah"
+ },
+ {
+  "id": "sad-059",
+  "thought": "sadness",
+  "book": 4,
+  "n": "59",
+  "kind": "rebuke",
+  "lxxRef": "Isa 50:5-7",
+  "section": "Isaiah"
+ },
+ {
+  "id": "sad-060",
+  "thought": "sadness",
+  "book": 4,
+  "n": "60",
+  "kind": "self",
+  "lxxRef": "Isa 51:7",
+  "section": "Isaiah"
+ },
+ {
+  "id": "sad-061",
+  "thought": "sadness",
+  "book": 4,
+  "n": "61",
+  "kind": "self",
+  "lxxRef": "Isa 54:14",
+  "section": "Isaiah"
+ },
+ {
+  "id": "sad-062",
+  "thought": "sadness",
+  "book": 4,
+  "n": "62",
+  "kind": "self",
+  "lxxRef": "Jer 1:8",
+  "section": "Jeremiah"
+ },
+ {
+  "id": "sad-063",
+  "thought": "sadness",
+  "book": 4,
+  "n": "63",
+  "kind": "prayer",
+  "lxxRef": "Jer 15:18",
+  "section": "Jeremiah"
+ },
+ {
+  "id": "sad-064",
+  "thought": "sadness",
+  "book": 4,
+  "n": "64",
+  "kind": "prayer",
+  "lxxRef": "Jer 17:18",
+  "section": "Jeremiah"
+ },
+ {
+  "id": "sad-065",
+  "thought": "sadness",
+  "book": 4,
+  "n": "65",
+  "kind": "self",
+  "lxxRef": "Ezek 3:9",
+  "section": "Ezekiel"
+ },
+ {
+  "id": "sad-066",
+  "thought": "sadness",
+  "book": 4,
+  "n": "66",
+  "kind": "self",
+  "lxxRef": "Matt 8:30-32",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "sad-067",
+  "thought": "sadness",
+  "book": 4,
+  "n": "67",
+  "kind": "self",
+  "lxxRef": "John 14:1",
+  "section": "Gospel of John"
+ },
+ {
+  "id": "sad-068",
+  "thought": "sadness",
+  "book": 4,
+  "n": "68",
+  "kind": "self",
+  "lxxRef": "Acts 5:41",
+  "section": "Acts"
+ },
+ {
+  "id": "sad-069",
+  "thought": "sadness",
+  "book": 4,
+  "n": "69",
+  "kind": "rebuke",
+  "lxxRef": "Rom 5:3-5",
+  "section": "Letter to the Romans"
+ },
+ {
+  "id": "sad-070",
+  "thought": "sadness",
+  "book": 4,
+  "n": "70",
+  "kind": "rebuke",
+  "lxxRef": "Rom 8:18",
+  "section": "Letter to the Romans"
+ },
+ {
+  "id": "sad-071",
+  "thought": "sadness",
+  "book": 4,
+  "n": "71",
+  "kind": "self",
+  "lxxRef": "1 Cor 10:13",
+  "section": "First Letter to the Corinthians"
+ },
+ {
+  "id": "sad-072",
+  "thought": "sadness",
+  "book": 4,
+  "n": "72",
+  "kind": "self",
+  "lxxRef": "2 Cor 1:9-10",
+  "section": "Second Letter to the Corinthians"
+ },
+ {
+  "id": "sad-073",
+  "thought": "sadness",
+  "book": 4,
+  "n": "73",
+  "kind": "rebuke",
+  "lxxRef": "2 Cor 5:17",
+  "section": "Second Letter to the Corinthians"
+ },
+ {
+  "id": "sad-074",
+  "thought": "sadness",
+  "book": 4,
+  "n": "74",
+  "kind": "rebuke",
+  "lxxRef": "2 Cor 7:10",
+  "section": "Second Letter to the Corinthians"
+ },
+ {
+  "id": "sad-075",
+  "thought": "sadness",
+  "book": 4,
+  "n": "75",
+  "kind": "rebuke",
+  "lxxRef": "Jas 4:7",
+  "section": "Letter of James"
+ },
+ {
+  "id": "sad-076",
+  "thought": "sadness",
+  "book": 4,
+  "n": "76",
+  "kind": "rebuke",
+  "lxxRef": "1 Pet 3:13-15",
+  "section": "Letter of Peter"
+ },
+ {
+  "id": "ang-001",
+  "thought": "anger",
+  "book": 5,
+  "n": "1",
+  "kind": "self",
+  "lxxRef": "Gen 33:10-11",
+  "section": "Book of Genesis"
+ },
+ {
+  "id": "ang-002",
+  "thought": "anger",
+  "book": 5,
+  "n": "2",
+  "kind": "rebuke",
+  "lxxRef": "Gen 45:24",
+  "section": "Book of Genesis"
+ },
+ {
+  "id": "ang-003",
+  "thought": "anger",
+  "book": 5,
+  "n": "3",
+  "kind": "rebuke",
+  "lxxRef": "Exod 20:16",
+  "section": "Exodus"
+ },
+ {
+  "id": "ang-004",
+  "thought": "anger",
+  "book": 5,
+  "n": "4",
+  "kind": "rebuke",
+  "lxxRef": "Exod 23:1",
+  "section": "Exodus"
+ },
+ {
+  "id": "ang-005",
+  "thought": "anger",
+  "book": 5,
+  "n": "5",
+  "kind": "rebuke",
+  "lxxRef": "Exod 23:7",
+  "section": "Exodus"
+ },
+ {
+  "id": "ang-006",
+  "thought": "anger",
+  "book": 5,
+  "n": "6",
+  "kind": "rebuke",
+  "lxxRef": "Lev 19:17",
+  "section": "Leviticus"
+ },
+ {
+  "id": "ang-007",
+  "thought": "anger",
+  "book": 5,
+  "n": "7",
+  "kind": "self",
+  "lxxRef": "Num 12:3",
+  "section": "Numbers"
+ },
+ {
+  "id": "ang-008",
+  "thought": "anger",
+  "book": 5,
+  "n": "8",
+  "kind": "self",
+  "lxxRef": "2 Kgdms 16:11-12",
+  "section": "Samuel"
+ },
+ {
+  "id": "ang-009",
+  "thought": "anger",
+  "book": 5,
+  "n": "9",
+  "kind": "self",
+  "lxxRef": "Ps 24:9",
+  "section": "David"
+ },
+ {
+  "id": "ang-010",
+  "thought": "anger",
+  "book": 5,
+  "n": "10",
+  "kind": "self",
+  "lxxRef": "Ps 36:8-9",
+  "section": "David"
+ },
+ {
+  "id": "ang-011",
+  "thought": "anger",
+  "book": 5,
+  "n": "11",
+  "kind": "rebuke",
+  "lxxRef": "Ps 49:20",
+  "section": "David"
+ },
+ {
+  "id": "ang-012",
+  "thought": "anger",
+  "book": 5,
+  "n": "12",
+  "kind": "prayer",
+  "lxxRef": "Ps 118:98-99",
+  "section": "David"
+ },
+ {
+  "id": "ang-013",
+  "thought": "anger",
+  "book": 5,
+  "n": "13",
+  "kind": "rebuke",
+  "lxxRef": "Ps 136:4",
+  "section": "David"
+ },
+ {
+  "id": "ang-014",
+  "thought": "anger",
+  "book": 5,
+  "n": "14",
+  "kind": "rebuke",
+  "lxxRef": "Prov 3:29",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "ang-015",
+  "thought": "anger",
+  "book": 5,
+  "n": "15",
+  "kind": "rebuke",
+  "lxxRef": "Prov 10:12",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "ang-016",
+  "thought": "anger",
+  "book": 5,
+  "n": "16",
+  "kind": "rebuke",
+  "lxxRef": "Prov 10:18",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "ang-017",
+  "thought": "anger",
+  "book": 5,
+  "n": "17",
+  "kind": "rebuke",
+  "lxxRef": "Prov 11:25",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "ang-018",
+  "thought": "anger",
+  "book": 5,
+  "n": "18",
+  "kind": "rebuke",
+  "lxxRef": "Prov 12:10",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "ang-019",
+  "thought": "anger",
+  "book": 5,
+  "n": "19",
+  "kind": "rebuke",
+  "lxxRef": "Prov 12:16",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "ang-020",
+  "thought": "anger",
+  "book": 5,
+  "n": "20",
+  "kind": "rebuke",
+  "lxxRef": "Prov 12:27",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "ang-021",
+  "thought": "anger",
+  "book": 5,
+  "n": "21",
+  "kind": "self",
+  "lxxRef": "Prov 12:28",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "ang-022",
+  "thought": "anger",
+  "book": 5,
+  "n": "22",
+  "kind": "rebuke",
+  "lxxRef": "Prov 14:29",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "ang-023",
+  "thought": "anger",
+  "book": 5,
+  "n": "23",
+  "kind": "rebuke",
+  "lxxRef": "Prov 15:1",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "ang-024",
+  "thought": "anger",
+  "book": 5,
+  "n": "24",
+  "kind": "rebuke",
+  "lxxRef": "Prov 15:18",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "ang-025",
+  "thought": "anger",
+  "book": 5,
+  "n": "25",
+  "kind": "self",
+  "lxxRef": "Prov 15:26",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "ang-026",
+  "thought": "anger",
+  "book": 5,
+  "n": "26",
+  "kind": "rebuke",
+  "lxxRef": "Prov 22:24-25",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "ang-027",
+  "thought": "anger",
+  "book": 5,
+  "n": "27",
+  "kind": "self",
+  "lxxRef": "Prov 24:29",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "ang-028",
+  "thought": "anger",
+  "book": 5,
+  "n": "28",
+  "kind": "self",
+  "lxxRef": "Prov 25:21-22",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "ang-029",
+  "thought": "anger",
+  "book": 5,
+  "n": "29",
+  "kind": "self",
+  "lxxRef": "Qo 7:9",
+  "section": "Qoheleth"
+ },
+ {
+  "id": "ang-030",
+  "thought": "anger",
+  "book": 5,
+  "n": "30",
+  "kind": "self",
+  "lxxRef": "Qo 11:10",
+  "section": "Qoheleth"
+ },
+ {
+  "id": "ang-031",
+  "thought": "anger",
+  "book": 5,
+  "n": "31",
+  "kind": "rebuke",
+  "lxxRef": "Song 8:7",
+  "section": "Song of Songs"
+ },
+ {
+  "id": "ang-032",
+  "thought": "anger",
+  "book": 5,
+  "n": "32",
+  "kind": "rebuke",
+  "lxxRef": "Isa 10:1",
+  "section": "Isaiah"
+ },
+ {
+  "id": "ang-033",
+  "thought": "anger",
+  "book": 5,
+  "n": "33",
+  "kind": "prayer",
+  "lxxRef": "Lam 3:58-60",
+  "section": "Lamentations of Jeremiah"
+ },
+ {
+  "id": "ang-034",
+  "thought": "anger",
+  "book": 5,
+  "n": "34",
+  "kind": "rebuke",
+  "lxxRef": "Matt 5:10",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "ang-035",
+  "thought": "anger",
+  "book": 5,
+  "n": "35",
+  "kind": "rebuke",
+  "lxxRef": "Matt 5:22",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "ang-036",
+  "thought": "anger",
+  "book": 5,
+  "n": "36",
+  "kind": "self",
+  "lxxRef": "Matt 5:39",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "ang-037",
+  "thought": "anger",
+  "book": 5,
+  "n": "37",
+  "kind": "rebuke",
+  "lxxRef": "Matt 5:44-45",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "ang-038",
+  "thought": "anger",
+  "book": 5,
+  "n": "38",
+  "kind": "rebuke",
+  "lxxRef": "Luke 17:3-4",
+  "section": "Gospel of Luke"
+ },
+ {
+  "id": "ang-039",
+  "thought": "anger",
+  "book": 5,
+  "n": "39",
+  "kind": "self",
+  "lxxRef": "John 13:34",
+  "section": "Gospel of John"
+ },
+ {
+  "id": "ang-040",
+  "thought": "anger",
+  "book": 5,
+  "n": "40",
+  "kind": "rebuke",
+  "lxxRef": "Rom 8:35",
+  "section": "Letter to the Romans"
+ },
+ {
+  "id": "ang-041",
+  "thought": "anger",
+  "book": 5,
+  "n": "41",
+  "kind": "rebuke",
+  "lxxRef": "Rom 12:15-16",
+  "section": "Letter to the Romans"
+ },
+ {
+  "id": "ang-042",
+  "thought": "anger",
+  "book": 5,
+  "n": "42",
+  "kind": "rebuke",
+  "lxxRef": "Rom 12:17",
+  "section": "Letter to the Romans"
+ },
+ {
+  "id": "ang-043",
+  "thought": "anger",
+  "book": 5,
+  "n": "43",
+  "kind": "rebuke",
+  "lxxRef": "1 Cor 6:7",
+  "section": "First Letter to the Corinthians"
+ },
+ {
+  "id": "ang-044",
+  "thought": "anger",
+  "book": 5,
+  "n": "44",
+  "kind": "rebuke",
+  "lxxRef": "1 Cor 7:21-22",
+  "section": "First Letter to the Corinthians"
+ },
+ {
+  "id": "ang-045",
+  "thought": "anger",
+  "book": 5,
+  "n": "45",
+  "kind": "self",
+  "lxxRef": "1 Cor 13:1-8",
+  "section": "First Letter to the Corinthians"
+ },
+ {
+  "id": "ang-046",
+  "thought": "anger",
+  "book": 5,
+  "n": "46",
+  "kind": "self",
+  "lxxRef": "Gal 5:22-23",
+  "section": "Letter to the Galatians"
+ },
+ {
+  "id": "ang-047",
+  "thought": "anger",
+  "book": 5,
+  "n": "47",
+  "kind": "rebuke",
+  "lxxRef": "Gal 6:2",
+  "section": "Letter to the Galatians"
+ },
+ {
+  "id": "ang-048",
+  "thought": "anger",
+  "book": 5,
+  "n": "48",
+  "kind": "self",
+  "lxxRef": "Gal 6:9",
+  "section": "Letter to the Galatians"
+ },
+ {
+  "id": "ang-049",
+  "thought": "anger",
+  "book": 5,
+  "n": "49",
+  "kind": "rebuke",
+  "lxxRef": "Eph 4:26-27",
+  "section": "Letter to the Ephesians"
+ },
+ {
+  "id": "ang-050",
+  "thought": "anger",
+  "book": 5,
+  "n": "50",
+  "kind": "rebuke",
+  "lxxRef": "Eph 4:31",
+  "section": "Letter to the Ephesians"
+ },
+ {
+  "id": "ang-051",
+  "thought": "anger",
+  "book": 5,
+  "n": "51",
+  "kind": "rebuke",
+  "lxxRef": "Phil 2:14-15",
+  "section": "From> the Letter to the Philippians"
+ },
+ {
+  "id": "ang-052",
+  "thought": "anger",
+  "book": 5,
+  "n": "52",
+  "kind": "rebuke",
+  "lxxRef": "Col 3:8-9",
+  "section": "Letter to the Colossians"
+ },
+ {
+  "id": "ang-053",
+  "thought": "anger",
+  "book": 5,
+  "n": "53",
+  "kind": "rebuke",
+  "lxxRef": "1 Thess 5:15",
+  "section": "First Letter to the Thessalonians"
+ },
+ {
+  "id": "ang-054",
+  "thought": "anger",
+  "book": 5,
+  "n": "54",
+  "kind": "self",
+  "lxxRef": "1 Tim 1:5",
+  "section": "First Letter to Timothy"
+ },
+ {
+  "id": "ang-055",
+  "thought": "anger",
+  "book": 5,
+  "n": "55",
+  "kind": "self",
+  "lxxRef": "2 Tim 2:24",
+  "section": "Second Letter to Timothy"
+ },
+ {
+  "id": "ang-056",
+  "thought": "anger",
+  "book": 5,
+  "n": "56",
+  "kind": "rebuke",
+  "lxxRef": "2 Tim 3:12",
+  "section": "Second Letter to Timothy"
+ },
+ {
+  "id": "ang-057",
+  "thought": "anger",
+  "book": 5,
+  "n": "57",
+  "kind": "rebuke",
+  "lxxRef": "Phlm 18",
+  "section": "Letter to Philemon"
+ },
+ {
+  "id": "ang-058",
+  "thought": "anger",
+  "book": 5,
+  "n": "58",
+  "kind": "self",
+  "lxxRef": "Jas 1:19-20",
+  "section": "Letter of James"
+ },
+ {
+  "id": "ang-059",
+  "thought": "anger",
+  "book": 5,
+  "n": "59",
+  "kind": "rebuke",
+  "lxxRef": "Jas 3:17-18",
+  "section": "Letter of James"
+ },
+ {
+  "id": "ang-060",
+  "thought": "anger",
+  "book": 5,
+  "n": "60",
+  "kind": "rebuke",
+  "lxxRef": "Jas 4:11-12",
+  "section": "Letter of James"
+ },
+ {
+  "id": "ang-061",
+  "thought": "anger",
+  "book": 5,
+  "n": "61",
+  "kind": "self",
+  "lxxRef": "1 Pet 3:9",
+  "section": "Letter of Peter"
+ },
+ {
+  "id": "ang-062",
+  "thought": "anger",
+  "book": 5,
+  "n": "62",
+  "kind": "self",
+  "lxxRef": "1 John 2:9",
+  "section": "Letter of John"
+ },
+ {
+  "id": "ang-063",
+  "thought": "anger",
+  "book": 5,
+  "n": "63",
+  "kind": "rebuke",
+  "lxxRef": "1 John 3:15",
+  "section": "Letter of John"
+ },
+ {
+  "id": "ang-064",
+  "thought": "anger",
+  "book": 5,
+  "n": "64",
+  "kind": "self",
+  "lxxRef": "1 John 4:20",
+  "section": "Letter of John"
+ },
+ {
+  "id": "lis-001",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "1",
+  "kind": "rebuke",
+  "lxxRef": "Gen 3:19",
+  "section": "Genesis"
+ },
+ {
+  "id": "lis-002",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "2",
+  "kind": "rebuke",
+  "lxxRef": "Exod 22:27",
+  "section": "Exodus"
+ },
+ {
+  "id": "lis-003",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "3",
+  "kind": "self",
+  "lxxRef": "Num 13:21",
+  "section": "Numbers"
+ },
+ {
+  "id": "lis-004",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "4",
+  "kind": "self",
+  "lxxRef": "Deut 6:4-5",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "lis-005",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "5",
+  "kind": "rebuke",
+  "lxxRef": "Deut 6:6-7",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "lis-006",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "6",
+  "kind": "self",
+  "lxxRef": "Deut 7:15",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "lis-007",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "7",
+  "kind": "rebuke",
+  "lxxRef": "Deut 28:7",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "lis-008",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "8",
+  "kind": "rebuke",
+  "lxxRef": "Josh 1:8-9",
+  "section": "Joshua Son of Nun"
+ },
+ {
+  "id": "lis-009",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "9",
+  "kind": "self",
+  "lxxRef": "Judg 2:20–3:2",
+  "section": "Judges"
+ },
+ {
+  "id": "lis-010",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "10",
+  "kind": "self",
+  "lxxRef": "Ps 6:7",
+  "section": "David"
+ },
+ {
+  "id": "lis-011",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "11",
+  "kind": "prayer",
+  "lxxRef": "Ps 24:18",
+  "section": "David"
+ },
+ {
+  "id": "lis-012",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "12",
+  "kind": "rebuke",
+  "lxxRef": "Ps 26:13",
+  "section": "David"
+ },
+ {
+  "id": "lis-013",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "13",
+  "kind": "rebuke",
+  "lxxRef": "Ps 33:2",
+  "section": "David"
+ },
+ {
+  "id": "lis-014",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "14",
+  "kind": "self",
+  "lxxRef": "Ps 36:3",
+  "section": "David"
+ },
+ {
+  "id": "lis-015",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "15",
+  "kind": "self",
+  "lxxRef": "Ps 36:34",
+  "section": "David"
+ },
+ {
+  "id": "lis-016",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "16",
+  "kind": "self",
+  "lxxRef": "Ps 37:11",
+  "section": "David"
+ },
+ {
+  "id": "lis-017",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "17",
+  "kind": "self",
+  "lxxRef": "Ps 37:12-13",
+  "section": "David"
+ },
+ {
+  "id": "lis-018",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "18",
+  "kind": "rebuke",
+  "lxxRef": "Ps 39:2",
+  "section": "David"
+ },
+ {
+  "id": "lis-019",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "19",
+  "kind": "self",
+  "lxxRef": "Ps 41:4",
+  "section": "David"
+ },
+ {
+  "id": "lis-020",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "20",
+  "kind": "self",
+  "lxxRef": "Ps 41:6",
+  "section": "David"
+ },
+ {
+  "id": "lis-021",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "21",
+  "kind": "prayer",
+  "lxxRef": "Ps 55:2",
+  "section": "David"
+ },
+ {
+  "id": "lis-022",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "22",
+  "kind": "prayer",
+  "lxxRef": "Ps 65:12",
+  "section": "David"
+ },
+ {
+  "id": "lis-023",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "23",
+  "kind": "prayer",
+  "lxxRef": "Ps 72:28",
+  "section": "David"
+ },
+ {
+  "id": "lis-024",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "24",
+  "kind": "rebuke",
+  "lxxRef": "Ps 76:3-4",
+  "section": "David"
+ },
+ {
+  "id": "lis-025",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "25",
+  "kind": "rebuke",
+  "lxxRef": "Ps 102:15",
+  "section": "David"
+ },
+ {
+  "id": "lis-026",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "26",
+  "kind": "rebuke",
+  "lxxRef": "Ps 131:14",
+  "section": "David"
+ },
+ {
+  "id": "lis-027",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "27",
+  "kind": "prayer",
+  "lxxRef": "Ps 142:3-4",
+  "section": "David"
+ },
+ {
+  "id": "lis-028",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "28",
+  "kind": "rebuke",
+  "lxxRef": "Prov 6:9-11",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "lis-029",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "29",
+  "kind": "rebuke",
+  "lxxRef": null,
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "lis-030",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "30",
+  "kind": "rebuke",
+  "lxxRef": "Prov 18:1",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "lis-031",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "31",
+  "kind": "self",
+  "lxxRef": "Job 5:17-19",
+  "section": "Job"
+ },
+ {
+  "id": "lis-032",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "32",
+  "kind": "rebuke",
+  "lxxRef": "Job 8:8-9",
+  "section": "Job"
+ },
+ {
+  "id": "lis-033",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "33",
+  "kind": "rebuke",
+  "lxxRef": "Job 10:20-22",
+  "section": "Job"
+ },
+ {
+  "id": "lis-034",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "34",
+  "kind": "self",
+  "lxxRef": "Job 34:9",
+  "section": "Job"
+ },
+ {
+  "id": "lis-035",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "35",
+  "kind": "rebuke",
+  "lxxRef": "Mic 4:5",
+  "section": "Micah"
+ },
+ {
+  "id": "lis-036",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "36",
+  "kind": "self",
+  "lxxRef": "Mic 7:9",
+  "section": "Micah"
+ },
+ {
+  "id": "lis-037",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "37",
+  "kind": "self",
+  "lxxRef": "Isa 41:11",
+  "section": "Isaiah"
+ },
+ {
+  "id": "lis-038",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "38",
+  "kind": "self",
+  "lxxRef": "Jer 38:16-17",
+  "section": "Jeremiah"
+ },
+ {
+  "id": "lis-039",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "39",
+  "kind": "prayer",
+  "lxxRef": "Jer 14:7-8",
+  "section": "Jeremiah"
+ },
+ {
+  "id": "lis-040",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "40",
+  "kind": "rebuke",
+  "lxxRef": "Lam 3:25-26",
+  "section": "Lamentations of Jeremiah"
+ },
+ {
+  "id": "lis-041",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "41",
+  "kind": "rebuke",
+  "lxxRef": "Lam 3:27-31",
+  "section": "Lamentations of Jeremiah"
+ },
+ {
+  "id": "lis-042",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "42",
+  "kind": "prayer",
+  "lxxRef": null,
+  "section": "Daniel"
+ },
+ {
+  "id": "lis-043",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "43",
+  "kind": "rebuke",
+  "lxxRef": "Luke 9:60; cf. Matt 8:22",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "lis-044",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "44",
+  "kind": "self",
+  "lxxRef": "Matt 19:29",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "lis-045",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "45",
+  "kind": "self",
+  "lxxRef": "Luke 14:26",
+  "section": "Gospel of Luke"
+ },
+ {
+  "id": "lis-046",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "46",
+  "kind": "rebuke",
+  "lxxRef": "Acts 5:29",
+  "section": "Acts"
+ },
+ {
+  "id": "lis-047",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "47",
+  "kind": "rebuke",
+  "lxxRef": "Rom 12:12",
+  "section": "Letter to the Romans"
+ },
+ {
+  "id": "lis-048",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "48",
+  "kind": "rebuke",
+  "lxxRef": "1 Cor 10:10",
+  "section": "First Letter to the Corinthians"
+ },
+ {
+  "id": "lis-049",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "49",
+  "kind": "rebuke",
+  "lxxRef": "2 Cor 11:23-28",
+  "section": "Second Letter to the Corinthians"
+ },
+ {
+  "id": "lis-050",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "50",
+  "kind": "rebuke",
+  "lxxRef": "Eph 5:20-21",
+  "section": "<the Letter> to the Ephesians"
+ },
+ {
+  "id": "lis-051",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "51",
+  "kind": "self",
+  "lxxRef": "Phil 1:29-30",
+  "section": "<the Letter> to the Philippians"
+ },
+ {
+  "id": "lis-052",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "52",
+  "kind": "self",
+  "lxxRef": "Heb 10:36-38",
+  "section": "Letter to the Hebrews"
+ },
+ {
+  "id": "lis-053",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "53",
+  "kind": "rebuke",
+  "lxxRef": "Heb 13:14",
+  "section": "Letter to the Hebrews"
+ },
+ {
+  "id": "lis-054",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "54",
+  "kind": "self",
+  "lxxRef": "Heb 11:36-38",
+  "section": "Letter to the Hebrews"
+ },
+ {
+  "id": "lis-055",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "55",
+  "kind": "rebuke",
+  "lxxRef": "Heb 13:17",
+  "section": "Letter to the Hebrews"
+ },
+ {
+  "id": "lis-056",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "56",
+  "kind": "rebuke",
+  "lxxRef": "Jas 1:2-4",
+  "section": "Letter of James"
+ },
+ {
+  "id": "lis-057",
+  "thought": "listlessness",
+  "book": 6,
+  "n": "57",
+  "kind": "self",
+  "lxxRef": "Jas 1:12",
+  "section": "Letter of James"
+ },
+ {
+  "id": "vai-001",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "1",
+  "kind": "rebuke",
+  "lxxRef": "Gen 19:17",
+  "section": "Genesis"
+ },
+ {
+  "id": "vai-002",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "2",
+  "kind": "rebuke",
+  "lxxRef": "Num 11:29",
+  "section": "Numbers"
+ },
+ {
+  "id": "vai-003",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "3",
+  "kind": "self",
+  "lxxRef": "Num 17:4-5",
+  "section": "Numbers"
+ },
+ {
+  "id": "vai-004",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "4",
+  "kind": "rebuke",
+  "lxxRef": "Deut 16:20",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "vai-005",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "5",
+  "kind": "rebuke",
+  "lxxRef": "Deut 22:10",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "vai-006",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "6",
+  "kind": "rebuke",
+  "lxxRef": "1 Kgdms 18:23",
+  "section": "Samuel"
+ },
+ {
+  "id": "vai-007",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "7",
+  "kind": "self",
+  "lxxRef": "4 Kgdms 6:1-2",
+  "section": "Book of Kings"
+ },
+ {
+  "id": "vai-008",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "8",
+  "kind": "self",
+  "lxxRef": "Ps 5:10",
+  "section": "David"
+ },
+ {
+  "id": "vai-009",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "9",
+  "kind": "rebuke",
+  "lxxRef": "Ps 83:4",
+  "section": "David"
+ },
+ {
+  "id": "vai-010",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "10",
+  "kind": "rebuke",
+  "lxxRef": "Ps 118:115",
+  "section": "David"
+ },
+ {
+  "id": "vai-011",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "11",
+  "kind": "rebuke",
+  "lxxRef": "Ps 139:6",
+  "section": "David"
+ },
+ {
+  "id": "vai-012",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "12",
+  "kind": "rebuke",
+  "lxxRef": "Prov 10:19",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "vai-013",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "13",
+  "kind": "rebuke",
+  "lxxRef": "Prov 14:12",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "vai-014",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "14",
+  "kind": "rebuke",
+  "lxxRef": "Prov 18:13",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "vai-015",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "15",
+  "kind": "rebuke",
+  "lxxRef": "Prov 20:11",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "vai-016",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "16",
+  "kind": "rebuke",
+  "lxxRef": "Prov 22:26-27",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "vai-017",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "17",
+  "kind": "self",
+  "lxxRef": "Prov 23:9",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "vai-018",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "18",
+  "kind": "rebuke",
+  "lxxRef": "Prov 26:22",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "vai-019",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "19",
+  "kind": "rebuke",
+  "lxxRef": "Prov 26:24-25",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "vai-020",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "20",
+  "kind": "rebuke",
+  "lxxRef": "Prov 27:2",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "vai-021",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "21",
+  "kind": "rebuke",
+  "lxxRef": "Qo 3:7",
+  "section": "Qoheleth"
+ },
+ {
+  "id": "vai-022",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "22",
+  "kind": "self",
+  "lxxRef": "Job 1:9-10",
+  "section": "Job"
+ },
+ {
+  "id": "vai-023",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "23",
+  "kind": "rebuke",
+  "lxxRef": "Isa 10:16",
+  "section": "Isaiah"
+ },
+ {
+  "id": "vai-024",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "24",
+  "kind": "self",
+  "lxxRef": "Isa 40:6-8",
+  "section": "Isaiah"
+ },
+ {
+  "id": "vai-025",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "25",
+  "kind": "prayer",
+  "lxxRef": "Jer 17:14",
+  "section": "Jeremiah"
+ },
+ {
+  "id": "vai-026",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "26",
+  "kind": "rebuke",
+  "lxxRef": "Lam 3:53",
+  "section": "Lamentations of Jeremiah"
+ },
+ {
+  "id": "vai-027",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "27",
+  "kind": "rebuke",
+  "lxxRef": "Sus 55",
+  "section": "Daniel"
+ },
+ {
+  "id": "vai-028",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "28",
+  "kind": "rebuke",
+  "lxxRef": "Sus 59",
+  "section": "Daniel"
+ },
+ {
+  "id": "vai-029",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "29",
+  "kind": "rebuke",
+  "lxxRef": "Matt 5:19",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "vai-030",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "30",
+  "kind": "rebuke",
+  "lxxRef": "Matt 6:1",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "vai-031",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "31",
+  "kind": "rebuke",
+  "lxxRef": "Matt 6:5",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "vai-032",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "32",
+  "kind": "rebuke",
+  "lxxRef": "Matt 6:16",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "vai-033",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "33",
+  "kind": "rebuke",
+  "lxxRef": "Matt 12:36-37",
+  "section": "Gospel of Matthew"
+ },
+ {
+  "id": "vai-034",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "34",
+  "kind": "rebuke",
+  "lxxRef": "Luke 10:20",
+  "section": "Gospel of Luke"
+ },
+ {
+  "id": "vai-035",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "35",
+  "kind": "rebuke",
+  "lxxRef": "John 8:44",
+  "section": "Gospel of John"
+ },
+ {
+  "id": "vai-036",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "36",
+  "kind": "rebuke",
+  "lxxRef": "Acts 8:20",
+  "section": "Acts"
+ },
+ {
+  "id": "vai-037",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "37",
+  "kind": "self",
+  "lxxRef": "1 Cor 3:19",
+  "section": "First <Letter> to the Corinthians"
+ },
+ {
+  "id": "vai-038",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "38",
+  "kind": "rebuke",
+  "lxxRef": "2 Cor 10:17-18",
+  "section": "Second <Letter> to the Corinthians"
+ },
+ {
+  "id": "vai-039",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "39",
+  "kind": "rebuke",
+  "lxxRef": "Gal 1:10",
+  "section": "Letter to the Galatians"
+ },
+ {
+  "id": "vai-040",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "40",
+  "kind": "rebuke",
+  "lxxRef": "Heb 5:4",
+  "section": "Letter to the Hebrews"
+ },
+ {
+  "id": "vai-041",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "41",
+  "kind": "rebuke",
+  "lxxRef": "Jas 3:1-2",
+  "section": "Letter of James"
+ },
+ {
+  "id": "vai-042",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "42",
+  "kind": "rebuke",
+  "lxxRef": null,
+  "section": "Letter of James"
+ },
+ {
+  "id": "vai-043",
+  "thought": "vainglory",
+  "book": 7,
+  "n": "43",
+  "kind": "rebuke",
+  "lxxRef": "1 John 2:15",
+  "section": "Letter of John"
+ },
+ {
+  "id": "pri-001",
+  "thought": "pride",
+  "book": 8,
+  "n": "1",
+  "kind": "rebuke",
+  "lxxRef": "Gen 3:14",
+  "section": "Book of Genesis"
+ },
+ {
+  "id": "pri-002",
+  "thought": "pride",
+  "book": 8,
+  "n": "2",
+  "kind": "rebuke",
+  "lxxRef": "Gen 18:27",
+  "section": "Book of Genesis"
+ },
+ {
+  "id": "pri-003",
+  "thought": "pride",
+  "book": 8,
+  "n": "3",
+  "kind": "rebuke",
+  "lxxRef": "Gen 48:15-16",
+  "section": "Book of Genesis"
+ },
+ {
+  "id": "pri-004",
+  "thought": "pride",
+  "book": 8,
+  "n": "4",
+  "kind": "self",
+  "lxxRef": "Exod 5:9",
+  "section": "Exodus"
+ },
+ {
+  "id": "pri-005",
+  "thought": "pride",
+  "book": 8,
+  "n": "5",
+  "kind": "rebuke",
+  "lxxRef": "Exod 15:1-2",
+  "section": "Exodus"
+ },
+ {
+  "id": "pri-006",
+  "thought": "pride",
+  "book": 8,
+  "n": "6",
+  "kind": "prayer",
+  "lxxRef": "Exod 15:6-7",
+  "section": "Exodus"
+ },
+ {
+  "id": "pri-007",
+  "thought": "pride",
+  "book": 8,
+  "n": "7",
+  "kind": "rebuke",
+  "lxxRef": "Exod 23:20-21",
+  "section": "Exodus"
+ },
+ {
+  "id": "pri-008",
+  "thought": "pride",
+  "book": 8,
+  "n": "8",
+  "kind": "rebuke",
+  "lxxRef": "Lev 19:32",
+  "section": "Book of Leviticus"
+ },
+ {
+  "id": "pri-009",
+  "thought": "pride",
+  "book": 8,
+  "n": "9",
+  "kind": "rebuke",
+  "lxxRef": "Lev 24:15-16",
+  "section": "Book of Leviticus"
+ },
+ {
+  "id": "pri-010",
+  "thought": "pride",
+  "book": 8,
+  "n": "10",
+  "kind": "prayer",
+  "lxxRef": "Num 10:35",
+  "section": "Numbers"
+ },
+ {
+  "id": "pri-011",
+  "thought": "pride",
+  "book": 8,
+  "n": "11",
+  "kind": "self",
+  "lxxRef": "Num 14:6-9",
+  "section": "Numbers"
+ },
+ {
+  "id": "pri-012",
+  "thought": "pride",
+  "book": 8,
+  "n": "12",
+  "kind": "rebuke",
+  "lxxRef": "Deut 6:16",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "pri-013",
+  "thought": "pride",
+  "book": 8,
+  "n": "13",
+  "kind": "self",
+  "lxxRef": "Deut 8:17-18",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "pri-014",
+  "thought": "pride",
+  "book": 8,
+  "n": "14",
+  "kind": "self",
+  "lxxRef": "Deut 9:4-5",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "pri-015",
+  "thought": "pride",
+  "book": 8,
+  "n": "15",
+  "kind": "rebuke",
+  "lxxRef": "Deut 28:16-17",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "pri-016",
+  "thought": "pride",
+  "book": 8,
+  "n": "16",
+  "kind": "rebuke",
+  "lxxRef": "Deut 30:15",
+  "section": "Deuteronomy"
+ },
+ {
+  "id": "pri-017",
+  "thought": "pride",
+  "book": 8,
+  "n": "17",
+  "kind": "rebuke",
+  "lxxRef": "Josh 5:13-14",
+  "section": "Joshua the Son of Nun"
+ },
+ {
+  "id": "pri-018",
+  "thought": "pride",
+  "book": 8,
+  "n": "18",
+  "kind": "rebuke",
+  "lxxRef": "1 Kgdms 2:25",
+  "section": "Samuel"
+ },
+ {
+  "id": "pri-019",
+  "thought": "pride",
+  "book": 8,
+  "n": "19",
+  "kind": "self",
+  "lxxRef": "3 Kgdms 18:42",
+  "section": "Book of Kings"
+ },
+ {
+  "id": "pri-020",
+  "thought": "pride",
+  "book": 8,
+  "n": "20",
+  "kind": "self",
+  "lxxRef": "4 Kgdms 19:6-7",
+  "section": "Book of Kings"
+ },
+ {
+  "id": "pri-021",
+  "thought": "pride",
+  "book": 8,
+  "n": "21",
+  "kind": "prayer",
+  "lxxRef": "4 Kgdms 19:15-16",
+  "section": "Book of Kings"
+ },
+ {
+  "id": "pri-022",
+  "thought": "pride",
+  "book": 8,
+  "n": "22",
+  "kind": "prayer",
+  "lxxRef": "1 Esd 4:59-60",
+  "section": "Ezra"
+ },
+ {
+  "id": "pri-023",
+  "thought": "pride",
+  "book": 8,
+  "n": "23",
+  "kind": "prayer",
+  "lxxRef": "Ps 7:2-3",
+  "section": "David"
+ },
+ {
+  "id": "pri-024",
+  "thought": "pride",
+  "book": 8,
+  "n": "24",
+  "kind": "prayer",
+  "lxxRef": "Ps 35:12",
+  "section": "David"
+ },
+ {
+  "id": "pri-025",
+  "thought": "pride",
+  "book": 8,
+  "n": "25",
+  "kind": "prayer",
+  "lxxRef": "Ps 43:7-8",
+  "section": "David"
+ },
+ {
+  "id": "pri-026",
+  "thought": "pride",
+  "book": 8,
+  "n": "26",
+  "kind": "rebuke",
+  "lxxRef": "Ps 49:16-17",
+  "section": "David"
+ },
+ {
+  "id": "pri-027",
+  "thought": "pride",
+  "book": 8,
+  "n": "27",
+  "kind": "rebuke",
+  "lxxRef": "Ps 61:4",
+  "section": "David"
+ },
+ {
+  "id": "pri-028",
+  "thought": "pride",
+  "book": 8,
+  "n": "28",
+  "kind": "prayer",
+  "lxxRef": "Ps 64:4",
+  "section": "David"
+ },
+ {
+  "id": "pri-029",
+  "thought": "pride",
+  "book": 8,
+  "n": "29",
+  "kind": "rebuke",
+  "lxxRef": "Ps 74:6",
+  "section": "David"
+ },
+ {
+  "id": "pri-030",
+  "thought": "pride",
+  "book": 8,
+  "n": "30",
+  "kind": "rebuke",
+  "lxxRef": "Ps 126:1",
+  "section": "David"
+ },
+ {
+  "id": "pri-031",
+  "thought": "pride",
+  "book": 8,
+  "n": "31",
+  "kind": "rebuke",
+  "lxxRef": "Prov 3:34",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "pri-032",
+  "thought": "pride",
+  "book": 8,
+  "n": "32",
+  "kind": "self",
+  "lxxRef": "Prov 4:17",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "pri-033",
+  "thought": "pride",
+  "book": 8,
+  "n": "33",
+  "kind": "rebuke",
+  "lxxRef": "Prov 13:20",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "pri-034",
+  "thought": "pride",
+  "book": 8,
+  "n": "34",
+  "kind": "rebuke",
+  "lxxRef": "Prov 18:19",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "pri-035",
+  "thought": "pride",
+  "book": 8,
+  "n": "35",
+  "kind": "rebuke",
+  "lxxRef": "Prov 20:9",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "pri-036",
+  "thought": "pride",
+  "book": 8,
+  "n": "36",
+  "kind": "rebuke",
+  "lxxRef": "Prov 28:14",
+  "section": "Proverbs of Solomon"
+ },
+ {
+  "id": "pri-037",
+  "thought": "pride",
+  "book": 8,
+  "n": "37",
+  "kind": "rebuke",
+  "lxxRef": "Qo 3:20",
+  "section": "Qoheleth"
+ },
+ {
+  "id": "pri-038",
+  "thought": "pride",
+  "book": 8,
+  "n": "38",
+  "kind": "rebuke",
+  "lxxRef": "Qo 7:20",
+  "section": "Qoheleth"
+ },
+ {
+  "id": "pri-039",
+  "thought": "pride",
+  "book": 8,
+  "n": "39",
+  "kind": "rebuke",
+  "lxxRef": "Qo 9:4",
+  "section": "Qoheleth"
+ },
+ {
+  "id": "pri-040",
+  "thought": "pride",
+  "book": 8,
+  "n": "40",
+  "kind": "rebuke",
+  "lxxRef": "Job 13:4",
+  "section": "Job"
+ },
+ {
+  "id": "pri-041",
+  "thought": "pride",
+  "book": 8,
+  "n": "41",
+  "kind": "rebuke",
+  "lxxRef": "Job 13:7",
+  "section": "Job"
+ },
+ {
+  "id": "pri-042",
+  "thought": "pride",
+  "book": 8,
+  "n": "42",
+  "kind": "rebuke",
+  "lxxRef": "Job 14:4-5",
+  "section": "Job"
+ },
+ {
+  "id": "pri-043",
+  "thought": "pride",
+  "book": 8,
+  "n": "43",
+  "kind": "self",
+  "lxxRef": "Job 22:3",
+  "section": "Job"
+ },
+ {
+  "id": "pri-044",
+  "thought": "pride",
+  "book": 8,
+  "n": "44",
+  "kind": "rebuke",
+  "lxxRef": "Zech 3:2",
+  "section": "Zechariah"
+ },
+ {
+  "id": "pri-045",
+  "thought": "pride",
+  "book": 8,
+  "n": "45",
+  "kind": "rebuke",
+  "lxxRef": "Isa 5:21",
+  "section": "Isaiah"
+ },
+ {
+  "id": "pri-046",
+  "thought": "pride",
+  "book": 8,
+  "n": "46",
+  "kind": "self",
+  "lxxRef": "Isa 19:17",
+  "section": "Isaiah"
+ },
+ {
+  "id": "pri-047",
+  "thought": "pride",
+  "book": 8,
+  "n": "47",
+  "kind": "rebuke",
+  "lxxRef": "Jer 10:11",
+  "section": "Jeremiah"
+ },
+ {
+  "id": "pri-048",
+  "thought": "pride",
+  "book": 8,
+  "n": "48",
+  "kind": "prayer",
+  "lxxRef": "Jer 10:23",
+  "section": "Jeremiah"
+ },
+ {
+  "id": "pri-049a",
+  "thought": "pride",
+  "book": 8,
+  "n": "49a",
+  "kind": "self",
+  "lxxRef": "Lam 3:31-33",
+  "section": "Lamentations of Jeremiah"
+ },
+ {
+  "id": "pri-049b",
+  "thought": "pride",
+  "book": 8,
+  "n": "49b",
+  "kind": "prayer",
+  "lxxRef": "Lam 3:43-45",
+  "section": "Lamentations of Jeremiah"
+ },
+ {
+  "id": "pri-050",
+  "thought": "pride",
+  "book": 8,
+  "n": "50",
+  "kind": "rebuke",
+  "lxxRef": "Mark 9:35",
+  "section": "Gospel of Mark"
+ },
+ {
+  "id": "pri-051",
+  "thought": "pride",
+  "book": 8,
+  "n": "51",
+  "kind": "rebuke",
+  "lxxRef": "Luke 17:10",
+  "section": "Gospel of Luke"
+ },
+ {
+  "id": "pri-052",
+  "thought": "pride",
+  "book": 8,
+  "n": "52",
+  "kind": "rebuke",
+  "lxxRef": "Luke 14:11",
+  "section": "Gospel of Luke"
+ },
+ {
+  "id": "pri-053",
+  "thought": "pride",
+  "book": 8,
+  "n": "53",
+  "kind": "rebuke",
+  "lxxRef": "Rom 14:3a",
+  "section": "Letter to the Romans"
+ },
+ {
+  "id": "pri-054",
+  "thought": "pride",
+  "book": 8,
+  "n": "54",
+  "kind": "rebuke",
+  "lxxRef": "Rom 14:3b",
+  "section": "Letter to the Romans"
+ },
+ {
+  "id": "pri-055",
+  "thought": "pride",
+  "book": 8,
+  "n": "55",
+  "kind": "rebuke",
+  "lxxRef": "1 Cor 15:10",
+  "section": "First <Letter> to the Corinthians"
+ },
+ {
+  "id": "pri-056",
+  "thought": "pride",
+  "book": 8,
+  "n": "56",
+  "kind": "self",
+  "lxxRef": "2 Cor 11:14-15",
+  "section": "Second <Letter> to the Corinthians"
+ },
+ {
+  "id": "pri-057",
+  "thought": "pride",
+  "book": 8,
+  "n": "57",
+  "kind": "rebuke",
+  "lxxRef": "Gal 6:1",
+  "section": "Letter to the Galatians"
+ },
+ {
+  "id": "pri-058",
+  "thought": "pride",
+  "book": 8,
+  "n": "58",
+  "kind": "rebuke",
+  "lxxRef": "Phil 3:12",
+  "section": "Letter to the Philippians"
+ },
+ {
+  "id": "pri-059",
+  "thought": "pride",
+  "book": 8,
+  "n": "59",
+  "kind": "rebuke",
+  "lxxRef": "1 John 1:8-9",
+  "section": "Letter of John"
+ },
+ {
+  "id": "pri-060",
+  "thought": "pride",
+  "book": 8,
+  "n": "60",
+  "kind": "self",
+  "lxxRef": "1983",
+  "section": "Letter of Jude"
+ }
+]
