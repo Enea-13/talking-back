@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The page background in src/styles.css; values-night/colors.xml has the dark theme's. -->
+    <color name="page_background">#F5EFE2</color>
+</resources>

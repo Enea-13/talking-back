@@ -2,3 +2,8 @@ node_modules
 dist
 .cache
 *.local
+
+# Android signing keys stay out of the repo
+*.jks
+*.keystore
+keystore.properties

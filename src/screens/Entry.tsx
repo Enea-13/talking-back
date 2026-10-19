@@ -3,6 +3,7 @@ import { entryById, thoughtById, clusterTitle, mainVerses, altVerses, nextInClus
 import { href } from '../lib/router';
 import { toggleSaved, useSaved } from '../lib/storage';
 import { canSpeak, useSpeech } from '../lib/speak';
+import { isNative, shareNative, tap } from '../lib/native';
 import { TopBar, CarePanel } from '../components/parts';
 import { CARE_ENTRY_IDS } from '../lib/care';
 import { NotFound } from './Thought';
@@ -46,6 +47,11 @@ export function Entry({ id }: { id: string }) {
     const text = `${verses.map((v) => `“${v.text}” (${v.ref})`).join('\n')}\n\nWhen the thought says: “${e.voice}”`;
     const url = location.href;
     try {
+      if (isNative) {
+        // The app's own address means nothing on another device, so the words go alone.
+        await shareNative(text);
+        return;
+      }
       if (navigator.share) {
         await navigator.share({ title: 'Talking Back', text, url });
         return;
@@ -59,7 +65,14 @@ export function Entry({ id }: { id: string }) {
   };
 
   const save = (
-    <button class={`side${isSaved ? ' on' : ''}`} onClick={() => toggleSaved(e.id)} aria-pressed={isSaved}>
+    <button
+      class={`side${isSaved ? ' on' : ''}`}
+      onClick={() => {
+        tap();
+        toggleSaved(e.id);
+      }}
+      aria-pressed={isSaved}
+    >
       <span class="ring">
         <I.Star filled={isSaved} size={20} />
       </span>

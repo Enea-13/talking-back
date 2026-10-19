@@ -8,6 +8,19 @@ npm run dev        # http://localhost:5173
 npm run build      # rebuilds data/entries.json, type-checks, writes dist/
 ```
 
+## iOS and Android apps
+
+`ios/` and `android/` are [Capacitor](https://capacitorjs.com) projects that bundle the same build, so the apps work offline. Native touches (share sheet, text-to-speech, haptics, status bar, splash) live in `src/lib/native.ts` and `src/lib/speak.ts`; on the web they fall back to the browser's own.
+
+```bash
+npm run sync           # build, then copy dist/ into both native projects
+npm run ios            # sync and open Xcode (needs Xcode 26+)
+npm run android        # sync and open Android Studio
+npm run native-assets  # redraw app icons and splash screens from public/icon.svg
+```
+
+Setup, testing and store submission: [docs/store-release.md](docs/store-release.md).
+
 ## Data
 
 `data/entries.json` is the single file the app reads, and the contract a future iOS app will reuse. It is generated; don’t edit it by hand.
