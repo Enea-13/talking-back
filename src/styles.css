@@ -1007,6 +1007,36 @@ select {
   margin-top: 8px;
 }
 
+/* the painting, shown near its real size (a panel about 21 x 16 cm) */
+.painting {
+  width: min(100%, 15em);
+  margin: 26px auto 8px;
+  text-align: center;
+}
+
+.painting img {
+  display: block;
+  width: 100%;
+  height: auto;
+  padding: 6px;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: var(--surface);
+  box-shadow: 0 0 0 6px var(--glow);
+}
+
+.painting figcaption {
+  margin-top: 16px;
+  font-size: 0.8em;
+  color: var(--muted);
+}
+
+.painting figcaption span {
+  display: block;
+  margin-top: 4px;
+  font-size: 0.92em;
+}
+
 .toggle {
   margin-top: 14px;
   display: flex;

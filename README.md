@@ -36,5 +36,6 @@ node scripts/build-data.mjs --reading <work>/reading.txt
 - Verses: *World English Bible* (US, “LORD” edition), public domain.
 - Greek Old Testament wording: Brenton’s English Septuagint (1851), public domain.
 - Typeface: Literata (Latin subset, `src/assets/fonts/`), SIL Open Font License.
+- Painting (About screen): Juan de Flandes, *The Temptation of Christ*, c. 1500–1504, National Gallery of Art, Washington, accession 1967.7.1. Public domain, from the NGA’s open-access images (free for any use). `src/assets/art/` holds a 600 px copy.
 - Crisis lines in `src/lib/care.ts` were checked in October 2026; recheck them before each store release.
 - Entry numbering follows David Brakke’s translation, *Talking Back* (Liturgical Press, 2009). The app’s situations are original modern wording, not quotations.

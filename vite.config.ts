@@ -24,7 +24,7 @@ export default defineConfig({
           { src: 'icon.svg', sizes: 'any', type: 'image/svg+xml' },
         ],
       },
-      workbox: { globPatterns: ['**/*.{js,css,html,svg,png,json,woff2}'] },
+      workbox: { globPatterns: ['**/*.{js,css,html,svg,png,jpg,json,woff2}'] },
     }),
   ],
 });

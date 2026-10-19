@@ -1,6 +1,7 @@
 import { href } from '../lib/router';
 import { useLargeText, useTheme, type Theme } from '../lib/storage';
 import { TopBar } from '../components/parts';
+import painting from '../assets/art/temptation-of-christ.jpg';
 
 const THEMES: [Theme, string][] = [
   ['auto', 'Automatic'],
@@ -27,6 +28,20 @@ export function About() {
           He gathered them in advance because, as he explains, the right words are hard to find in the moment of struggle. Jesus answered his
           tempter in the wilderness by quoting Scripture, and Evagrius invites us to do the same.
         </p>
+        <figure class="painting">
+          <img
+            src={painting}
+            width={600}
+            height={797}
+            loading="lazy"
+            decoding="async"
+            alt="Christ, seated in a dark blue robe, raises his hand as he answers the devil, who is disguised as a friar with small horns and clawed feet and holds out a stone."
+          />
+          <figcaption>
+            Juan de Flandes, <em>The Temptation of Christ</em>, c. 1500–1504. The devil, disguised as a friar, offers a stone to turn into bread.
+            <span>National Gallery of Art, Washington · public domain</span>
+          </figcaption>
+        </figure>
 
         <h2>How to use it</h2>
         <ol>
@@ -66,6 +81,10 @@ export function About() {
           <em>World English Bible</em> (public domain). Evagrius used the Greek Old Testament, so where its wording differs, the app also shows
           Brenton’s 1851 translation of the Septuagint (public domain), marked “As Evagrius read it.” Shortened passages are marked
           with “…”, and psalm titles and the word “Selah” are left out.
+        </p>
+        <p>
+          The painting is Juan de Flandes, <em>The Temptation of Christ</em> (c. 1500–1504), from the open-access collection of the National Gallery
+          of Art, Washington (public domain).
         </p>
         <p>Text is set in Literata, by the Literata Project Authors (SIL Open Font License).</p>
         <p>
