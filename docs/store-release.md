@@ -13,7 +13,7 @@ Only you can create the developer accounts, sign builds with real certificates a
 
 ## 1. Set up this Mac (once)
 
-When the native projects were added (October 2026), this Mac had none of the native toolchains, only the Xcode Command Line Tools and an Intel-only Java 8 that can't run on Apple silicon without Rosetta. Xcode with a Simulator runtime takes about 20 GB, and Android Studio with the SDK and an emulator about 10 GB more, so free up space first.
+Xcode is installed (27.1, with an iOS 27 Simulator). Android Studio isn't yet; the only Java on this Mac is an Intel-only Java 8, which can't run on Apple silicon without Rosetta. Android Studio with the SDK and an emulator needs about 10 GB of free space.
 
 **iOS**
 - [ ] Install **Xcode 26 or later** from the Mac App Store. Since April 2026, App Store uploads must be built with the iOS 26 SDK.
@@ -52,6 +52,10 @@ npx cap run android --target <emulator>   # build, install and launch
 After changing `public/icon.svg`, run `npm run native-assets` to redraw the native icons and splash screens.
 
 ## 3. Test on a Simulator or emulator, then on a real phone
+
+On 20 October 2026, everything below that a Simulator can show passed on an iPhone 17 Simulator (iOS 27.0). That covers both themes and splashes, search, the response card, the native voice, Save across relaunches, the share sheet, the crisis panel handing `tel:988` to iOS and findahelpline.com to Safari, and no network connections at launch. Still to test: haptics, the actual call prompt and airplane mode on a real iPhone, and everything on Android.
+
+Known cosmetic issue: with the theme set to Light in About while the iPhone itself is in dark mode, iOS shades the strip under the clock dark. It is drawn outside the page, and neither the web view's background nor its light/dark setting changes it. Automatic (the default) and Dark look right.
 
 - [ ] Launch in light mode, then in dark mode: the splash should match, with no white flash, and the status bar text should be readable.
 - [ ] About → Appearance: choosing Light or Dark switches the status bar text (and the Android navigation bar) with the page.

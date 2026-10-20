@@ -36,6 +36,12 @@ function matchBars() {
 
 /** Native start-up, after the first render: match the system bars to the theme, then lift the splash. */
 export function startNative() {
+  // Web view habits an app doesn't have: a grey box behind whatever is tapped, and a long press
+  // selecting a button's label or opening a link preview. Verse text stays selectable.
+  const app = document.createElement('style');
+  app.textContent =
+    '* { -webkit-tap-highlight-color: transparent } a, button, label { -webkit-user-select: none; user-select: none; -webkit-touch-callout: none }';
+  document.head.append(app);
   matchBars();
   new MutationObserver(matchBars).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
   darkQuery.addEventListener('change', matchBars);
