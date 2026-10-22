@@ -1,4 +1,5 @@
 import { Capacitor, SystemBars, SystemBarsStyle, SystemBarType } from '@capacitor/core';
+import { App } from '@capacitor/app';
 import { Haptics, ImpactStyle } from '@capacitor/haptics';
 import { Share } from '@capacitor/share';
 import { SplashScreen } from '@capacitor/splash-screen';
@@ -45,5 +46,7 @@ export function startNative() {
   matchBars();
   new MutationObserver(matchBars).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
   darkQuery.addEventListener('change', matchBars);
+  // Android's back button and gesture: back through the pages, and from the first one, out of the app.
+  App.addListener('backButton', ({ canGoBack }) => (canGoBack ? history.back() : App.minimizeApp())).catch(() => {});
   SplashScreen.hide().catch(() => {});
 }

@@ -8,12 +8,16 @@ Talking Back ships to the App Store and Google Play as a Capacitor app: the same
 | Bundle ID / application ID | `io.github.enea13.talkingback` (permanent once published) |
 | Version | 1.0 (build 1) on both platforms |
 | Minimum OS | iOS 15, Android 7.0 (API 24); Android targets API 36 |
+| Privacy policy URL | https://enea-13.github.io/talking-back-site/privacy |
+| Support URL | https://enea-13.github.io/talking-back-site/ |
 
 Only you can create the developer accounts, sign builds with real certificates and submit. Nothing in this repository does any of that.
 
 ## 1. Set up this Mac (once)
 
-Xcode is installed (27.1, with an iOS 27 Simulator). Android Studio isn't yet; the only Java on this Mac is an Intel-only Java 8, which can't run on Apple silicon without Rosetta. Android Studio with the SDK and an emulator needs about 10 GB of free space.
+Both are installed: Xcode 27.1 with an iOS 27 Simulator, and Android Studio 2026.2 with SDK platforms 36 and 37 and a "Medium Phone API 37.0" emulator.
+
+Android Studio 2026.2 runs Gradle on its bundled JDK 25, which the Gradle 8.14.3 in Capacitor's template can't run on ("Unsupported class file major version 69"). The project therefore uses the **Gradle 9.1.0** wrapper (`android/gradle/wrapper/gradle-wrapper.properties`) with Capacitor's Android Gradle Plugin 8.13; it builds cleanly. Keep that line if a Capacitor upgrade ever resets it.
 
 **iOS**
 - [ ] Install **Xcode 26 or later** from the Mac App Store. Since April 2026, App Store uploads must be built with the iOS 26 SDK.
@@ -22,9 +26,9 @@ Xcode is installed (27.1, with an iOS 27 Simulator). Android Studio isn't yet; t
 - [ ] CocoaPods is not needed. Capacitor 8 uses Swift Package Manager, which comes with Xcode.
 
 **Android**
-- [ ] Install the current **Android Studio** (Narwhal 3 / 2025.1.3 or newer, for Android Gradle Plugin 8.13). It includes JDK 21, which Capacitor 8 requires.
+- [ ] Install the current **Android Studio**. Its bundled JDK (25 in Android Studio 2026.2) builds this project with the Gradle 9.1 wrapper.
 - [ ] In the SDK Manager, install **Android SDK Platform 36**, the latest **Build-Tools**, **Platform-Tools** and the **Emulator**.
-- [ ] In the Device Manager, create an emulator (e.g. Pixel 9, API 36, arm64 image).
+- [ ] In the Device Manager, create an emulator (e.g. Medium Phone, API 37, arm64 image). If its screen or status bar comes up black, start it with software rendering: `emulator -avd <name> -gpu swiftshader_indirect`.
 - [ ] For command-line builds, add this to `~/.zshrc`:
   ```bash
   export JAVA_HOME="/Applications/Android Studio.app/Contents/jbr/Contents/Home"
@@ -53,7 +57,9 @@ After changing `public/icon.svg`, run `npm run native-assets` to redraw the nati
 
 ## 3. Test on a Simulator or emulator, then on a real phone
 
-On 20 October 2026, everything below that a Simulator can show passed on an iPhone 17 Simulator (iOS 27.0). That covers both themes and splashes, search, the response card, the native voice, Save across relaunches, the share sheet, the crisis panel handing `tel:988` to iOS and findahelpline.com to Safari, and no network connections at launch. Still to test: haptics, the actual call prompt and airplane mode on a real iPhone, and everything on Android.
+On 20 October 2026, everything below that a Simulator can show passed on an iPhone 17 Simulator (iOS 27.0). That covers both themes and splashes, search, the response card, the native voice, Save across relaunches, the share sheet, the crisis panel handing `tel:988` to iOS and findahelpline.com to Safari, and no network connections at launch. Still to test on a real iPhone: haptics, the actual call prompt and airplane mode.
+
+On 22 October 2026 the same checks passed on the Android emulator (Medium Phone, Android 17 / API 37): light and dark splash and system bars, search, the response card, Speak it back with each word lit as it is read (Google's on-device voice), Save with its haptic call, the Android share sheet, the crisis panel opening the dialer with 988 filled in and findahelpline.com in Chrome, the back button (back through the pages, then out of the app), the Privacy screen, and everything in airplane mode. Still to test on a real Android phone: feeling the haptic.
 
 Known cosmetic issue: with the theme set to Light in About while the iPhone itself is in dark mode, iOS shades the strip under the clock dark. It is drawn outside the page, and neither the web view's background nor its light/dark setting changes it. Automatic (the default) and Dark look right.
 
@@ -100,10 +106,11 @@ Known cosmetic issue: with the theme set to Light in About while the iPhone itse
 
 Both stores need a public privacy-policy URL. Apple also wants it reachable **inside the app** (guideline 5.1.1).
 
-- [ ] Fill in the brackets in [`docs/privacy.md`](privacy.md): your name, contact email and effective date.
-- [ ] Host it. With GitHub Pages: repository Settings → Pages → Deploy from branch `main`, folder `/docs`. It is then at `https://enea-13.github.io/talking-back/privacy` (everything else in `docs/` becomes public too, which is harmless). Any other static host works.
-- [ ] Add a "Privacy policy" link to the About screen (`src/screens/About.tsx`, next to "Everything stays on your device"). On the app, external links open in the browser.
-- [ ] Paste the URL into App Store Connect (App Privacy) and Play Console (App content → Privacy policy).
+- [x] The policy is [`docs/privacy.md`](privacy.md) (maker Enea-13, contact eneamalaj13@gmail.com, effective 22 October 2026).
+- [x] In the app: About → "privacy policy" opens the Privacy screen (`#/privacy`), which shows that same file and works offline.
+- [x] Online: the public repository [Enea-13/talking-back-site](https://github.com/Enea-13/talking-back-site) (GitHub Pages) serves it at https://enea-13.github.io/talking-back-site/privacy, next to the Support page at https://enea-13.github.io/talking-back-site/.
+- [ ] Paste the privacy URL into App Store Connect (App Privacy) and Play Console (App content → Privacy policy), and the Support URL into App Store Connect.
+- [ ] Whenever the policy changes: edit `docs/privacy.md`, update the effective date, copy the file over `privacy.md` in the talking-back-site repository, and push both.
 
 ## 7. Privacy answers
 
@@ -153,7 +160,7 @@ Some entries name sexual temptation, drinking and thoughts of violence, and cris
 > Verses are from the World English Bible and Brenton's English Septuagint, both in the public domain. Talking Back is a companion for prayer, not a substitute for a pastor, a spiritual director or medical care.
 
 **Categories**: App Store: Reference (secondary: Lifestyle). Google Play: Books & Reference.
-**Support URL** (required by Apple): e.g. `https://github.com/Enea-13/talking-back`, or a page beside the privacy policy.
+**Support URL** (required by Apple): https://enea-13.github.io/talking-back-site/
 **Copyright**: © 2026 [your name]
 **Content rights** (Apple asks): the app shows third-party content you have the right to use: public-domain Bible texts, a public-domain painting from the National Gallery of Art's open access program, and Literata under the SIL Open Font License.
 

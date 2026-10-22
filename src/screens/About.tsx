@@ -88,7 +88,8 @@ export function About() {
         </p>
         <p>Text is set in Literata, by the Literata Project Authors (SIL Open Font License).</p>
         <p>
-          This app is a companion for prayer, not a substitute for a pastor, a spiritual director or medical care. Everything stays on your device.
+          This app is a companion for prayer, not a substitute for a pastor, a spiritual director or medical care. Everything stays on your device: see the{' '}
+          <a href={href.privacy()}>privacy policy</a>.
         </p>
       </main>
     </>

@@ -4,12 +4,14 @@ import { useEffect, useState } from 'preact/hooks';
 //   #/                home        #/search/<q>   home with a query
 //   #/t/<thought>     thought     #/e/<entry>    response card
 //   #/saved           saved       #/about        about
+//   #/privacy         privacy policy
 export type Route =
   | { name: 'home'; q: string }
   | { name: 'thought'; id: string }
   | { name: 'entry'; id: string }
   | { name: 'saved' }
-  | { name: 'about' };
+  | { name: 'about' }
+  | { name: 'privacy' };
 
 export function parse(hash: string): Route {
   const [, a = '', b = ''] = hash.replace(/^#/, '').split('/');
@@ -18,6 +20,7 @@ export function parse(hash: string): Route {
   if (a === 'e' && arg) return { name: 'entry', id: arg };
   if (a === 'saved') return { name: 'saved' };
   if (a === 'about') return { name: 'about' };
+  if (a === 'privacy') return { name: 'privacy' };
   if (a === 'search') return { name: 'home', q: arg };
   return { name: 'home', q: '' };
 }
@@ -29,6 +32,7 @@ export const href = {
   entry: (id: string) => `#/e/${id}`,
   saved: () => '#/saved',
   about: () => '#/about',
+  privacy: () => '#/privacy',
 };
 
 // Hashes visited in this session, so Back knows whether the previous page is

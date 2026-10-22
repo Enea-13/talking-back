@@ -4,6 +4,7 @@ import { Thought } from './screens/Thought';
 import { Entry } from './screens/Entry';
 import { Saved } from './screens/Saved';
 import { About } from './screens/About';
+import { Privacy } from './screens/Privacy';
 
 export function App() {
   const route = useRoute();
@@ -16,6 +17,8 @@ export function App() {
       return <Saved />;
     case 'about':
       return <About />;
+    case 'privacy':
+      return <Privacy />;
     default:
       // Typing replaces the URL without a hashchange, so this only remounts on real navigation.
       return <Home key={route.q} initialQuery={route.q} />;
