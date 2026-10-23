@@ -3,6 +3,11 @@ import { useLargeText, useTheme, type Theme } from '../lib/storage';
 import { TopBar } from '../components/parts';
 import painting from '../assets/art/temptation-of-christ.jpg';
 
+// Set VITE_FEEDBACK_URL (an https form link) in the hosting settings to show the
+// feedback section; builds without it, such as the store apps, leave it out.
+const rawFeedback = (import.meta.env.VITE_FEEDBACK_URL ?? '').trim();
+const FEEDBACK_URL = /^https:\/\//.test(rawFeedback) ? rawFeedback : '';
+
 const THEMES: [Theme, string][] = [
   ['auto', 'Automatic'],
   ['light', 'Light'],
@@ -69,6 +74,19 @@ export function About() {
           <input type="checkbox" checked={large} onChange={(ev) => setLarge((ev.target as HTMLInputElement).checked)} />
           <span>Larger text</span>
         </label>
+
+        {FEEDBACK_URL && (
+          <>
+            <h2>Feedback</h2>
+            <p>
+              This is a test version. Tell us what helped, what was confusing, and any verse or wording that seems wrong.{' '}
+              <a href={FEEDBACK_URL} target="_blank" rel="noopener">
+                Send feedback
+              </a>
+              .
+            </p>
+          </>
+        )}
 
         <h2>Sources</h2>
         <p>

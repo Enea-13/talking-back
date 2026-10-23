@@ -44,6 +44,15 @@ node scripts/build-data.mjs --reading <work>/reading.txt
 
 `reading.txt` and `review.txt` contain the copyrighted translation and must stay outside this folder. They are used only to match verse references, and by the build’s copyright check, which fails if any modern wording shares an 8-word run with the translation.
 
+## Deploying the web app (Vercel)
+
+`vercel.json` makes Vercel run `npm run build:web`, which skips the data step: `data/entries.json` is committed, and the Bible texts it is built from live only in the local `.cache`.
+
+- **Testing phase:** every page is sent with `X-Robots-Tag: noindex, nofollow`, so search engines leave the site alone. Delete that header rule from `vercel.json` when the app launches publicly.
+- **Feedback link:** set `VITE_FEEDBACK_URL` (an https form link) in the Vercel project's Environment Variables, then redeploy. The About page then shows a Feedback section. Builds without it, such as the store apps, leave it out.
+- **Updates:** `sw.js` is never cached by the CDN, so testers pick up each new deploy when they reopen the app.
+- **Plan:** Vercel’s free Hobby plan covers personal, non-commercial projects (donation links are fine). Paid apps, in-app purchases or ads need Vercel Pro or another host.
+
 ## Sources
 
 - Verses: *World English Bible* (US, “LORD” edition), public domain.
