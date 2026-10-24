@@ -72,4 +72,4 @@ node scripts/build-data.mjs --reading <work>/reading.txt
 
 ## License
 
-Copyright © 2026 Enea-13. All rights reserved. The source is public to read and learn from, but please ask before reusing the code or the written entries in `data/authoring/`. The verses, painting and typeface listed under Sources keep their own public-domain or open licenses.
+Copyright © 2026 Enea-13. All rights reserved. The source is public to read and learn from, but please ask before reusing the code or the written entries in `data/authoring/`. The verses, painting and typeface listed under Sources keep their own public-domain or open licenses. Full terms: [LICENSE](LICENSE).

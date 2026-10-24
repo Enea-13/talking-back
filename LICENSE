@@ -1,0 +1,17 @@
+Copyright © 2026 Enea-13. All rights reserved.
+
+The source code, the written entries in data/authoring/ and the other original
+content in this repository are public to read and learn from. No permission is
+granted to copy, modify, distribute or publish them, in whole or in part,
+without the author's written consent. To ask, contact Enea-13 on GitHub
+(https://github.com/Enea-13).
+
+Third-party material keeps its own terms:
+
+- World English Bible (verse text): public domain.
+- Brenton's English Septuagint (1851): public domain.
+- Juan de Flandes, The Temptation of Christ (src/assets/art/): public domain,
+  from the National Gallery of Art's open-access images.
+- Literata typeface (src/assets/fonts/): SIL Open Font License 1.1, see
+  src/assets/fonts/OFL-Literata.txt.
+- npm dependencies: their own licenses.
