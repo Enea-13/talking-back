@@ -7,3 +7,4 @@ dist
 *.jks
 *.keystore
 keystore.properties
+.DS_Store

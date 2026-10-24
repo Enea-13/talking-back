@@ -2,6 +2,14 @@
 
 A phone-first web app inspired by Evagrius of Pontus’s *Talking Back*: recognize the thought, and get a Bible verse to answer it within seconds. It works offline and can be installed to the home screen.
 
+**Try it:** [talking-back.vercel.app](https://talking-back.vercel.app) (testing build)
+
+<p align="center">
+  <img src="docs/screenshots/home.png" width="240" alt="Home: a search box, quick chips (anxious, tempted, angry, afraid) and the eight thoughts as a ladder">
+  <img src="docs/screenshots/search.png" width="240" alt="Search for “anger”: 30 responses, each a thought in the first person with its verse reference">
+  <img src="docs/screenshots/response.png" width="240" alt="Response card: the thought “I want to be righteous, but I snap at people” answered with James 1:19–20, with Save, Speak it back and Share">
+</p>
+
 ```bash
 npm install
 npm run dev        # http://localhost:5173
@@ -61,3 +69,7 @@ node scripts/build-data.mjs --reading <work>/reading.txt
 - Painting (About screen): Juan de Flandes, *The Temptation of Christ*, c. 1500–1504, National Gallery of Art, Washington, accession 1967.7.1. Public domain, from the NGA’s open-access images (free for any use). `src/assets/art/` holds a 600 px copy.
 - Crisis lines in `src/lib/care.ts` were checked in October 2026; recheck them before each store release.
 - Entry numbering follows David Brakke’s translation, *Talking Back* (Liturgical Press, 2009). The app’s situations are original modern wording, not quotations.
+
+## License
+
+Copyright © 2026 Enea-13. All rights reserved. The source is public to read and learn from, but please ask before reusing the code or the written entries in `data/authoring/`. The verses, painting and typeface listed under Sources keep their own public-domain or open licenses.
