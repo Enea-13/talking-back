@@ -18,7 +18,7 @@ npm run build      # rebuilds data/entries.json, type-checks, writes dist/
 
 ## iOS and Android apps
 
-`ios/` and `android/` are [Capacitor](https://capacitorjs.com) projects that bundle the same build, so the apps work offline. Native touches (share sheet, text-to-speech, haptics, status bar, splash) live in `src/lib/native.ts` and `src/lib/speak.ts`; on the web they fall back to the browser's own.
+`ios/` and `android/` are [Capacitor](https://capacitorjs.com) projects that bundle the same build, so the apps work offline. Native touches (share sheet, haptics, status bar, splash) live in `src/lib/native.ts`; on the web they fall back to the browser's own.
 
 ```bash
 npm run sync           # build, then copy dist/ into both native projects
@@ -31,7 +31,7 @@ Setup, testing and store submission: [docs/store-release.md](docs/store-release.
 
 ## Data
 
-`data/entries.json` is the single file the app reads, and the contract a future iOS app will reuse. It is generated; don’t edit it by hand.
+`data/entries.json` is the single file the app reads its entries from (the recordings are [below](#speak-it-back-recordings)), and the contract a future iOS app will reuse. It is generated; don’t edit it by hand.
 
 | File | What it holds |
 | --- | --- |
@@ -52,6 +52,19 @@ node scripts/build-data.mjs --reading <work>/reading.txt
 
 `reading.txt` and `review.txt` contain the copyrighted translation and must stay outside this folder. They are used only to match verse references, and by the build’s copyright check, which fails if any modern wording shares an 8-word run with the translation.
 
+## Speak it back recordings
+
+Each response’s verses are recorded ahead of time with [Kokoro](https://huggingface.co/hexgrad/Kokoro-82M), an open speech model, and ship with the app: `public/audio/<key>.m4a` (32 kbps AAC, about 23 MB and 86 minutes in all) and `data/audio.json`, which gives each entry its clip and the time each word starts, so the words light up as they are read. `src/lib/speak.ts` plays them.
+
+```bash
+brew install uv    # once: runs the recorder in its own Python, with the versions in scripts/audio/uv.lock
+npm run audio      # records new or changed readings only, and deletes clips nothing uses
+```
+
+It needs macOS (it encodes with `afconvert`), downloads the model (about 320 MB) on its first run, and records the whole book in about 10 minutes on an M4 Mac. `npm run build` stops if a reading has no recording, or one made from older wording or an older `voice.json`.
+
+`scripts/audio/voice.json` holds the voice (George, British), its speed, and `say`, the words Kokoro gets wrong spelled as a pronunciation guide would (`"Nahash": "NAY-hash"`, the stressed part in capitals; IPA between slashes for the odd one that spelling can’t reach). After each run the recorder lists the words it had to guess, which are the ones to listen for.
+
 ## Deploying the web app (Vercel)
 
 `vercel.json` makes Vercel run `npm run build:web`, which skips the data step: `data/entries.json` is committed, and the Bible texts it is built from live only in the local `.cache`.
@@ -66,10 +79,11 @@ node scripts/build-data.mjs --reading <work>/reading.txt
 - Verses: *World English Bible* (US, “LORD” edition), public domain.
 - Greek Old Testament wording: Brenton’s English Septuagint (1851), public domain.
 - Typeface: Literata (Latin subset, `src/assets/fonts/`), SIL Open Font License.
+- Voice (Speak it back): Kokoro-82M by hexgrad, voice `bm_george`, Apache License 2.0.
 - Painting (About screen): Juan de Flandes, *The Temptation of Christ*, c. 1500–1504, National Gallery of Art, Washington, accession 1967.7.1. Public domain, from the NGA’s open-access images (free for any use). `src/assets/art/` holds a 600 px copy.
 - Crisis lines in `src/lib/care.ts` were checked in October 2026; recheck them before each store release.
 - Entry numbering follows David Brakke’s translation, *Talking Back* (Liturgical Press, 2009). The app’s situations are original modern wording, not quotations.
 
 ## License
 
-Copyright © 2026 Enea-13. All rights reserved. The source is public to read and learn from, but please ask before reusing the code or the written entries in `data/authoring/`. The verses, painting and typeface listed under Sources keep their own public-domain or open licenses. Full terms: [LICENSE](LICENSE).
+Copyright © 2026 Enea-13. All rights reserved. The source is public to read and learn from, but please ask before reusing the code or the written entries in `data/authoring/`. The verses, painting, typeface and voice model listed under Sources keep their own public-domain or open licenses. Full terms: [LICENSE](LICENSE).

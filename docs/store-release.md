@@ -66,14 +66,13 @@ Known cosmetic issue: with the theme set to Light in About while the iPhone itse
 - [ ] Launch in light mode, then in dark mode: the splash should match, with no white flash, and the status bar text should be readable.
 - [ ] About → Appearance: choosing Light or Dark switches the status bar text (and the Android navigation bar) with the page.
 - [ ] Search for a thought, then open a response card.
-- [ ] **Speak it back** reads the verse; **Stop** stops it. On Android each word lights up as it is read. The iOS voice plugin doesn't report word positions, so on iOS the verse is read without highlighting.
+- [ ] **Speak it back** plays the verse's recording (George's voice), with each word lighting up as it is read; **Stop** stops it, and so does leaving the card. It plays in airplane mode too.
 - [ ] **Save** gives a light tap (real devices only; Simulators have no haptics), and the entry shows up under Saved after a relaunch.
 - [ ] **Share** opens the system share sheet with the verse text and no `capacitor://` or `localhost` link.
 - [ ] Search "suicide": the crisis panel appears. **Call 988** (or your country's line) opens the dialer: on iPhone, the "Call 988?" prompt (the Simulator has no Phone app, so nothing happens there). **findahelpline.com** opens in Safari or Chrome, not inside the app. Changing the country is remembered.
 - [ ] Offline: turn on airplane mode, force-quit, relaunch. Everything must work, since the app makes no network requests.
 - [ ] Rotate, and try a phone with a notch or Dynamic Island: nothing should sit under the status bar or home indicator.
 - [ ] Android back button/gesture: goes back through pages, and leaves the app from Home.
-- [ ] Android with no English text-to-speech voice: Speak it back resets without an error. If so, install voice data in Settings → Text-to-speech.
 
 ## 4. Developer accounts
 
@@ -183,13 +182,13 @@ Take screenshots from the Simulator (File → Save Screen) and the emulator. Sho
 
 Apple rejects apps that are "just a website in a wrapper." Talking Back is not one: nothing loads from the web, and it uses the phone's own features. Paste this into App Review → Notes:
 
-> Talking Back is a fully offline Christian reference app: 494 tempting thoughts from Evagrius of Pontus's fourth-century handbook, each paired with Bible verses, with search, browsing and a Saved list. All content is bundled; the app makes no network requests and needs no login.
+> Talking Back is a fully offline Christian reference app: 494 tempting thoughts from Evagrius of Pontus's fourth-century handbook, each paired with Bible verses, with search, browsing and a Saved list. All content is bundled, including a recording of every verse ("Speak it back", with each word lit as it is read); the app makes no network requests and needs no login.
 >
-> Native features: on-device text-to-speech ("Speak it back" on any response), the iOS share sheet (Share), haptic feedback when saving, a status bar and launch screen that follow light and dark mode (About → Appearance), and safe-area layout for the Dynamic Island and home indicator.
+> Native features: the iOS share sheet (Share), haptic feedback when saving, a status bar and launch screen that follow light and dark mode (About → Appearance), and safe-area layout for the Dynamic Island and home indicator.
 >
 > Crisis support: searching "suicide" or "self-harm" shows national crisis lines for the user's country (US 988, Canada 9-8-8, UK and Ireland 116 123, Australia 13 11 14, New Zealand 1737), which open the Phone app, plus findahelpline.com for other countries.
 
-The native features are in `src/lib/native.ts` (share, haptics, status bar, splash) and `src/lib/speak.ts` (text-to-speech).
+The native features are in `src/lib/native.ts` (share, haptics, status bar, splash); the recordings play from `src/lib/speak.ts`.
 
 ## 12. Before every release
 

@@ -1,6 +1,6 @@
 # Privacy policy
 
-*Effective 22 October 2026*
+*Effective 24 October 2026*
 
 Talking Back is a free app for iPhone, iPad and Android, made by Enea-13. This policy explains what the app does with your information. In short: nothing you do in the app leaves your device.
 
@@ -22,7 +22,7 @@ When you first open a crisis panel, the app suggests a country based on your dev
 
 ## Reading aloud
 
-“Speak it back” hands the verse to your device’s own text-to-speech engine (on Android, the one chosen in your settings, usually Google’s). The app itself sends the text nowhere; the engine works under its own settings.
+“Speak it back” plays a recording of the verse that comes built into the app. Nothing is sent anywhere to play it.
 
 ## Sharing, phone numbers and links
 

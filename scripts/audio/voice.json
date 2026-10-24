@@ -1,0 +1,23 @@
+{
+  "voice": "bm_george",
+  "lang": "b",
+  "speed": 0.92,
+  "say": {
+    "Abiezer": "ay-bye-EE-zer",
+    "Abinoam": "a-BIN-oh-am",
+    "Amalec": "AM-a-leck",
+    "Amon": "AY-monn",
+    "Eleazar": "el-ee-AY-zer",
+    "Ephraim": "EE-fray-imm",
+    "Hivite": "HIGH-vite",
+    "Jeshurun": "JESH-uh-run",
+    "Joash": "JOE-ash",
+    "Micaiah": "my-KAY-uh",
+    "Naboth": "/nˈAbɒθ/",
+    "Nahash": "NAY-hash",
+    "Nechao": "NEE-kay-oh",
+    "Perizzite": "PERRY-zite",
+    "Pharao": "FAIR-roh",
+    "Sisera": "/sˈɪsəɹə/"
+  }
+}

@@ -105,6 +105,7 @@ export function About() {
           of Art, Washington (public domain).
         </p>
         <p>Text is set in Literata, by the Literata Project Authors (SIL Open Font License).</p>
+        <p>Speak it back is read by the “George” voice of Kokoro, an open speech model by hexgrad (Apache License 2.0).</p>
         <p>
           This app is a companion for prayer, not a substitute for a pastor, a spiritual director or medical care. Everything stays on your device: see the{' '}
           <a href={href.privacy()}>privacy policy</a>.

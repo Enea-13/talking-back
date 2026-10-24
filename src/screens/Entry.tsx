@@ -2,7 +2,7 @@ import { useMemo, useState } from 'preact/hooks';
 import { entryById, thoughtById, clusterTitle, mainVerses, altVerses, nextInCluster, roman, KIND_LABEL } from '../lib/data';
 import { href } from '../lib/router';
 import { toggleSaved, useSaved } from '../lib/storage';
-import { canSpeak, useSpeech } from '../lib/speak';
+import { clipFor, useSpeech } from '../lib/speak';
 import { isNative, shareNative, tap } from '../lib/native';
 import { TopBar, CarePanel } from '../components/parts';
 import { CARE_ENTRY_IDS } from '../lib/care';
@@ -12,24 +12,17 @@ import * as I from '../components/icons';
 /** LORD and GOD set in small capitals, as English Bibles print them. */
 const smallCaps = (s: string) => s.split(/\b(LORD|GOD)\b/).map((part, i) => (i % 2 ? <span class="sc">{part[0] + part.slice(1).toLowerCase()}</span> : part));
 
-/** Each verse as words, with where each word starts in the text the voice is given. */
-function splitWords(texts: string[]) {
-  let base = 0;
-  return texts.map((t) => {
-    const words = [...t.matchAll(/\S+/g)].map((m) => ({ text: m[0], start: base + m.index! }));
-    base += t.length + 1;
-    return words;
-  });
-}
-
 export function Entry({ id }: { id: string }) {
   const e = entryById.get(id);
   const saved = useSaved();
   const [copied, setCopied] = useState(false);
   const verses = e ? mainVerses(e) : [];
   const spoken = verses.map((v) => v.text).join(' ');
-  const [speaking, toggleSpeech, at] = useSpeech(spoken);
-  const words = useMemo(() => splitWords(verses.map((v) => v.text)), [spoken]);
+  // Each verse as words, split the way the recording's word timings were (scripts/audio/generate.py).
+  const words = useMemo(() => verses.map((v) => v.text.match(/\S+/g) ?? []), [spoken]);
+  const clip = e && clipFor(e.id, words.flat().length);
+  // `now` is the word being spoken, counted across all the verses; -1 before the first.
+  const [speaking, toggleSpeech, now] = useSpeech(clip);
   if (!e) return <NotFound />;
 
   const t = thoughtById.get(e.thought)!;
@@ -37,10 +30,6 @@ export function Entry({ id }: { id: string }) {
   const next = nextInCluster(e);
   const isSaved = saved.includes(e.id);
   const unidentified = !verses.length;
-
-  // The word being spoken, counted across all the verses; -1 until the voice reports one.
-  let now = -1;
-  if (at >= 0) words.flat().forEach((w, i) => w.start <= at && (now = i));
   let counted = 0;
 
   const share = async () => {
@@ -125,7 +114,7 @@ export function Entry({ id }: { id: string }) {
                       const i = from + wi;
                       return (
                         <>
-                          <span class={i === now ? 'w now' : i < now ? 'w said' : 'w'}>{smallCaps(wi === 0 ? w.text.slice(lead.length) : w.text)}</span>
+                          <span class={i === now ? 'w now' : i < now ? 'w said' : 'w'}>{smallCaps(wi === 0 ? w.slice(lead.length) : w)}</span>
                           {wi < ws.length - 1 && ' '}
                         </>
                       );
@@ -138,7 +127,7 @@ export function Entry({ id }: { id: string }) {
           )}
 
           {!unidentified &&
-            (canSpeak ? (
+            (clip ? (
               <div class="speakrow">
                 {save}
                 <button class="speak" onClick={toggleSpeech} aria-pressed={speaking}>

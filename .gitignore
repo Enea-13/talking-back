@@ -1,6 +1,8 @@
 node_modules
 dist
 .cache
+scripts/audio/.venv
+__pycache__
 *.local
 
 # Android signing keys stay out of the repo
