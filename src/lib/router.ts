@@ -35,26 +35,29 @@ export const href = {
   privacy: () => '#/privacy',
 };
 
-// Hashes visited in this session, so Back knows whether the previous page is
-// ours (history.back) or whether to fall back to a sensible parent.
-const stack = [location.hash || '#/'];
+// How many of our pages lie behind this one, so Back knows whether the previous
+// page is ours (history.back) or whether to fall back to a sensible parent. It
+// lives in history.state, which survives a reload (pull-to-refresh, the service
+// worker updating, the phone discarding the tab); a list in memory would not.
+const depth = () => (history.state as { depth?: number } | null)?.depth;
+let here = depth() ?? 0;
+history.replaceState({ depth: here }, '');
 
 /** Update the URL without adding a history step (used while typing a search). */
 export function replace(h: string) {
-  history.replaceState(null, '', h);
-  stack[stack.length - 1] = h;
+  history.replaceState(history.state, '', h);
 }
 
-export const canGoBack = () => stack.length > 1;
+export const canGoBack = () => (depth() ?? 0) > 0;
 
 export function useRoute() {
   const [route, setRoute] = useState(() => parse(location.hash));
   useEffect(() => {
     const on = () => {
-      const h = location.hash || '#/';
-      if (stack.length > 1 && stack[stack.length - 2] === h) stack.pop();
-      else stack.push(h);
-      setRoute(parse(h));
+      // A link adds an entry with no state, one page deeper; Back and Forward land on one already marked.
+      if (depth() === undefined) history.replaceState({ depth: here + 1 }, '');
+      here = depth()!;
+      setRoute(parse(location.hash));
       window.scrollTo(0, 0);
     };
     addEventListener('hashchange', on);
@@ -64,6 +67,9 @@ export function useRoute() {
 }
 
 export function back(fallback: string) {
-  if (canGoBack()) history.back();
-  else location.hash = fallback;
+  if (canGoBack()) return history.back();
+  // Swap this page for its parent rather than stacking the parent on top of it,
+  // or the parent's own Back would return here and the two would bounce.
+  history.replaceState({ depth: 0 }, '', fallback);
+  dispatchEvent(new HashChangeEvent('hashchange'));
 }
