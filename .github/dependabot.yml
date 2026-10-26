@@ -1,0 +1,20 @@
+# Security updates only: open-pull-requests-limit: 0 turns off routine
+# version bumps, while Dependabot security updates (enabled in the repo's
+# Advanced Security settings) still open a PR for each advisory.
+#
+# android/ and ios/ aren't listed: Capacitor generates them, and their
+# native code comes from the @capacitor/* packages that npm covers.
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 0
+
+  # The "Speak it back" recorder, run locally with `npm run audio`.
+  - package-ecosystem: uv
+    directory: /scripts/audio
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 0
